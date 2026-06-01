@@ -1,0 +1,19 @@
+{
+ "name_id": 425,
+ "slug": "andreas-fred",
+ "name": {
+  "vor": "Fred",
+  "nach": "Andreas"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Halle (Saale)",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1980,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

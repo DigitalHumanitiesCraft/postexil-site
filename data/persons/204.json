@@ -1,0 +1,66 @@
+{
+ "name_id": 204,
+ "slug": "freundlich-elisabeth",
+ "name": {
+  "vor": "Elisabeth",
+  "nach": "Freundlich"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 2001,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Montauban",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Princeton",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

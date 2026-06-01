@@ -1,0 +1,53 @@
+{
+ "name_id": 10,
+ "slug": "zwillinger-frank-gerhard",
+ "name": {
+  "vor": "Frank Gerhard",
+  "nach": "Zwillinger"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1989,
+  "ort": "Garches",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Rom",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Saigon",
+   "land": "Vietnam",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

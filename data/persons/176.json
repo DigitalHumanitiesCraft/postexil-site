@@ -1,0 +1,66 @@
+{
+ "name_id": 176,
+ "slug": "burschell-friedrich",
+ "name": {
+  "vor": "Friedrich",
+  "nach": "Burschell"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Ludwigshafen",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1970,
+  "ort": "München",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Mallorca",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Ibiza",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1954,
+   "ort": null,
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch"
+  ]
+ }
+}

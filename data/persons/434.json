@@ -1,0 +1,19 @@
+{
+ "name_id": 434,
+ "slug": "clemen-ursula",
+ "name": {
+  "vor": "Ursula",
+  "nach": "Clemen"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

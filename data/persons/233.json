@@ -1,0 +1,41 @@
+{
+ "name_id": 233,
+ "slug": "schwarz-freimut",
+ "name": {
+  "vor": "Freimut",
+  "nach": "Schwarz"
+ },
+ "geb": {
+  "jahr": 1913,
+  "ort": "Sotterbach",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1994,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

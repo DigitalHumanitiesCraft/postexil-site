@@ -1,0 +1,19 @@
+{
+ "name_id": 511,
+ "slug": "gerlach-hans-egon",
+ "name": {
+  "vor": "Hans Egon",
+  "nach": "Gerlach"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Dresden",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

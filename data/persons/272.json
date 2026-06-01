@@ -1,0 +1,47 @@
+{
+ "name_id": 272,
+ "slug": "linke-lilo",
+ "name": {
+  "vor": "Lilo",
+  "nach": "Linke"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1963,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Panama",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Quito",
+   "land": "Ecuador",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

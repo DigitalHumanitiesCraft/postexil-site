@@ -1,0 +1,19 @@
+{
+ "name_id": 529,
+ "slug": "koch-henny",
+ "name": {
+  "vor": "Henny",
+  "nach": "Koch"
+ },
+ "geb": {
+  "jahr": 1854,
+  "ort": "Alsfeld",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1925,
+  "ort": "Seeheim-Jugenheim",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

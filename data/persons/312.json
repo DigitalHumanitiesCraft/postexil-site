@@ -1,0 +1,43 @@
+{
+ "name_id": 312,
+ "slug": "schrecker-paul",
+ "name": {
+  "vor": "Paul",
+  "nach": "Schrecker"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1963,
+  "ort": "Philadelphia",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch",
+   "Französisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Französisch"
+  ]
+ }
+}

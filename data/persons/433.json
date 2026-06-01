@@ -1,0 +1,19 @@
+{
+ "name_id": 433,
+ "slug": "buhre-werner",
+ "name": {
+  "vor": "Werner",
+  "nach": "Buhre"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

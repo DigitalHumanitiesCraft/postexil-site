@@ -1,0 +1,57 @@
+{
+ "name_id": 374,
+ "slug": "beth-marianne",
+ "name": {
+  "vor": "Marianne",
+  "nach": "Beth"
+ },
+ "geb": {
+  "jahr": 1890,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1984,
+  "ort": "Cresskill",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Portland",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Chicago",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Portland",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Chicago",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch",
+   "Französisch",
+   "Spanisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch"
+  ]
+ }
+}

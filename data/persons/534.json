@@ -1,0 +1,19 @@
+{
+ "name_id": 534,
+ "slug": "lederer-joe",
+ "name": {
+  "vor": "Joe",
+  "nach": "Lederer"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1987,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

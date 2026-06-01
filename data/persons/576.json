@@ -1,0 +1,19 @@
+{
+ "name_id": 576,
+ "slug": "von-strauss-und-torney-lulu",
+ "name": {
+  "vor": "Lulu",
+  "nach": "von Strauß und Torney"
+ },
+ "geb": {
+  "jahr": 1873,
+  "ort": "Bückeburg",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1956,
+  "ort": "Jena",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

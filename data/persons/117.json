@@ -1,0 +1,65 @@
+{
+ "name_id": 117,
+ "slug": "liepman-heinz",
+ "name": {
+  "vor": "Heinz",
+  "nach": "Liepman"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Osnabrück",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1966,
+  "ort": "Agarone",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": null,
+   "land": "Niederlande",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": null,
+   "land": "Deutschland",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": 1961,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 327,
+ "slug": "wuesten-johannes",
+ "name": {
+  "vor": "Johannes",
+  "nach": "Wüsten"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Heidelberg",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1943,
+  "ort": "Brandenburg an der Havel",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

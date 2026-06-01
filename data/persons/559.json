@@ -1,0 +1,19 @@
+{
+ "name_id": 559,
+ "slug": "schmidt-schuett-margarete",
+ "name": {
+  "vor": "Margarete",
+  "nach": "Schmidt-Schütt"
+ },
+ "geb": {
+  "jahr": 1893,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

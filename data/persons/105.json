@@ -1,0 +1,36 @@
+{
+ "name_id": 105,
+ "slug": "einstein-siegfried",
+ "name": {
+  "vor": "Siegfried",
+  "nach": "Einstein"
+ },
+ "geb": {
+  "jahr": 1919,
+  "ort": "Laupheim",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1983,
+  "ort": "Mannheim",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "St. Gallen",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Russisch"
+  ]
+ }
+}

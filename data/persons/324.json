@@ -1,0 +1,19 @@
+{
+ "name_id": 324,
+ "slug": "kesten-hermann",
+ "name": {
+  "vor": "Hermann",
+  "nach": "Kesten"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Pidwolotschysk",
+  "land": "Ukraine"
+ },
+ "tod": {
+  "jahr": 1996,
+  "ort": "Basel",
+  "land": "Schweiz"
+ },
+ "gold": false
+}

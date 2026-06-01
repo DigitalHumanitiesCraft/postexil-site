@@ -1,0 +1,47 @@
+{
+ "name_id": 217,
+ "slug": "newland-ernest",
+ "name": {
+  "vor": "Ernest",
+  "nach": "Newland"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Breslau",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Auckland",
+  "land": "Neuseeland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Palästina",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Wellington",
+   "land": "Neuseeland",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Italienisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 325,
+ "slug": "goll-claire",
+ "name": {
+  "vor": "Claire",
+  "nach": "Goll"
+ },
+ "geb": {
+  "jahr": 1890,
+  "ort": "Nürnberg",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1977,
+  "ort": "Paris",
+  "land": "Frankreich"
+ },
+ "gold": false
+}

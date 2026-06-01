@@ -1,0 +1,66 @@
+{
+ "name_id": 171,
+ "slug": "domin-hilde",
+ "name": {
+  "vor": "Hilde",
+  "nach": "Domin"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "Köln",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2006,
+  "ort": "Heidelberg",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1932,
+   "ort": "Florenz",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Kanada",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Dominikanische Republik",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1954,
+   "ort": null,
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Italienisch"
+  ],
+  "a": [
+   "Italienisch",
+   "Französisch",
+   "Englisch",
+   "Spanisch",
+   "Latein",
+   "Altgriechisch",
+   "Hebräisch"
+  ]
+ }
+}

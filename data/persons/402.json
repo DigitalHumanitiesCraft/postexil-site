@@ -1,0 +1,41 @@
+{
+ "name_id": 402,
+ "slug": "mayer-paul",
+ "name": {
+  "vor": "Paul",
+  "nach": "Mayer"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Köln",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1970,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Mexico City",
+   "land": "Mexiko",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1955,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

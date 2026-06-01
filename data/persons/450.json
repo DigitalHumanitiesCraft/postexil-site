@@ -1,0 +1,19 @@
+{
+ "name_id": 450,
+ "slug": "wagenseil-hans-beppo",
+ "name": {
+  "vor": "Hans Beppo",
+  "nach": "Wagenseil"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

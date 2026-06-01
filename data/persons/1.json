@@ -1,0 +1,48 @@
+{
+ "name_id": 1,
+ "slug": "walden-ellen",
+ "name": {
+  "vor": "Ellen",
+  "nach": "Walden"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "München",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1932,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Berlin",
+   "land": "Deutsches Reich",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": 1949,
+   "ort": "München",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Russisch"
+  ]
+ }
+}

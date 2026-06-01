@@ -1,0 +1,19 @@
+{
+ "name_id": 539,
+ "slug": "lyn-ursula",
+ "name": {
+  "vor": "Ursula",
+  "nach": "Lyn"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

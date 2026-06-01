@@ -1,0 +1,41 @@
+{
+ "name_id": 266,
+ "slug": "auerbach-kaethe",
+ "name": {
+  "vor": "Käthe",
+  "nach": "Auerbach"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Amsterdam",
+   "land": "Niederlande",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Niederländisch"
+  ]
+ }
+}

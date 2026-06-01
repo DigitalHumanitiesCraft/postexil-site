@@ -1,0 +1,19 @@
+{
+ "name_id": 471,
+ "slug": "kranz-heinrich-bernhard",
+ "name": {
+  "vor": "Heinrich Bernhard",
+  "nach": "Kranz"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

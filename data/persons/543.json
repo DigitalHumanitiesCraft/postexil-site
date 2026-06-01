@@ -1,0 +1,19 @@
+{
+ "name_id": 543,
+ "slug": "mueller-sternberg-robert",
+ "name": {
+  "vor": "Robert",
+  "nach": "Müller-Sternberg"
+ },
+ "geb": {
+  "jahr": 1916,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

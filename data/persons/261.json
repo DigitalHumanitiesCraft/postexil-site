@@ -1,0 +1,59 @@
+{
+ "name_id": 261,
+ "slug": "simon-rudolf",
+ "name": {
+  "vor": "Rudolf",
+  "nach": "Simon"
+ },
+ "geb": {
+  "jahr": 1913,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": null,
+   "land": "Brasilien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1956,
+   "ort": "San Francisco",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Spanisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 490,
+ "slug": "becker-rolly",
+ "name": {
+  "vor": "Rolly",
+  "nach": "Becker"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Baden-Baden",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

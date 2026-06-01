@@ -1,0 +1,53 @@
+{
+ "name_id": 307,
+ "slug": "katz-otto",
+ "name": {
+  "vor": "Otto",
+  "nach": "Katz"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Jistebnitz",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1952,
+  "ort": "Prag",
+  "land": "Tschechoslowakei"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Mexiko",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Tschechisch"
+  ]
+ }
+}

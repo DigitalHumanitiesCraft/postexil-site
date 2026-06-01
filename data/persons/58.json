@@ -1,0 +1,42 @@
+{
+ "name_id": 58,
+ "slug": "wellwarth-georg",
+ "name": {
+  "vor": "Georg",
+  "nach": "Wellwarth"
+ },
+ "geb": {
+  "jahr": 1932,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 2001,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Französisch"
+  ]
+ }
+}

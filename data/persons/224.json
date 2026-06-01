@@ -1,0 +1,55 @@
+{
+ "name_id": 224,
+ "slug": "geisel-eva",
+ "name": {
+  "vor": "Eva",
+  "nach": "Geisel"
+ },
+ "geb": {
+  "jahr": 1912,
+  "ort": "Barnes",
+  "land": "Großbritannien"
+ },
+ "tod": {
+  "jahr": 1987,
+  "ort": "Scharten",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": null,
+   "land": "Kanada",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1960,
+   "ort": "Frankfurt/M.",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch"
+  ]
+ }
+}

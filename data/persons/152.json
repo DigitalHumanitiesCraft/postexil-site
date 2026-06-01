@@ -1,0 +1,39 @@
+{
+ "name_id": 152,
+ "slug": "masson-irmalotte",
+ "name": {
+  "vor": "Irmalotte",
+  "nach": "Masson"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "Danzig",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1986,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": "Genf",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

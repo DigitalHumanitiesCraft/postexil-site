@@ -1,0 +1,19 @@
+{
+ "name_id": 444,
+ "slug": "trent-thomas",
+ "name": {
+  "vor": "Thomas",
+  "nach": "Trent"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

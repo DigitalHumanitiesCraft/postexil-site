@@ -1,0 +1,19 @@
+{
+ "name_id": 570,
+ "slug": "wagner-martha-von",
+ "name": {
+  "vor": "Martha von",
+  "nach": "Wagner"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Riga",
+  "land": "Lettland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

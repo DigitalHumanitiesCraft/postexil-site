@@ -1,0 +1,54 @@
+{
+ "name_id": 341,
+ "slug": "bruegel-fritz",
+ "name": {
+  "vor": "Fritz",
+  "nach": "Brügel"
+ },
+ "geb": {
+  "jahr": 1897,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1955,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Südfrankreich",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Altgriechisch",
+   "Russisch"
+  ]
+ }
+}

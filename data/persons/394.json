@@ -1,0 +1,53 @@
+{
+ "name_id": 394,
+ "slug": "bobek-gertrud",
+ "name": {
+  "vor": "Gertrud",
+  "nach": "Bobek"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Bingen",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2000,
+  "ort": "Bautzen",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Alma-Ata",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1944,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Bautzen",
+   "land": "SBZ",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

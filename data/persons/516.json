@@ -1,0 +1,19 @@
+{
+ "name_id": 516,
+ "slug": "hardenberg-henriette",
+ "name": {
+  "vor": "Henriette",
+  "nach": "Hardenberg"
+ },
+ "geb": {
+  "jahr": 1894,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1993,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false
+}

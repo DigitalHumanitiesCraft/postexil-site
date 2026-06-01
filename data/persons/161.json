@@ -1,0 +1,39 @@
+{
+ "name_id": 161,
+ "slug": "je-ower-ignaz",
+ "name": {
+  "vor": "Ignaz",
+  "nach": "Ježower"
+ },
+ "geb": {
+  "jahr": 1878,
+  "ort": "Rzeszów",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1942,
+  "ort": "Riga",
+  "land": "RK Ostland (RKO)"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": "Berlin",
+   "land": "Deutsches Reich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Riga",
+   "land": "RK Ostland (RKO)",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Italienisch"
+  ]
+ }
+}

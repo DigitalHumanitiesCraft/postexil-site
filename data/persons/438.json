@@ -1,0 +1,19 @@
+{
+ "name_id": 438,
+ "slug": "mathi-maria",
+ "name": {
+  "vor": "Maria",
+  "nach": "Mathi"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Hadamar",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1961,
+  "ort": "Heiligenberg",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

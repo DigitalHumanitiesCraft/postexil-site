@@ -1,0 +1,54 @@
+{
+ "name_id": 52,
+ "slug": "walter-friedrich",
+ "name": {
+  "vor": "Friedrich",
+  "nach": "Walter"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Elberfeld",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1989,
+  "ort": "Greater London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Commercy",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Neufchâteau",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

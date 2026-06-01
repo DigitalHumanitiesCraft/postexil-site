@@ -1,0 +1,27 @@
+{
+ "name_id": 222,
+ "slug": "eisler-fischer-louise",
+ "name": {
+  "vor": "Louise",
+  "nach": "Eisler-Fischer"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1998,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

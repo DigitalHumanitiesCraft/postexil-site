@@ -1,0 +1,19 @@
+{
+ "name_id": 530,
+ "slug": "kraushaar-richard",
+ "name": {
+  "vor": "Richard",
+  "nach": "Kraushaar"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

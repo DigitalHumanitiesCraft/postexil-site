@@ -1,0 +1,19 @@
+{
+ "name_id": 416,
+ "slug": "rothe-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Rothe"
+ },
+ "geb": {
+  "jahr": 1894,
+  "ort": "Meißen",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1977,
+  "ort": "Florenz",
+  "land": "Italien"
+ },
+ "gold": false
+}

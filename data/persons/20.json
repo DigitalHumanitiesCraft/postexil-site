@@ -1,0 +1,49 @@
+{
+ "name_id": 20,
+ "slug": "zerner-elisabeth-henriette",
+ "name": {
+  "vor": "Elisabeth Henriette",
+  "nach": "Zerner"
+ },
+ "geb": {
+  "jahr": 1903,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Montluel",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Französisch"
+  ],
+  "a": [
+   "Französisch",
+   "Deutsch"
+  ]
+ }
+}

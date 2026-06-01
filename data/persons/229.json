@@ -1,0 +1,37 @@
+{
+ "name_id": 229,
+ "slug": "frenk-westheim-mariana",
+ "name": {
+  "vor": "Mariana",
+  "nach": "Frenk-Westheim"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Hamburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2004,
+  "ort": "Mexiko-Stadt",
+  "land": "Mexiko"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1930,
+   "ort": "Mexiko-Stadt",
+   "land": "Mexiko",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Spanisch"
+  ],
+  "a": [
+   "Spanisch",
+   "Deutsch"
+  ]
+ }
+}

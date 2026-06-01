@@ -1,0 +1,49 @@
+{
+ "name_id": 107,
+ "slug": "hermlin-stephan",
+ "name": {
+  "vor": "Stephan",
+  "nach": "Hermlin"
+ },
+ "geb": {
+  "jahr": 1915,
+  "ort": "Chemnitz",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1997,
+  "ort": "Berlin",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": null,
+   "land": "Palästina",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Spanisch",
+   "Englisch"
+  ]
+ }
+}

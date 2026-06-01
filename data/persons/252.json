@@ -1,0 +1,27 @@
+{
+ "name_id": 252,
+ "slug": "benzion-alexander",
+ "name": {
+  "vor": "Alexander",
+  "nach": "Benzion"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

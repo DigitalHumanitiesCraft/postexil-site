@@ -1,0 +1,44 @@
+{
+ "name_id": 9,
+ "slug": "lohan-robert",
+ "name": {
+  "vor": "Robert",
+  "nach": "Lohan"
+ },
+ "geb": {
+  "jahr": 1884,
+  "ort": "Bielitz",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1953,
+  "ort": "Oneonta",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Reading",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Englisch",
+   "Deutsch",
+   "Französisch"
+  ]
+ }
+}

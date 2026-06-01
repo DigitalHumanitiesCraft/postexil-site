@@ -1,0 +1,48 @@
+{
+ "name_id": 318,
+ "slug": "otten-ellen",
+ "name": {
+  "vor": "Ellen",
+  "nach": "Otten"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1999,
+  "ort": "Minusio",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Mallorca",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Jiddisch"
+  ]
+ }
+}

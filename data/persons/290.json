@@ -1,0 +1,47 @@
+{
+ "name_id": 290,
+ "slug": "darmstaedter-friedrich",
+ "name": {
+  "vor": "Friedrich",
+  "nach": "Darmstaedter"
+ },
+ "geb": {
+  "jahr": 1883,
+  "ort": "Mannheim",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1957,
+  "ort": "Heidelberg",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": "Rom",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1951,
+   "ort": null,
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Italienisch"
+  ]
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "name_id": 55,
+ "slug": "weiskopf-grete",
+ "name": {
+  "vor": "Grete",
+  "nach": "Weiskopf"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Salzburg",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1966,
+  "ort": "Saalfeld",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1949,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1949,
+   "ort": "Washington D.C.",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1949,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": null,
+   "land": "Volksrepublik China",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1953,
+   "ort": "Berlin (Ost)",
+   "land": "DDR",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch",
+   "Russisch",
+   "Chinesisch"
+  ]
+ }
+}

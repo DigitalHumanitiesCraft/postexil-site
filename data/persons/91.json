@@ -1,0 +1,47 @@
+{
+ "name_id": 91,
+ "slug": "helwig-werner",
+ "name": {
+  "vor": "Werner",
+  "nach": "Helwig"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Friedenau",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1985,
+  "ort": "Thônex",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": null,
+   "land": "Liechtenstein",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": "Genf",
+   "land": "Schweiz",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Chinesisch",
+   "Japanisch",
+   "Russisch"
+  ]
+ }
+}

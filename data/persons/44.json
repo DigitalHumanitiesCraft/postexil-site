@@ -1,0 +1,50 @@
+{
+ "name_id": 44,
+ "slug": "schoenwiese-ernst",
+ "name": {
+  "vor": "Ernst",
+  "nach": "Schönwiese"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1991,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Budapest",
+   "land": "Ungarn",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1944,
+   "ort": null,
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": null,
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Flämisch",
+   "Spanisch",
+   "Französisch"
+  ]
+ }
+}

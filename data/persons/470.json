@@ -1,0 +1,19 @@
+{
+ "name_id": 470,
+ "slug": "kleineibst-richard",
+ "name": {
+  "vor": "Richard",
+  "nach": "Kleineibst"
+ },
+ "geb": {
+  "jahr": 1886,
+  "ort": "Weilburg",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1976,
+  "ort": "Kilchberg",
+  "land": "Schweiz"
+ },
+ "gold": false
+}

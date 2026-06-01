@@ -1,0 +1,47 @@
+{
+ "name_id": 396,
+ "slug": "eisner-lotte",
+ "name": {
+  "vor": "Lotte",
+  "nach": "Eisner"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1983,
+  "ort": "Garches",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "KZ Gurs",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Garches",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

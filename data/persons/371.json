@@ -1,0 +1,42 @@
+{
+ "name_id": 371,
+ "slug": "borchardt-elisabeth",
+ "name": {
+  "vor": "Elisabeth",
+  "nach": "Borchardt"
+ },
+ "geb": {
+  "jahr": 1911,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2000,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Berlin",
+   "land": "SBZ",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Tschechisch",
+   "Slowakisch"
+  ]
+ }
+}

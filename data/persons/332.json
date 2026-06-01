@@ -1,0 +1,46 @@
+{
+ "name_id": 332,
+ "slug": "marckwort-gustav",
+ "name": {
+  "vor": "Gustav",
+  "nach": "Marckwort"
+ },
+ "geb": {
+  "jahr": 1890,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": 1974,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Viipuri",
+   "land": "Finnland",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Helsinki",
+   "land": "Finnland",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Finnisch"
+  ],
+  "a": [
+   "Finnisch",
+   "Katalanisch",
+   "Lettisch",
+   "Spanisch",
+   "Malaiisch"
+  ]
+ }
+}

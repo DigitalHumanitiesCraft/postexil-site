@@ -1,0 +1,19 @@
+{
+ "name_id": 414,
+ "slug": "mann-leonie",
+ "name": {
+  "vor": "Leonie",
+  "nach": "Mann"
+ },
+ "geb": {
+  "jahr": 1916,
+  "ort": "München",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1986,
+  "ort": "Berlin",
+  "land": "DDR"
+ },
+ "gold": false
+}

@@ -1,0 +1,43 @@
+{
+ "name_id": 200,
+ "slug": "kahn-harry",
+ "name": {
+  "vor": "Harry",
+  "nach": "Kahn"
+ },
+ "geb": {
+  "jahr": 1883,
+  "ort": "Mainz",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1970,
+  "ort": "Massagno",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Winterthur",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch",
+   "Italienisch"
+  ]
+ }
+}

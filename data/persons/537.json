@@ -1,0 +1,19 @@
+{
+ "name_id": 537,
+ "slug": "lobedan-helene",
+ "name": {
+  "vor": "Helene",
+  "nach": "Lobedan"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

@@ -1,0 +1,51 @@
+{
+ "name_id": 93,
+ "slug": "jahnn-hans-henny",
+ "name": {
+  "vor": "Hans Henny",
+  "nach": "Jahnn"
+ },
+ "geb": {
+  "jahr": 1894,
+  "ort": "Stellingen",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1959,
+  "ort": "Hamburg",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1915,
+   "ort": "Aurland",
+   "land": "Norwegen",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1918,
+   "ort": "Hamburg",
+   "land": "Deutsches Reich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Bornholm",
+   "land": "Dänemark",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": "Hamburg",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Ungarisch"
+  ]
+ }
+}

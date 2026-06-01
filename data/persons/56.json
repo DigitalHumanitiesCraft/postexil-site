@@ -1,0 +1,62 @@
+{
+ "name_id": 56,
+ "slug": "weiss-peter",
+ "name": {
+  "vor": "Peter",
+  "nach": "Weiss"
+ },
+ "geb": {
+  "jahr": 1916,
+  "ort": "Nowawes",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1982,
+  "ort": "Stockholm",
+  "land": "Schweden"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Varnsdorf",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Alingsås",
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Schwedisch"
+  ],
+  "a": [
+   "Schwedisch",
+   "Englisch",
+   "Deutsch"
+  ]
+ }
+}

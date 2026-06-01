@@ -1,0 +1,19 @@
+{
+ "name_id": 462,
+ "slug": "birkenfeld-guenther",
+ "name": {
+  "vor": "Günther",
+  "nach": "Birkenfeld"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "Cottbus",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "West-Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

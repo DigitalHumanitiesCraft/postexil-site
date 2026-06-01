@@ -1,0 +1,19 @@
+{
+ "name_id": 503,
+ "slug": "eulenberg-hedda",
+ "name": {
+  "vor": "Hedda",
+  "nach": "Eulenberg"
+ },
+ "geb": {
+  "jahr": 1876,
+  "ort": "Meiderich",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1960,
+  "ort": "Kaiserswerth",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

@@ -1,0 +1,35 @@
+{
+ "name_id": 114,
+ "slug": "nitsche-roland",
+ "name": {
+  "vor": "Roland",
+  "nach": "Nitsche"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1981,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Latein"
+  ]
+ }
+}

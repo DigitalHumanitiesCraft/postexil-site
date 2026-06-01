@@ -1,0 +1,48 @@
+{
+ "name_id": 46,
+ "slug": "urbancic-melitta",
+ "name": {
+  "vor": "Melitta",
+  "nach": "Urbancic"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1984,
+  "ort": "Reykjavik",
+  "land": "Island"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Graz",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Reykjavik",
+   "land": "Island",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Isländisch"
+  ]
+ }
+}

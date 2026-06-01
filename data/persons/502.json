@@ -1,0 +1,19 @@
+{
+ "name_id": 502,
+ "slug": "etzel-theodor",
+ "name": {
+  "vor": "Theodor",
+  "nach": "Etzel"
+ },
+ "geb": {
+  "jahr": 1873,
+  "ort": "Gelnhausen",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1930,
+  "ort": "Bad Aibling",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

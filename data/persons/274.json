@@ -1,0 +1,47 @@
+{
+ "name_id": 274,
+ "slug": "herzfeld-barbara",
+ "name": {
+  "vor": "Barbara",
+  "nach": "Herzfeld"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Budapest",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Ciudad Jardin",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Ungarisch"
+  ]
+ }
+}

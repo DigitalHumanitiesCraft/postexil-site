@@ -1,0 +1,19 @@
+{
+ "name_id": 491,
+ "slug": "bochow-bluethgen",
+ "name": {
+  "vor": "",
+  "nach": "Bochow-Blüthgen"
+ },
+ "geb": {
+  "jahr": 1897,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1983,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

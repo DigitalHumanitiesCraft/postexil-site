@@ -1,0 +1,48 @@
+{
+ "name_id": 311,
+ "slug": "keins-pablo",
+ "name": {
+  "vor": "Pablo",
+  "nach": "Keins"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1967,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Madrid",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch"
+  ]
+ }
+}

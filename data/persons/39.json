@@ -1,0 +1,54 @@
+{
+ "name_id": 39,
+ "slug": "stoessinger-felix",
+ "name": {
+  "vor": "Felix",
+  "nach": "Stössinger"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Prag",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1954,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Nizza",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "interniert",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch"
+  ]
+ }
+}

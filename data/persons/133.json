@@ -1,0 +1,35 @@
+{
+ "name_id": 133,
+ "slug": "eger-paul",
+ "name": {
+  "vor": "Paul",
+  "nach": "Eger"
+ },
+ "geb": {
+  "jahr": 1881,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1947,
+  "ort": "Luzern",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

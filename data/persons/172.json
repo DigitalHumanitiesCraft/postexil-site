@@ -1,0 +1,45 @@
+{
+ "name_id": 172,
+ "slug": "wilhelm-jean-pierre",
+ "name": {
+  "vor": "Jean-Pierre",
+  "nach": "Wilhelm"
+ },
+ "geb": {
+  "jahr": 1912,
+  "ort": "Düsseldorf",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1968,
+  "ort": "Düsseldorf",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Düsseldorf",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Französisch"
+  ],
+  "a": [
+   "Französisch",
+   "Deutsch",
+   "Spanisch",
+   "Portugiesisch"
+  ]
+ }
+}

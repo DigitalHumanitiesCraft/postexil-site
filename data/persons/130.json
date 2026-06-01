@@ -1,0 +1,42 @@
+{
+ "name_id": 130,
+ "slug": "frank-rudolf",
+ "name": {
+  "vor": "Rudolf",
+  "nach": "Frank"
+ },
+ "geb": {
+  "jahr": 1886,
+  "ort": "Mainz",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1979,
+  "ort": "Basel",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

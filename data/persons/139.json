@@ -1,0 +1,35 @@
+{
+ "name_id": 139,
+ "slug": "holitscher-arthur",
+ "name": {
+  "vor": "Arthur",
+  "nach": "Holitscher"
+ },
+ "geb": {
+  "jahr": 1869,
+  "ort": "Pest",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1941,
+  "ort": "Genf",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Genf",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

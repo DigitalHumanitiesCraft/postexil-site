@@ -1,0 +1,47 @@
+{
+ "name_id": 175,
+ "slug": "halpern-gabor-olga",
+ "name": {
+  "vor": "Olga",
+  "nach": "Halpern-Gabor"
+ },
+ "geb": {
+  "jahr": 1887,
+  "ort": "Mohyliw-Podilskyj",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1967,
+  "ort": "Budapest",
+  "land": "Ungarn"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Taschkent",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Budapest",
+   "land": "Ungarn",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

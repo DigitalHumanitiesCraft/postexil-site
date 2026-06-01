@@ -1,0 +1,19 @@
+{
+ "name_id": 333,
+ "slug": "angarowa-hilde",
+ "name": {
+  "vor": "Hilde",
+  "nach": "Angarowa"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

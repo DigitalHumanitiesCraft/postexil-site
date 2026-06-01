@@ -1,0 +1,47 @@
+{
+ "name_id": 388,
+ "slug": "cahn-speyer-peter",
+ "name": {
+  "vor": "Peter",
+  "nach": "Cahn-Speyer"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Glasgow",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Internierungslager",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Kew-Surrey",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

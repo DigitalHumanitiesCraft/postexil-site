@@ -1,0 +1,38 @@
+{
+ "name_id": 131,
+ "slug": "eger-rudolf",
+ "name": {
+  "vor": "Rudolf",
+  "nach": "Eger"
+ },
+ "geb": {
+  "jahr": 1885,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1965,
+  "ort": "München",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Schwedisch"
+  ],
+  "a": [
+   "Englisch",
+   "Dänisch",
+   "Französisch"
+  ]
+ }
+}

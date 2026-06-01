@@ -1,0 +1,58 @@
+{
+ "name_id": 178,
+ "slug": "flusser-vil-m",
+ "name": {
+  "vor": "Vilém",
+  "nach": "Flusser"
+ },
+ "geb": {
+  "jahr": 1920,
+  "ort": "Prag",
+  "land": "Tschechoslowakei"
+ },
+ "tod": {
+  "jahr": 1991,
+  "ort": "Bor u Tachova",
+  "land": "Tschechoslowakei"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Sao Paulo",
+   "land": "Brasilien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1972,
+   "ort": "Meran",
+   "land": "Italien",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Französisch"
+  ],
+  "a": [
+   "Tschechisch",
+   "Englisch",
+   "Französisch",
+   "Portugiesisch",
+   "Deutsch"
+  ]
+ }
+}

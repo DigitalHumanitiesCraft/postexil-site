@@ -1,0 +1,42 @@
+{
+ "name_id": 170,
+ "slug": "grautoff-erna",
+ "name": {
+  "vor": "Erna",
+  "nach": "Grautoff"
+ },
+ "geb": {
+  "jahr": 1888,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1949,
+  "ort": "Garmischparten-Kirchen",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1932,
+   "ort": null,
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "Berlin",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch"
+  ]
+ }
+}

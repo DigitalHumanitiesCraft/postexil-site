@@ -1,0 +1,51 @@
+{
+ "name_id": 27,
+ "slug": "wolfskehl-karl",
+ "name": {
+  "vor": "Karl",
+  "nach": "Wolfskehl"
+ },
+ "geb": {
+  "jahr": 1869,
+  "ort": "Darmstadt",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1948,
+  "ort": "Auckland",
+  "land": "Neuseeland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": null,
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Neuseeland",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch",
+   "Italienisch",
+   "Hebräisch",
+   "Latein"
+  ]
+ }
+}

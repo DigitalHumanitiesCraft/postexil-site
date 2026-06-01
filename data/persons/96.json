@@ -1,0 +1,48 @@
+{
+ "name_id": 96,
+ "slug": "fabian-walter-max",
+ "name": {
+  "vor": "Walter Max",
+  "nach": "Fabian"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1992,
+  "ort": "Köln",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Rumänisch"
+  ]
+ }
+}

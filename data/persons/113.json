@@ -1,0 +1,42 @@
+{
+ "name_id": 113,
+ "slug": "koenig-ren",
+ "name": {
+  "vor": "René",
+  "nach": "König"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Magdeburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1992,
+  "ort": "Köln",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1937,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1953,
+   "ort": "Köln",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Italienisch"
+  ]
+ }
+}

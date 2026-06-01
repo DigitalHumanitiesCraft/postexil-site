@@ -1,0 +1,37 @@
+{
+ "name_id": 76,
+ "slug": "augustin-elisabeth",
+ "name": {
+  "vor": "Elisabeth",
+  "nach": "Augustin"
+ },
+ "geb": {
+  "jahr": 1903,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2001,
+  "ort": "Amsterdam",
+  "land": "Niederlande"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Amsterdam",
+   "land": "Niederlande",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Niederländisch"
+  ],
+  "a": [
+   "Niederländisch",
+   "Deutsch"
+  ]
+ }
+}

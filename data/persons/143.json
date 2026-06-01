@@ -1,0 +1,40 @@
+{
+ "name_id": 143,
+ "slug": "schaeffer-albrecht",
+ "name": {
+  "vor": "Albrecht",
+  "nach": "Schaeffer"
+ },
+ "geb": {
+  "jahr": 1885,
+  "ort": "Elbing",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1950,
+  "ort": "München",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Kuba",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

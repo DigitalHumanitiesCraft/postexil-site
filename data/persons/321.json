@@ -1,0 +1,41 @@
+{
+ "name_id": 321,
+ "slug": "krebs-sigisfredo",
+ "name": {
+  "vor": "Sigisfredo",
+  "nach": "Krebs"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1965,
+  "ort": "Berlin",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1963,
+   "ort": null,
+   "land": "Israel",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

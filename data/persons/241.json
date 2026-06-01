@@ -1,0 +1,37 @@
+{
+ "name_id": 241,
+ "slug": "pick-otto",
+ "name": {
+  "vor": "Otto",
+  "nach": "Pick"
+ },
+ "geb": {
+  "jahr": 1887,
+  "ort": "Prag",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1940,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Tschechisch"
+  ],
+  "a": [
+   "Tschechisch",
+   "Deutsch"
+  ]
+ }
+}

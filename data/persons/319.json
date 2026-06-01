@@ -1,0 +1,35 @@
+{
+ "name_id": 319,
+ "slug": "bachmann-hellmuth",
+ "name": {
+  "vor": "Hellmuth",
+  "nach": "Bachmann"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "München",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1957,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

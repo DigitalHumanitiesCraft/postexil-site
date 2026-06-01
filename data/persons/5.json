@@ -1,0 +1,43 @@
+{
+ "name_id": 5,
+ "slug": "frisch-justinian",
+ "name": {
+  "vor": "Justinian",
+  "nach": "Frisch"
+ },
+ "geb": {
+  "jahr": 1879,
+  "ort": "Kritzendorf",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1949,
+  "ort": "Cambridge",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1948,
+   "ort": "Cambridge",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Schwedisch",
+   "Niederländisch"
+  ]
+ }
+}

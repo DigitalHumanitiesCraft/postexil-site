@@ -1,0 +1,36 @@
+{
+ "name_id": 126,
+ "slug": "tetzner-lisa",
+ "name": {
+  "vor": "Lisa",
+  "nach": "Tetzner"
+ },
+ "geb": {
+  "jahr": 1894,
+  "ort": "Zittau",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1963,
+  "ort": "Carona",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Carona",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Italienisch",
+   "Englisch"
+  ]
+ }
+}

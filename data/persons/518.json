@@ -1,0 +1,19 @@
+{
+ "name_id": 518,
+ "slug": "heiss-lisa",
+ "name": {
+  "vor": "Lisa",
+  "nach": "Heiss"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Stuttgart",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Mainz",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

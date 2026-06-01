@@ -1,0 +1,35 @@
+{
+ "name_id": 382,
+ "slug": "pollatz-erwin-herbert-manfred",
+ "name": {
+  "vor": "Erwin Herbert Manfred",
+  "nach": "Pollatz"
+ },
+ "geb": {
+  "jahr": 1886,
+  "ort": "Dresden",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1964,
+  "ort": "Duisburg",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Haarlem",
+   "land": "Niederlande",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Niederländisch"
+  ]
+ }
+}

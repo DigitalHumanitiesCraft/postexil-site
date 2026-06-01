@@ -1,0 +1,47 @@
+{
+ "name_id": 355,
+ "slug": "m-tall-rudolf-alad-r",
+ "name": {
+  "vor": "Rudolf Aladár",
+  "nach": "Métall"
+ },
+ "geb": {
+  "jahr": 1903,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1975,
+  "ort": "Versoix bei Genf",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1931,
+   "ort": "Genf",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Brasilien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Genf",
+   "land": "Schweiz",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Portugiesisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

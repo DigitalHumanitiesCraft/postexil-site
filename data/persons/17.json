@@ -1,0 +1,65 @@
+{
+ "name_id": 17,
+ "slug": "zorn-fritz",
+ "name": {
+  "vor": "Fritz",
+  "nach": "Zorn"
+ },
+ "geb": {
+  "jahr": 1916,
+  "ort": "Fürth",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1979,
+  "ort": "Koblenz",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1953,
+   "ort": null,
+   "land": "BRD",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1953,
+   "ort": null,
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

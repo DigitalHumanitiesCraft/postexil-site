@@ -1,0 +1,35 @@
+{
+ "name_id": 348,
+ "slug": "szondi-peter",
+ "name": {
+  "vor": "Peter",
+  "nach": "Szondi"
+ },
+ "geb": {
+  "jahr": 1929,
+  "ort": "Budapest",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1971,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1944,
+   "ort": "Appenzell",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

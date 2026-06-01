@@ -1,0 +1,19 @@
+{
+ "name_id": 500,
+ "slug": "eckehard-gabriele",
+ "name": {
+  "vor": "Gabriele",
+  "nach": "Eckehard"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

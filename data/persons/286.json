@@ -1,0 +1,68 @@
+{
+ "name_id": 286,
+ "slug": "jacob-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Jacob"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1961,
+  "ort": "Paris",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Mexiko",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1948,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Italienisch",
+   "Deutsch"
+  ]
+ }
+}

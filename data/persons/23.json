@@ -1,0 +1,48 @@
+{
+ "name_id": 23,
+ "slug": "zuckerkandl-marianne",
+ "name": {
+  "vor": "Marianne",
+  "nach": "Zuckerkandl"
+ },
+ "geb": {
+  "jahr": 1882,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Ascona",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Boston",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1964,
+   "ort": "Ascona",
+   "land": "Schweiz",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch"
+  ]
+ }
+}

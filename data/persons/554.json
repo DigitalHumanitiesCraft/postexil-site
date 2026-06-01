@@ -1,0 +1,19 @@
+{
+ "name_id": 554,
+ "slug": "ritzerfeld-helene",
+ "name": {
+  "vor": "Helene",
+  "nach": "Ritzerfeld"
+ },
+ "geb": {
+  "jahr": 1914,
+  "ort": "Köln",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 2000,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

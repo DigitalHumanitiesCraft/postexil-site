@@ -1,0 +1,33 @@
+{
+ "name_id": 160,
+ "slug": "schmueckle-carl",
+ "name": {
+  "vor": "Carl",
+  "nach": "Schmückle"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Enzklösterle im Schwarzwald",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1938,
+  "ort": null,
+  "land": "Sowjetunion"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1924,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

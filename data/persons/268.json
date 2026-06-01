@@ -1,0 +1,28 @@
+{
+ "name_id": 268,
+ "slug": "george-manfred",
+ "name": {
+  "vor": "Manfred",
+  "nach": "George"
+ },
+ "geb": {
+  "jahr": 1893,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1965,
+  "ort": "New York",
+  "land": "USA"
+ },
+ "gold": false,
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Italienisch"
+  ]
+ }
+}

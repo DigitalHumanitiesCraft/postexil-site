@@ -1,0 +1,55 @@
+{
+ "name_id": 37,
+ "slug": "weiser-eric",
+ "name": {
+  "vor": "Eric",
+  "nach": "Weiser"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1986,
+  "ort": "Juvisy",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Mallorca",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Jerusalem",
+   "land": "Palästina",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1951,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Französisch"
+  ]
+ }
+}

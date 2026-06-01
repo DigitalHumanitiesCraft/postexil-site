@@ -1,0 +1,45 @@
+{
+ "name_id": 153,
+ "slug": "orloff-ida",
+ "name": {
+  "vor": "Ida",
+  "nach": "Orloff"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "St. Petersburg",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1945,
+  "ort": "Tullnerbach",
+  "land": "Deutsches Reich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Florenz",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Berlin",
+   "land": "Deutsches Reich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

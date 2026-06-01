@@ -1,0 +1,67 @@
+{
+ "name_id": 7,
+ "slug": "thelen-albert-vigoleis",
+ "name": {
+  "vor": "Albert Vigoleis",
+  "nach": "Thelen"
+ },
+ "geb": {
+  "jahr": 1903,
+  "ort": "Süchteln",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1989,
+  "ort": "Dülken",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": "Marseille",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Auressio",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Amarante",
+   "land": "Portugal",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": "Amsterdam",
+   "land": "Niederlande",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": 1954,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Niederländisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Portugiesisch",
+   "Niederländisch"
+  ]
+ }
+}

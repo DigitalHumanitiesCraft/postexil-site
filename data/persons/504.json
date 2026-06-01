@@ -1,0 +1,19 @@
+{
+ "name_id": 504,
+ "slug": "fabri-albrecht",
+ "name": {
+  "vor": "Albrecht",
+  "nach": "Fabri"
+ },
+ "geb": {
+  "jahr": 1911,
+  "ort": "Köln",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1998,
+  "ort": "Köln",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

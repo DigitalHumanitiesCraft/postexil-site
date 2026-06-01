@@ -1,0 +1,48 @@
+{
+ "name_id": 53,
+ "slug": "weigel-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Weigel"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1991,
+  "ort": "Maria Enzersdorf",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Basel",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Italienisch"
+  ]
+ }
+}

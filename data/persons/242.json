@@ -1,0 +1,53 @@
+{
+ "name_id": 242,
+ "slug": "olden-balder",
+ "name": {
+  "vor": "Balder",
+  "nach": "Olden"
+ },
+ "geb": {
+  "jahr": 1882,
+  "ort": "Zwickau",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1949,
+  "ort": "Montevideo",
+  "land": "Uruguay"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Montevideo",
+   "land": "Uruguay",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

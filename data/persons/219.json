@@ -1,0 +1,37 @@
+{
+ "name_id": 219,
+ "slug": "pollnow-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Pollnow"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Königsberg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1943,
+  "ort": "Mauthausen",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Französisch"
+  ],
+  "a": [
+   "Französisch",
+   "Deutsch"
+  ]
+ }
+}

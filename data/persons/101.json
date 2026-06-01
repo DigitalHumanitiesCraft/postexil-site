@@ -1,0 +1,65 @@
+{
+ "name_id": 101,
+ "slug": "meyer-oscar",
+ "name": {
+  "vor": "Oscar",
+  "nach": "Meyer"
+ },
+ "geb": {
+  "jahr": 1876,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1961,
+  "ort": "Oakland",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Kolumbien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "name_id": 360,
+ "slug": "hazay-jenny",
+ "name": {
+  "vor": "Jenny",
+  "nach": "Hazay"
+ },
+ "geb": {
+  "jahr": 1888,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Englisch",
+   "Deutsch"
+  ]
+ }
+}

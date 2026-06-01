@@ -1,0 +1,19 @@
+{
+ "name_id": 497,
+ "slug": "dahlmann-stolzenbach-gertrud",
+ "name": {
+  "vor": "Gertrud",
+  "nach": "Dahlmann-Stolzenbach"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Hannover",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

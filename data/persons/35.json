@@ -1,0 +1,65 @@
+{
+ "name_id": 35,
+ "slug": "wille-hanns-julius",
+ "name": {
+  "vor": "Hanns Julius",
+  "nach": "Wille"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Solingen",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1961,
+  "ort": "Potsdam-Babelsberg",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Niederlande",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Deutsches Reich",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "DDR",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Niederländisch"
+  ]
+ }
+}

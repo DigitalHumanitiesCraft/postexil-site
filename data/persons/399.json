@@ -1,0 +1,48 @@
+{
+ "name_id": 399,
+ "slug": "gurland-arkadius-rudolf-lang",
+ "name": {
+  "vor": "Arkadius Rudolf Lang",
+  "nach": "Gurland"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Moskau",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1979,
+  "ort": "Darmstadt",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Belgien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Russisch"
+  ]
+ }
+}

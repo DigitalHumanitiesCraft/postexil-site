@@ -1,0 +1,41 @@
+{
+ "name_id": 378,
+ "slug": "goldschmidt-ernest",
+ "name": {
+  "vor": "Ernest",
+  "nach": "Goldschmidt"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Kleve",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Genf",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1942,
+   "ort": "interniert",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Genf",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

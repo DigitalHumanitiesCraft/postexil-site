@@ -1,0 +1,45 @@
+{
+ "name_id": 236,
+ "slug": "sink-irma",
+ "name": {
+  "vor": "Irma",
+  "nach": "Sinkó"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Budapest",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Újvidék",
+  "land": "Jugoslawien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1932,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Ungarisch"
+  ],
+  "a": []
+ }
+}

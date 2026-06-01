@@ -1,0 +1,49 @@
+{
+ "name_id": 214,
+ "slug": "schwarz-lotte",
+ "name": {
+  "vor": "Lotte",
+  "nach": "Schwarz"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Prag",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1984,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Südfrankreich",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch",
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

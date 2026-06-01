@@ -1,0 +1,19 @@
+{
+ "name_id": 568,
+ "slug": "vezin-august",
+ "name": {
+  "vor": "August",
+  "nach": "Vezin"
+ },
+ "geb": {
+  "jahr": 1879,
+  "ort": "Münster",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1963,
+  "ort": "Ahlen",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

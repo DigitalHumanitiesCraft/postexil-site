@@ -1,0 +1,19 @@
+{
+ "name_id": 573,
+ "slug": "weseloh-hans-achim",
+ "name": {
+  "vor": "Hans Achim",
+  "nach": "Weseloh"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

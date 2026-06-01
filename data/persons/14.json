@@ -1,0 +1,37 @@
+{
+ "name_id": 14,
+ "slug": "zuckmayer-eduard",
+ "name": {
+  "vor": "Eduard",
+  "nach": "Zuckmayer"
+ },
+ "geb": {
+  "jahr": 1890,
+  "ort": "Nackenheim",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1972,
+  "ort": "Ankara",
+  "land": "Türkei"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": "Ankara",
+   "land": "Türkei",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Türkisch"
+  ],
+  "a": [
+   "Türkisch",
+   "Deutsch"
+  ]
+ }
+}

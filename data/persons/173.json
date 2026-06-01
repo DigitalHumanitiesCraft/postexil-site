@@ -1,0 +1,72 @@
+{
+ "name_id": 173,
+ "slug": "becher-lilly-irene",
+ "name": {
+  "vor": "Lilly Irene",
+  "nach": "Becher"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "Nürnberg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1978,
+  "ort": "Berlin",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Kasan",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Taschkent",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Berlin",
+   "land": "SBZ",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

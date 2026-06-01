@@ -1,0 +1,37 @@
+{
+ "name_id": 211,
+ "slug": "kurella-gregor",
+ "name": {
+  "vor": "Gregor",
+  "nach": "Kurella"
+ },
+ "geb": {
+  "jahr": 1925,
+  "ort": "Möser",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2016,
+  "ort": "Moskau",
+  "land": "Russische Föderation"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Russisch"
+  ],
+  "a": [
+   "Russisch",
+   "Deutsch"
+  ]
+ }
+}

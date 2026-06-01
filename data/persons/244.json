@@ -1,0 +1,54 @@
+{
+ "name_id": 244,
+ "slug": "steffin-margarete",
+ "name": {
+  "vor": "Margarete",
+  "nach": "Steffin"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Rummelsburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1941,
+  "ort": "Moskau",
+  "land": "Sowjetunion"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Dänemark",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Finnland",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Dänisch",
+   "Norwegisch"
+  ]
+ }
+}

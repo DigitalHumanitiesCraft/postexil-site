@@ -1,0 +1,19 @@
+{
+ "name_id": 328,
+ "slug": "ruehle-gerstel-alice",
+ "name": {
+  "vor": "Alice",
+  "nach": "Rühle-Gerstel"
+ },
+ "geb": {
+  "jahr": 1894,
+  "ort": "Prag",
+  "land": "Tschechien"
+ },
+ "tod": {
+  "jahr": 1943,
+  "ort": "Mexiko-Stadt",
+  "land": "Mexiko"
+ },
+ "gold": false
+}

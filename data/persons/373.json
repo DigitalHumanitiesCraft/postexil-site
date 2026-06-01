@@ -1,0 +1,81 @@
+{
+ "name_id": 373,
+ "slug": "fittko-lisa",
+ "name": {
+  "vor": "Lisa",
+  "nach": "Fittko"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "Ungvár",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 2005,
+  "ort": "Chicago",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Untergrund",
+   "land": "Deutsches Reich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Litoměřice",
+   "land": "Tschechien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Basel",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Amsterdam",
+   "land": "Niederlande",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Gurs",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Havanna",
+   "land": "Kuba",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1948,
+   "ort": "Chicago",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch",
+   "Deutsch",
+   "Französisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

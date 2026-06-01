@@ -1,0 +1,59 @@
+{
+ "name_id": 223,
+ "slug": "borneman-ernest",
+ "name": {
+  "vor": "Ernest",
+  "nach": "Borneman"
+ },
+ "geb": {
+  "jahr": 1915,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1995,
+  "ort": "Scharten",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Sherbrooke",
+   "land": "Kanada",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1960,
+   "ort": "Frankfurt/M.",
+   "land": "BRD",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": 1970,
+   "ort": "Scharten",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

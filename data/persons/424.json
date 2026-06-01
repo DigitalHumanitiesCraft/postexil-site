@@ -1,0 +1,19 @@
+{
+ "name_id": 424,
+ "slug": "rosenberg-kaethe",
+ "name": {
+  "vor": "Käthe",
+  "nach": "Rosenberg"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Luzern",
+  "land": "Schweiz"
+ },
+ "gold": false
+}

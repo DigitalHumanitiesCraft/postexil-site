@@ -1,0 +1,36 @@
+{
+ "name_id": 362,
+ "slug": "schidrowitz-helene",
+ "name": {
+  "vor": "Helene",
+  "nach": "Schidrowitz"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Ghetto Łódź",
+  "land": "Polen"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1941,
+   "ort": "Ghetto Łódź",
+   "land": "Polen",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Ungarisch"
+  ]
+ }
+}

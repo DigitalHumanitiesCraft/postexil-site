@@ -1,0 +1,53 @@
+{
+ "name_id": 198,
+ "slug": "sternberg-isolani-gertrud",
+ "name": {
+  "vor": "Gertrud",
+  "nach": "Sternberg-Isolani"
+ },
+ "geb": {
+  "jahr": 1899,
+  "ort": "Dresden",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Riehen bei Basel",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Gurs",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "(Untergrund)",
+   "land": "Frankreich (Vichy)",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

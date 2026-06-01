@@ -1,0 +1,39 @@
+{
+ "name_id": 308,
+ "slug": "rahner-hugo",
+ "name": {
+  "vor": "Hugo",
+  "nach": "Rahner"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Pfullendorf",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1968,
+  "ort": "München",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Sion",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Innsbruck",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": []
+ }
+}

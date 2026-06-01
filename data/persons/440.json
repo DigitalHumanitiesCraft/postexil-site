@@ -1,0 +1,19 @@
+{
+ "name_id": 440,
+ "slug": "roch-herbert",
+ "name": {
+  "vor": "Herbert",
+  "nach": "Roch"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Pieńsk, Niederschlesien",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Lübeck",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

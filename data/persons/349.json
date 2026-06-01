@@ -1,0 +1,54 @@
+{
+ "name_id": 349,
+ "slug": "barea-kulcsar-ilsa",
+ "name": {
+  "vor": "Ilsa",
+  "nach": "Barea-Kulcsar"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": null,
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": null,
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Spanisch"
+  ]
+ }
+}

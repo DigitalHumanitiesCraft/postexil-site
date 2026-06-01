@@ -1,0 +1,35 @@
+{
+ "name_id": 48,
+ "slug": "volk-else",
+ "name": {
+  "vor": "Else",
+  "nach": "Volk"
+ },
+ "geb": {
+  "jahr": 1880,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1953,
+  "ort": "Mexiko-Stadt",
+  "land": "Mexiko"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Mexiko",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Spanisch"
+  ]
+ }
+}

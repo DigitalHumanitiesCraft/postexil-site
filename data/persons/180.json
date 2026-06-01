@@ -1,0 +1,56 @@
+{
+ "name_id": 180,
+ "slug": "bach-susanne",
+ "name": {
+  "vor": "Susanne",
+  "nach": "Bach"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "München",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1997,
+  "ort": "München",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Gurs",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Rio de Janeiro",
+   "land": "Brasilien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1983,
+   "ort": "München",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Französisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

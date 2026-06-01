@@ -1,0 +1,60 @@
+{
+ "name_id": 73,
+ "slug": "anders-guenther",
+ "name": {
+  "vor": "Günther",
+  "nach": "Anders"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Breslau",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1992,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Los Angeles",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

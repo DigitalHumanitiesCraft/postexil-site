@@ -1,0 +1,53 @@
+{
+ "name_id": 174,
+ "slug": "beck-enrique",
+ "name": {
+  "vor": "Enrique",
+  "nach": "Beck"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Köln",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1974,
+  "ort": "Riehen",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Barcelona",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Spanisch"
+  ]
+ }
+}

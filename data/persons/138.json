@@ -1,0 +1,48 @@
+{
+ "name_id": 138,
+ "slug": "kolb-annette",
+ "name": {
+  "vor": "Annette",
+  "nach": "Kolb"
+ },
+ "geb": {
+  "jahr": 1870,
+  "ort": "München",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1967,
+  "ort": "München",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Italienisch"
+  ]
+ }
+}

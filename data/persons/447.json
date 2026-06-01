@@ -1,0 +1,19 @@
+{
+ "name_id": 447,
+ "slug": "einsiedel-wolfgang-von",
+ "name": {
+  "vor": "Wolfgang von",
+  "nach": "Einsiedel"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Dresden",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1967,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 536,
+ "slug": "leishman-j-b",
+ "name": {
+  "vor": "J. B.",
+  "nach": "Leishman"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": 1963,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

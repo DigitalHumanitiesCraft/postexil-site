@@ -1,0 +1,19 @@
+{
+ "name_id": 552,
+ "slug": "rilke-rainer-maria",
+ "name": {
+  "vor": "Rainer Maria",
+  "nach": "Rilke"
+ },
+ "geb": {
+  "jahr": 1875,
+  "ort": "Prag",
+  "land": "Tschechien"
+ },
+ "tod": {
+  "jahr": 1926,
+  "ort": "Montreux",
+  "land": "Schweiz"
+ },
+ "gold": false
+}

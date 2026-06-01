@@ -1,0 +1,19 @@
+{
+ "name_id": 575,
+ "slug": "de-boor-helmut",
+ "name": {
+  "vor": "Helmut",
+  "nach": "de Boor"
+ },
+ "geb": {
+  "jahr": 1891,
+  "ort": "Bonn",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1976,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

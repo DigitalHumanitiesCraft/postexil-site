@@ -1,0 +1,90 @@
+{
+ "name_id": 97,
+ "slug": "goergen-hermann-mathias",
+ "name": {
+  "vor": "Hermann Mathias",
+  "nach": "Görgen"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Wallerfangen-Düren",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1994,
+  "ort": "Bonn",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": null,
+   "land": "Saargebiet",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Salzburg",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "Portugal",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "Brasilien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": "Juiz de Fora",
+   "land": "Brasilien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1954,
+   "ort": null,
+   "land": "Französische Besatzungszone",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Portugiesisch",
+   "Französisch"
+  ]
+ }
+}

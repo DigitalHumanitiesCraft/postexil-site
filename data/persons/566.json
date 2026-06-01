@@ -1,0 +1,19 @@
+{
+ "name_id": 566,
+ "slug": "teucher-eugen",
+ "name": {
+  "vor": "Eugen",
+  "nach": "Teucher"
+ },
+ "geb": {
+  "jahr": 1910,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "tod": {
+  "jahr": 1993,
+  "ort": "Kriens",
+  "land": "Schweiz"
+ },
+ "gold": false
+}

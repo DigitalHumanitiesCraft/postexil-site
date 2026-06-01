@@ -1,0 +1,19 @@
+{
+ "name_id": 492,
+ "slug": "braem-helmut-m",
+ "name": {
+  "vor": "Helmut M.",
+  "nach": "Braem"
+ },
+ "geb": {
+  "jahr": 1922,
+  "ort": "Hannover",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1977,
+  "ort": "Schwäbisch Hall",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

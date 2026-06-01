@@ -1,0 +1,53 @@
+{
+ "name_id": 68,
+ "slug": "segal-lore",
+ "name": {
+  "vor": "Lore",
+  "nach": "Segal"
+ },
+ "geb": {
+  "jahr": 1928,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 2024,
+  "ort": "Manhattan",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1948,
+   "ort": null,
+   "land": "Dominikanische Republik",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1951,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

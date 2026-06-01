@@ -1,0 +1,53 @@
+{
+ "name_id": 69,
+ "slug": "zech-paul",
+ "name": {
+  "vor": "Paul",
+  "nach": "Zech"
+ },
+ "geb": {
+  "jahr": 1881,
+  "ort": "Briesen",
+  "land": "Preußen"
+ },
+ "tod": {
+  "jahr": 1946,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Triest",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Montevideo",
+   "land": "Uruguay",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

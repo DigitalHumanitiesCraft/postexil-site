@@ -1,0 +1,33 @@
+{
+ "name_id": 207,
+ "slug": "treichlinger-wilhelm-michael",
+ "name": {
+  "vor": "Wilhelm Michael",
+  "nach": "Treichlinger"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": []
+ }
+}

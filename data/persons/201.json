@@ -1,0 +1,35 @@
+{
+ "name_id": 201,
+ "slug": "keisch-henrik",
+ "name": {
+  "vor": "Henrik",
+  "nach": "Keisch"
+ },
+ "geb": {
+  "jahr": 1913,
+  "ort": "Moers",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1986,
+  "ort": "Berlin",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

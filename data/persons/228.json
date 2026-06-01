@@ -1,0 +1,41 @@
+{
+ "name_id": 228,
+ "slug": "herlitschka-herberth-egon",
+ "name": {
+  "vor": "Herberth Egon",
+  "nach": "Herlitschka"
+ },
+ "geb": {
+  "jahr": 1893,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1970,
+  "ort": "Bern",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Tessin",
+   "land": "Schweiz",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 563,
+ "slug": "spitzler-marianne",
+ "name": {
+  "vor": "Marianne",
+  "nach": "Spitzler"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

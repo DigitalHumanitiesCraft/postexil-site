@@ -1,0 +1,41 @@
+{
+ "name_id": 317,
+ "slug": "plessner-helmuth",
+ "name": {
+  "vor": "Helmuth",
+  "nach": "Plessner"
+ },
+ "geb": {
+  "jahr": 1892,
+  "ort": "Wiesbaden",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1985,
+  "ort": "Göttingen",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Groningen",
+   "land": "Niederlande",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1951,
+   "ort": "Göttingen",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Niederländisch"
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "name_id": 162,
+ "slug": "fuchs-traugott",
+ "name": {
+  "vor": "Traugott",
+  "nach": "Fuchs"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Lohr",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1997,
+  "ort": "Istanbul",
+  "land": "Türkei"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Istanbul",
+   "land": "Türkei",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Türkisch"
+  ]
+ }
+}

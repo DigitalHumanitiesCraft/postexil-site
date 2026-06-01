@@ -1,0 +1,29 @@
+{
+ "name_id": 72,
+ "slug": "adler-wessely-regine",
+ "name": {
+  "vor": "Regine",
+  "nach": "Adler-Wessely"
+ },
+ "geb": {
+  "jahr": 1870,
+  "ort": "Trebitsch",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1943,
+  "ort": "KZ Theresienstadt",
+  "land": "Tschechien"
+ },
+ "gold": false,
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Tschechisch",
+   "Französisch",
+   "Italienisch"
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "name_id": 246,
+ "slug": "houtermans-charlotte",
+ "name": {
+  "vor": "Charlotte",
+  "nach": "Houtermans"
+ },
+ "geb": {
+  "jahr": 1899,
+  "ort": "Bielefeld",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1993,
+  "ort": "Northfield",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Cambridge",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Charkow",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "Riga",
+   "land": "Lettland",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "Kopenhagen",
+   "land": "Dänemark",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Poughkeepsie",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Russisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 485,
+ "slug": "schuerenberg-walter",
+ "name": {
+  "vor": "Walter",
+  "nach": "Schürenberg"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Mönchengladbach",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1996,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

@@ -1,0 +1,35 @@
+{
+ "name_id": 206,
+ "slug": "rehmann-salten-anna-katharina",
+ "name": {
+  "vor": "Anna-Katharina",
+  "nach": "Rehmann-Salten"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1977,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

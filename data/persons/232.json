@@ -1,0 +1,43 @@
+{
+ "name_id": 232,
+ "slug": "feiner-ruth",
+ "name": {
+  "vor": "Ruth",
+  "nach": "Feiner"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "Stettin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1954,
+  "ort": "Visp",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Olten",
+   "land": "Schweiz",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch"
+  ]
+ }
+}

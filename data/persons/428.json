@@ -1,0 +1,19 @@
+{
+ "name_id": 428,
+ "slug": "haas-willy",
+ "name": {
+  "vor": "Willy",
+  "nach": "Haas"
+ },
+ "geb": {
+  "jahr": 1891,
+  "ort": "Prag",
+  "land": "Tschechien"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "Hamburg",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

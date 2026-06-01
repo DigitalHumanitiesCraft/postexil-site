@@ -1,0 +1,48 @@
+{
+ "name_id": 8,
+ "slug": "adler-raissa-timofejewna",
+ "name": {
+  "vor": "Raissa Timofejewna",
+  "nach": "Adler"
+ },
+ "geb": {
+  "jahr": 1873,
+  "ort": "Moskau",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1962,
+  "ort": "New York",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Locarno",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch",
+   "Englisch"
+  ]
+ }
+}

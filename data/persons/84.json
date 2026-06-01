@@ -1,0 +1,42 @@
+{
+ "name_id": 84,
+ "slug": "weiss-ernst",
+ "name": {
+  "vor": "Ernst",
+  "nach": "Weiß"
+ },
+ "geb": {
+  "jahr": 1882,
+  "ort": "Brünn",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1940,
+  "ort": "Paris",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch"
+  ]
+ }
+}

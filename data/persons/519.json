@@ -1,0 +1,19 @@
+{
+ "name_id": 519,
+ "slug": "helmstatt-gertrud-von",
+ "name": {
+  "vor": "Gertrud von",
+  "nach": "Helmstatt"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 522,
+ "slug": "hohenemser-steglich-helly",
+ "name": {
+  "vor": "Helly",
+  "nach": "Hohenemser-Steglich"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Elbląg",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Rom",
+  "land": "Italien"
+ },
+ "gold": false
+}

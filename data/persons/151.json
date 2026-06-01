@@ -1,0 +1,88 @@
+{
+ "name_id": 151,
+ "slug": "mann-golo",
+ "name": {
+  "vor": "Golo",
+  "nach": "Mann"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "München",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1994,
+  "ort": "Leverkusen",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Sanary-sur-Mer",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Rennes",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Princeton",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Les Milles",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Princeton",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Pacific Palisades",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Latein",
+   "Spanisch"
+  ]
+ }
+}

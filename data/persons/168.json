@@ -1,0 +1,41 @@
+{
+ "name_id": 168,
+ "slug": "osers-ewald",
+ "name": {
+  "vor": "Ewald",
+  "nach": "Osers"
+ },
+ "geb": {
+  "jahr": 1917,
+  "ort": "Prag",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 2011,
+  "ort": "Reading",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Tschechisch",
+   "Lachisch",
+   "Deutsch",
+   "Armenisch",
+   "Bulgarisch",
+   "Mazedonisch"
+  ]
+ }
+}

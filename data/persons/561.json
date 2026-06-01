@@ -1,0 +1,19 @@
+{
+ "name_id": 561,
+ "slug": "seiffhart-arthur",
+ "name": {
+  "vor": "Arthur",
+  "nach": "Seiffhart"
+ },
+ "geb": {
+  "jahr": 1880,
+  "ort": "Halle (Saale)",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1959,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

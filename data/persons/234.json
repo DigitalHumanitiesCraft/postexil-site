@@ -1,0 +1,66 @@
+{
+ "name_id": 234,
+ "slug": "zinner-hedda",
+ "name": {
+  "vor": "Hedda",
+  "nach": "Zinner"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Lemberg",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1994,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Ufa",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Berlin",
+   "land": "SBZ",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch",
+   "Jiddisch"
+  ]
+ }
+}

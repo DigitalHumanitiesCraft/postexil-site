@@ -1,0 +1,50 @@
+{
+ "name_id": 294,
+ "slug": "vordtriede-werner",
+ "name": {
+  "vor": "Werner",
+  "nach": "Vordtriede"
+ },
+ "geb": {
+  "jahr": 1915,
+  "ort": "Bielefeld",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1985,
+  "ort": "Izmir",
+  "land": "Türkei"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Varimpré",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch",
+   "Englisch"
+  ]
+ }
+}

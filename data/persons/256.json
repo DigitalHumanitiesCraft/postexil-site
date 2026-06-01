@@ -1,0 +1,33 @@
+{
+ "name_id": 256,
+ "slug": "brueck-eva",
+ "name": {
+  "vor": "Eva",
+  "nach": "Brück"
+ },
+ "geb": {
+  "jahr": 1926,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1998,
+  "ort": "Berlin",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ]
+}

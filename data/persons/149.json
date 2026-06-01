@@ -1,0 +1,39 @@
+{
+ "name_id": 149,
+ "slug": "leppmann-franz",
+ "name": {
+  "vor": "Franz",
+  "nach": "Leppmann"
+ },
+ "geb": {
+  "jahr": 1877,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Florenz",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

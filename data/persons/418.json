@@ -1,0 +1,19 @@
+{
+ "name_id": 418,
+ "slug": "schoen-ernst",
+ "name": {
+  "vor": "Ernst",
+  "nach": "Schoen"
+ },
+ "geb": {
+  "jahr": 1894,
+  "ort": "Charlottenburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1960,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

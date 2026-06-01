@@ -1,0 +1,61 @@
+{
+ "name_id": 71,
+ "slug": "wentscher-dora",
+ "name": {
+  "vor": "Dora",
+  "nach": "Wentscher"
+ },
+ "geb": {
+  "jahr": 1883,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1964,
+  "ort": "Erfurt",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Iskitim",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Weimar",
+   "land": "SBZ",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch",
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

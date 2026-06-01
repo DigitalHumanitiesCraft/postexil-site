@@ -1,0 +1,19 @@
+{
+ "name_id": 531,
+ "slug": "koebel-tusk-eberhard",
+ "name": {
+  "vor": "Eberhard",
+  "nach": "Köbel-Tusk"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Stuttgart",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1955,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

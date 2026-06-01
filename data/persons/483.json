@@ -1,0 +1,19 @@
+{
+ "name_id": 483,
+ "slug": "schoen-e",
+ "name": {
+  "vor": "E.",
+  "nach": "Schoen"
+ },
+ "geb": {
+  "jahr": 1882,
+  "ort": "Benešov",
+  "land": "Tschechien"
+ },
+ "tod": {
+  "jahr": 1967,
+  "ort": "Mexiko-Stadt",
+  "land": "Mexiko"
+ },
+ "gold": false
+}

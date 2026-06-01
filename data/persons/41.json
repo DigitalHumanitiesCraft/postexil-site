@@ -1,0 +1,50 @@
+{
+ "name_id": 41,
+ "slug": "urbanitzky-von-grete",
+ "name": {
+  "vor": "Grete",
+  "nach": "Urbanitzky von"
+ },
+ "geb": {
+  "jahr": 1893,
+  "ort": "Linz",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1974,
+  "ort": "Genf",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Berlin",
+   "land": "Deutsches Reich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch",
+   "Italienisch",
+   "Spanisch"
+  ]
+ }
+}

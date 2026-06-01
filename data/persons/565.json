@@ -1,0 +1,19 @@
+{
+ "name_id": 565,
+ "slug": "steinsdorff-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Steinsdorff"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 498,
+ "slug": "dessauer-maria",
+ "name": {
+  "vor": "Maria",
+  "nach": "Dessauer"
+ },
+ "geb": {
+  "jahr": 1922,
+  "ort": "Frankfurt am Main",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 2021,
+  "ort": "Frankfurt am Main",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

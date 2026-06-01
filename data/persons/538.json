@@ -1,0 +1,19 @@
+{
+ "name_id": 538,
+ "slug": "luckenwald-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Luckenwald"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Lübeck",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

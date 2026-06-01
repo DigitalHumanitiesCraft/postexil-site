@@ -1,0 +1,19 @@
+{
+ "name_id": 515,
+ "slug": "hansen-kurt-heinrich",
+ "name": {
+  "vor": "Kurt Heinrich",
+  "nach": "Hansen"
+ },
+ "geb": {
+  "jahr": 1913,
+  "ort": "Kiel",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1987,
+  "ort": "Hamburg",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 541,
+ "slug": "michalkow-sergej",
+ "name": {
+  "vor": "Sergej",
+  "nach": "Michalkow"
+ },
+ "geb": {
+  "jahr": 1913,
+  "ort": "Moskau",
+  "land": "Russische Föderation"
+ },
+ "tod": {
+  "jahr": 2009,
+  "ort": "Moskau",
+  "land": "Russische Föderation"
+ },
+ "gold": false
+}

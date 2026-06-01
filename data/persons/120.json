@@ -1,0 +1,47 @@
+{
+ "name_id": 120,
+ "slug": "ophuels-max",
+ "name": {
+  "vor": "Max",
+  "nach": "Ophüls"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Saarbrücken",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1957,
+  "ort": "Hamburg",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

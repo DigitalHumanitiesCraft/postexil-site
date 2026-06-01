@@ -1,0 +1,41 @@
+{
+ "name_id": 285,
+ "slug": "dahl-ingolf",
+ "name": {
+  "vor": "Ingolf",
+  "nach": "Dahl"
+ },
+ "geb": {
+  "jahr": 1912,
+  "ort": "Hamburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1970,
+  "ort": "Frutigen",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1932,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Los Angeles",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

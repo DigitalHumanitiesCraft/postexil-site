@@ -1,0 +1,37 @@
+{
+ "name_id": 313,
+ "slug": "morwitz-ernst",
+ "name": {
+  "vor": "Ernst",
+  "nach": "Morwitz"
+ },
+ "geb": {
+  "jahr": 1887,
+  "ort": "Danzig",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1971,
+  "ort": "Muralto",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Griechisch"
+  ]
+ }
+}

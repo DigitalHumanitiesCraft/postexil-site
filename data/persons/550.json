@@ -1,0 +1,19 @@
+{
+ "name_id": 550,
+ "slug": "richter-gerda",
+ "name": {
+  "vor": "Gerda",
+  "nach": "Richter"
+ },
+ "geb": {
+  "jahr": 1929,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

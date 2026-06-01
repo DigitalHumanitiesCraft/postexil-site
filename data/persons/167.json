@@ -1,0 +1,52 @@
+{
+ "name_id": 167,
+ "slug": "gutkind-curt-sigmar-samuel",
+ "name": {
+  "vor": "Curt Sigmar Samuel",
+  "nach": "Gutkind"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Mannheim",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1940,
+  "ort": "Atlantik",
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Oxford",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Italienisch"
+  ],
+  "a": [
+   "Italienisch",
+   "Latein",
+   "Altgriechisch",
+   "Französisch",
+   "Provenzalisch"
+  ]
+ }
+}

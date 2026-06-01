@@ -1,0 +1,41 @@
+{
+ "name_id": 323,
+ "slug": "rosenstrauch-koenigsberg-edith",
+ "name": {
+  "vor": "Edith",
+  "nach": "Rosenstrauch-Königsberg"
+ },
+ "geb": {
+  "jahr": 1921,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 2003,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

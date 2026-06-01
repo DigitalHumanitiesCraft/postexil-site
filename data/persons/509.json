@@ -1,0 +1,19 @@
+{
+ "name_id": 509,
+ "slug": "friederich-wolf",
+ "name": {
+  "vor": "Wolf",
+  "nach": "Friederich"
+ },
+ "geb": {
+  "jahr": 1919,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

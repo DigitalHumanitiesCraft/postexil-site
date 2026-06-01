@@ -1,0 +1,45 @@
+{
+ "name_id": 155,
+ "slug": "theile-albert",
+ "name": {
+  "vor": "Albert",
+  "nach": "Theile"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Hörde",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1986,
+  "ort": "Bern",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Oslo",
+   "land": "Norwegen",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Santiago de Chile",
+   "land": "Chile",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Spanisch"
+  ]
+ }
+}

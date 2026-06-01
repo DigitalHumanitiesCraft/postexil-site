@@ -1,0 +1,39 @@
+{
+ "name_id": 389,
+ "slug": "messinger-heinrich",
+ "name": {
+  "vor": "Heinrich",
+  "nach": "Messinger"
+ },
+ "geb": {
+  "jahr": 1915,
+  "ort": "Wilkischen",
+  "land": "Tschechoslowakei"
+ },
+ "tod": {
+  "jahr": 2013,
+  "ort": "Montevideo",
+  "land": "Uruguay"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Lissabon",
+   "land": "Portugal",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Montevideo",
+   "land": "Uruguay",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch"
+  ],
+  "a": []
+ }
+}

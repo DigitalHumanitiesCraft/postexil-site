@@ -1,0 +1,19 @@
+{
+ "name_id": 506,
+ "slug": "floerke-hanns",
+ "name": {
+  "vor": "Hanns",
+  "nach": "Floerke"
+ },
+ "geb": {
+  "jahr": 1875,
+  "ort": "Weimar",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Bad Tölz",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

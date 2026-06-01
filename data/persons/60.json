@@ -1,0 +1,35 @@
+{
+ "name_id": 60,
+ "slug": "weiss-robert-otto",
+ "name": {
+  "vor": "Robert Otto",
+  "nach": "Weiss"
+ },
+ "geb": {
+  "jahr": 1918,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

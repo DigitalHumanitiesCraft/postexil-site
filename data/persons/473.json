@@ -1,0 +1,19 @@
+{
+ "name_id": 473,
+ "slug": "kroekel-fritz",
+ "name": {
+  "vor": "Fritz",
+  "nach": "Krökel"
+ },
+ "geb": {
+  "jahr": 1890,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1961,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

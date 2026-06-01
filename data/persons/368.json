@@ -1,0 +1,43 @@
+{
+ "name_id": 368,
+ "slug": "garai-dorothea",
+ "name": {
+  "vor": "Dorothea",
+  "nach": "Garai"
+ },
+ "geb": {
+  "jahr": 1899,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": 1982,
+  "ort": "Dresden",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1956,
+   "ort": "Dresden",
+   "land": "DDR",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Russisch"
+  ],
+  "a": [
+   "Russisch",
+   "Deutsch"
+  ]
+ }
+}

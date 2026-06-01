@@ -1,0 +1,19 @@
+{
+ "name_id": 422,
+ "slug": "koval-alexander",
+ "name": {
+  "vor": "Alexander",
+  "nach": "Koval"
+ },
+ "geb": {
+  "jahr": 1922,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1986,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 501,
+ "slug": "ehrenzeller-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Ehrenzeller"
+ },
+ "geb": {
+  "jahr": 1918,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": 1974,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

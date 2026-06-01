@@ -1,0 +1,34 @@
+{
+ "name_id": 94,
+ "slug": "jolles-bernhard",
+ "name": {
+  "vor": "Bernhard",
+  "nach": "Jolles"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Dresden",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Dänemark",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Dänisch",
+   "Französisch"
+  ]
+ }
+}

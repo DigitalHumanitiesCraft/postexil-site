@@ -1,0 +1,72 @@
+{
+ "name_id": 263,
+ "slug": "weiss-erika",
+ "name": {
+  "vor": "Erika",
+  "nach": "Weiss"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Basel",
+  "land": "Schweiz"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Basel?",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Basel",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Tscheljabinsk",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Schwerin",
+   "land": "SBZ",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": 1947,
+   "ort": "Basel",
+   "land": "Schweiz",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

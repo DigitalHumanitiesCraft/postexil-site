@@ -1,0 +1,19 @@
+{
+ "name_id": 551,
+ "slug": "rickmers-willi-rickmer",
+ "name": {
+  "vor": "Willi Rickmer",
+  "nach": "Rickmers"
+ },
+ "geb": {
+  "jahr": 1873,
+  "ort": "Bremerhaven",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1965,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

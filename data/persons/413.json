@@ -1,0 +1,222 @@
+{
+ "name_id": 413,
+ "slug": "lepman-jella",
+ "name": {
+  "vor": "Jella",
+  "nach": "Lepman"
+ },
+ "geb": {
+  "jahr": 1891,
+  "ort": "Stuttgart",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1970,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": true,
+ "qid": "Q105983",
+ "namensvarianten": [
+  "geborene Lehmann",
+  "Katherine Thomas (Pseudonym)"
+ ],
+ "geschlecht": "w",
+ "lebensdaten": {
+  "geb": "15.05.1891",
+  "geb_ort": "Stuttgart",
+  "geb_land": "Deutsches Reich",
+  "tod": "04.10.1970",
+  "tod_ort": "Zürich",
+  "tod_land": "Schweiz"
+ },
+ "beruf": [
+  "Journalistin",
+  "Schriftstellerin",
+  "Übersetzerin",
+  "Autorin"
+ ],
+ "konstellation": "Rückkehr-Übersetzung",
+ "konstellation_note": "vorläufig, Workshop-M2-Bestätigung offen",
+ "gdpr_status": "public",
+ "trajectory": [
+  {
+   "jahr": 1891,
+   "ort": "Stuttgart",
+   "land": "Deutsches Reich",
+   "zone": null,
+   "rolle": "Geburt/Frühphase"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Florenz",
+   "land": "Italien",
+   "zone": null,
+   "rolle": "Exil-Transit"
+  },
+  {
+   "jahr": 1936,
+   "ort": "London",
+   "land": "Vereinigtes Königreich",
+   "zone": null,
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Bad Homburg",
+   "land": "Deutschland",
+   "zone": "US",
+   "rolle": "Remigration/Wirkung"
+  },
+  {
+   "jahr": 1946,
+   "ort": "München",
+   "land": "Deutschland",
+   "zone": "US",
+   "rolle": "Wirkung"
+  },
+  {
+   "jahr": 1960,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "zone": null,
+   "rolle": "Spätphase/Tod"
+  }
+ ],
+ "events": [
+  {
+   "jahr": 1891,
+   "typ": "geburt"
+  },
+  {
+   "jahr": 1936,
+   "typ": "exil_start"
+  },
+  {
+   "jahr": 1945,
+   "typ": "remigration",
+   "label": "Semi-Remigration im Auftrag der US-Militärregierung"
+  },
+  {
+   "jahr": 1946,
+   "typ": "werks_hoehepunkt",
+   "label": "Ferdinand-Übersetzung + erste Internationale Jugendbuchausstellung München"
+  },
+  {
+   "jahr": 1949,
+   "typ": "auszeichnung",
+   "label": "Gründung Internationale Jugendbibliothek (IJB) München"
+  },
+  {
+   "jahr": 1970,
+   "typ": "tod"
+  }
+ ],
+ "werke": [
+  {
+   "source": "raw-md",
+   "ref_id": null,
+   "titel": "Women in Nazi Germany",
+   "jahr": 1943,
+   "ort": "London",
+   "verlag": "Victor Gollancz",
+   "zone": null,
+   "orig_autor": null,
+   "orig_sprache": null,
+   "ziel_sprache": "EN",
+   "werktyp": "buch",
+   "rolle": "autorin",
+   "pseudonym": "Katherine Thomas",
+   "dedup_status": null,
+   "note": "Eigenwerk, keine Übersetzung — auf Englisch verfasst"
+  },
+  {
+   "source": "raw-md",
+   "ref_id": null,
+   "titel": "Ferdinand der Stier",
+   "jahr": 1946,
+   "ort": "Berlin",
+   "verlag": null,
+   "zone": "US",
+   "orig_autor": "Munro Leaf",
+   "orig_sprache": "EN",
+   "ziel_sprache": "DE",
+   "werktyp": "buch",
+   "rolle": "übersetzerin",
+   "dedup_status": null,
+   "note": "Übersetzungscollage (Heute-Fassung + Güttinger 1942 + Eigenanteil); 30.000 Ex. als Weihnachtsgeschenk an Berliner Kinder verteilt"
+  },
+  {
+   "source": "raw-md",
+   "ref_id": null,
+   "titel": "The Tale of Mrs. Tiggy-Winkle",
+   "jahr": 1947,
+   "ort": "Hamburg",
+   "verlag": null,
+   "zone": "UK",
+   "orig_autor": "Beatrix Potter",
+   "orig_sprache": "EN",
+   "ziel_sprache": "DE",
+   "werktyp": "buch",
+   "rolle": "übersetzerin",
+   "dedup_status": null,
+   "note": "Sonderdruck zur Jugendbuchausstellung Hamburg; Übersetzer-Attribution an Lepman von Baumann als 'ziemlich wahrscheinlich' eingestuft — unsicher"
+  },
+  {
+   "source": "raw-md",
+   "ref_id": null,
+   "titel": "Observations",
+   "jahr": 1959,
+   "ort": "Luzern",
+   "verlag": "Camera Verlag Bucher",
+   "zone": null,
+   "orig_autor": "Truman Capote",
+   "orig_sprache": "EN",
+   "ziel_sprache": "DE",
+   "werktyp": "buch",
+   "rolle": "übersetzerin",
+   "dedup_status": null,
+   "note": "Text zu Fotografien von Richard Avedon; namentlich als Übersetzerin genannt"
+  },
+  {
+   "source": "raw-md",
+   "ref_id": null,
+   "titel": "Augenblicke",
+   "jahr": 1960,
+   "ort": "Luzern",
+   "verlag": "Camera Verlag Bucher",
+   "zone": null,
+   "orig_autor": "Alexander Liberman",
+   "orig_sprache": "EN",
+   "ziel_sprache": "DE",
+   "werktyp": "buch",
+   "rolle": "übersetzerin",
+   "dedup_status": null,
+   "note": "Einführung zu Fotografien von Irving Penn; namentlich als Übersetzerin genannt"
+  },
+  {
+   "source": "raw-md",
+   "ref_id": null,
+   "titel": "Matilda, die seltsame Kinderfrau",
+   "jahr": 1966,
+   "ort": "Zürich",
+   "verlag": "Atlantis",
+   "zone": null,
+   "orig_autor": "Christianna Brand",
+   "orig_sprache": "EN",
+   "ziel_sprache": "DE",
+   "werktyp": "buch",
+   "rolle": "übersetzerin",
+   "dedup_status": null,
+   "note": "Original 'Nurse Matilda'; namentlich als Übersetzerin genannt; ihre einzige professionelle Kinderbuch-Literaturübersetzung"
+  }
+ ],
+ "werke_provenance_note": "Lepman hat 0 DLBT-Werke und 0 Einträge im Sabine-Dedup-Pool (matches.csv). Alle werke[] stammen aus dem raw-md-Vollprofil (Baumann) — Prosa + Werkverzeichnis. Keine strukturierte CSV-Zeile, daher source='raw-md', ref_id=null, dedup_status=null.",
+ "story_url": "persons/413-lepman-jella.md",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q105983",
+  "wikipedia": "https://de.wikipedia.org/wiki/Jella_Lepman",
+  "dlbt_translator_query": null
+ },
+ "story_md": "In Stuttgart kommt sie 1891 als Jella Lehmann zur Welt, in ein liberales jüdisches Elternhaus. Sie wird Journalistin, schreibt für das *Stuttgarter Neue Tagblatt* und kandidiert für die DDP neben Theodor Heuss für den Reichstag. 1933 verliert sie als Jüdin ihre Festanstellung; 1936 muss sie sich mit ihren beiden Kindern über Florenz nach London ins Exil retten.\n\nIn London hält sie sich mühsam über Wasser — als Sekretärin für Anita Warburg, die Kindertransporte organisiert, und für die BBC und den Sender ABSIE. 1943 veröffentlicht sie bei Victor Gollancz unter dem Pseudonym Katherine Thomas das Buch *Women in Nazi Germany*. Über die Redaktionsarbeit für eine US-Zeitschrift wird man auf sie aufmerksam — und fragt, ob sie als Beraterin für Frauen- und Kinderfragen ins besetzte Deutschland gehen würde.\n\nIm Oktober 1945 kehrt sie in der Uniform der amerikanischen Besatzungsmacht nach Deutschland zurück — als „Semi-Remigrantin\", denn dauerhaft niederlassen will sie sich nicht. Zunächst kommt sie ins Hauptquartier der US-Militärregierung nach Bad Homburg, dann nach München, wo sie von 1946 bis 1948 stellvertretende Chefredakteurin der von der US-Militärbehörde herausgegebenen Illustrierten *Heute* wird. Bad Homburg wie München liegen in der US-Zone.\n\nIhr eigentliches Anliegen aber ist die Reeducation der Kinder durch Literatur. Im Dezember 1946 übersetzt sie Munro Leafs friedfertige Stiergeschichte *Ferdinand* und lässt 30.000 Exemplare als Weihnachtsgeschenk an Berliner Kinder verteilen — eine „Übersetzungscollage\" aus eigener Feder, der *Heute*-Fassung und Fritz Güttingers Schweizer Version von 1942, nicht ihre alleinige Urheberschaft. Übersetzen bleibt bei ihr lange Nebensache, eingebettet in Ausstellungen, Briefe an Verlage und unermüdliches Fundraising. Ihr bleibendes Werk ist die Internationale Jugendbibliothek in München, die sie gegen große Widerstände aufbaut und die bis heute besteht.\n\nErst im letzten Lebensjahrzehnt, zurückgezogen in Zürich, widmet sie sich erstmals dem professionellen Literaturübersetzen — zuletzt 1966 Christianna Brands *Matilda, die seltsame Kinderfrau*, in der man ihr eigenes Lebenswerk erkennen kann. 1970 stirbt sie in Zürich."
+}

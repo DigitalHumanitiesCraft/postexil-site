@@ -1,0 +1,19 @@
+{
+ "name_id": 452,
+ "slug": "wiese-ursula-von",
+ "name": {
+  "vor": "Ursula von",
+  "nach": "Wiese"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 2002,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false
+}

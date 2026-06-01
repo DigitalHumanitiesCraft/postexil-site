@@ -1,0 +1,47 @@
+{
+ "name_id": 343,
+ "slug": "ajchenrand-lajzer",
+ "name": {
+  "vor": "Lajzer",
+  "nach": "Ajchenrand"
+ },
+ "geb": {
+  "jahr": 1911,
+  "ort": "Demblin",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": 1985,
+  "ort": "Küsnacht",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1937,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Arbeitslager",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Jiddisch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

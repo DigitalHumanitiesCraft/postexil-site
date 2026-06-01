@@ -1,0 +1,41 @@
+{
+ "name_id": 29,
+ "slug": "wolff-federico",
+ "name": {
+  "vor": "Federico",
+  "nach": "Wolff"
+ },
+ "geb": {
+  "jahr": 1926,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Montevideo",
+   "land": "Uruguay",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1973,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

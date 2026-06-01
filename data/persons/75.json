@@ -1,0 +1,46 @@
+{
+ "name_id": 75,
+ "slug": "arpe-verner",
+ "name": {
+  "vor": "Verner",
+  "nach": "Arpe"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Hamburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1979,
+  "ort": "Stockholm",
+  "land": "Schweden"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Norrköping",
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Schwedisch"
+  ],
+  "a": [
+   "Schwedisch",
+   "Deutsch",
+   "Finnisch",
+   "Dänisch",
+   "Norwegisch"
+  ]
+ }
+}

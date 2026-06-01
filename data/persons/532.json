@@ -1,0 +1,19 @@
+{
+ "name_id": 532,
+ "slug": "koestin-karl",
+ "name": {
+  "vor": "Karl",
+  "nach": "Köstin"
+ },
+ "geb": {
+  "jahr": 1842,
+  "ort": "Wiesbaden",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1907,
+  "ort": "Dresden",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

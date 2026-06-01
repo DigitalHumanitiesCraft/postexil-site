@@ -1,0 +1,41 @@
+{
+ "name_id": 129,
+ "slug": "krell-max",
+ "name": {
+  "vor": "Max",
+  "nach": "Krell"
+ },
+ "geb": {
+  "jahr": 1887,
+  "ort": "Schloss Hubertusburg (Wermsdorf)",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1962,
+  "ort": "Florenz",
+  "land": "Italien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Italien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

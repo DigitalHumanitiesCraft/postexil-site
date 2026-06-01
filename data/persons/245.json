@@ -1,0 +1,35 @@
+{
+ "name_id": 245,
+ "slug": "bendemann-erwin-heinrich-von",
+ "name": {
+  "vor": "Erwin Heinrich von",
+  "nach": "Bendemann"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Epsom, Surrey",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 526,
+ "slug": "kauer-edmund",
+ "name": {
+  "vor": "Edmund",
+  "nach": "Kauer"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

@@ -1,0 +1,47 @@
+{
+ "name_id": 104,
+ "slug": "dessarre-eve",
+ "name": {
+  "vor": "Eve",
+  "nach": "Dessarre"
+ },
+ "geb": {
+  "jahr": 1926,
+  "ort": "Saarbrücken",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1990,
+  "ort": "Issy-les-Moulineaux",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": null,
+   "land": "Palästina",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

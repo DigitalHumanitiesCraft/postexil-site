@@ -1,0 +1,34 @@
+{
+ "name_id": 140,
+ "slug": "braun-felix",
+ "name": {
+  "vor": "Felix",
+  "nach": "Braun"
+ },
+ "geb": {
+  "jahr": 1885,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "Klosterneuburg",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Französisch",
+   "Italienisch"
+  ]
+ }
+}

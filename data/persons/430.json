@@ -1,0 +1,19 @@
+{
+ "name_id": 430,
+ "slug": "larsen-egon",
+ "name": {
+  "vor": "Egon",
+  "nach": "Larsen"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1990,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false
+}

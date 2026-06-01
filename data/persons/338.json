@@ -1,0 +1,56 @@
+{
+ "name_id": 338,
+ "slug": "hildesheimer-wolfgang",
+ "name": {
+  "vor": "Wolfgang",
+  "nach": "Hildesheimer"
+ },
+ "geb": {
+  "jahr": 1916,
+  "ort": "Hamburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1991,
+  "ort": "Poschiavo",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Surrey",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Jerusalem",
+   "land": "Palästina",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Haifa",
+   "land": "Palästina",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Englisch",
+   "Hebräisch",
+   "Deutsch"
+  ]
+ }
+}

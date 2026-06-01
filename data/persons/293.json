@@ -1,0 +1,49 @@
+{
+ "name_id": 293,
+ "slug": "goldschmidt-werner",
+ "name": {
+  "vor": "Werner",
+  "nach": "Goldschmidt"
+ },
+ "geb": {
+  "jahr": 1910,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1987,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Madrid",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1949,
+   "ort": "Tucamán",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch"
+  ]
+ }
+}

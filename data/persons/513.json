@@ -1,0 +1,19 @@
+{
+ "name_id": 513,
+ "slug": "gramowski-wolfram",
+ "name": {
+  "vor": "Wolfram",
+  "nach": "Gramowski"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

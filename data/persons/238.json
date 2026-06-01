@@ -1,0 +1,84 @@
+{
+ "name_id": 238,
+ "slug": "wolff-helen",
+ "name": {
+  "vor": "Helen",
+  "nach": "Wolff"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Skopje",
+  "land": "Osmanisches Reich"
+ },
+ "tod": {
+  "jahr": 1994,
+  "ort": "Hanover",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1931,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": null,
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Nizza",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Nizza",
+   "land": "Frankreich (Vichy)",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch"
+  ]
+ }
+}

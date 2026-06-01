@@ -1,0 +1,37 @@
+{
+ "name_id": 124,
+ "slug": "bach-carl",
+ "name": {
+  "vor": "Carl",
+  "nach": "Bach"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Strasbourg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Locarno",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Italienisch",
+   "Französisch"
+  ]
+ }
+}

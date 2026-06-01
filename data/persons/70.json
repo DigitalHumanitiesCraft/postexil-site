@@ -1,0 +1,37 @@
+{
+ "name_id": 70,
+ "slug": "weyl-helene",
+ "name": {
+  "vor": "Helene",
+  "nach": "Weyl"
+ },
+ "geb": {
+  "jahr": 1893,
+  "ort": "Ribnitz",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Princeton",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Princeton",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Spanisch",
+   "Englisch"
+  ]
+ }
+}

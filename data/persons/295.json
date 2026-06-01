@@ -1,0 +1,41 @@
+{
+ "name_id": 295,
+ "slug": "roepke-eva",
+ "name": {
+  "vor": "Eva",
+  "nach": "Röpke"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Stettin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Genf",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Istanbul",
+   "land": "Türkei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "Genf",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

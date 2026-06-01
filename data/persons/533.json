@@ -1,0 +1,19 @@
+{
+ "name_id": 533,
+ "slug": "landgrebe-erich",
+ "name": {
+  "vor": "Erich",
+  "nach": "Landgrebe"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1979,
+  "ort": "Salzburg",
+  "land": "Österreich"
+ },
+ "gold": false
+}

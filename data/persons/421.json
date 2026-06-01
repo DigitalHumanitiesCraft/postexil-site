@@ -1,0 +1,19 @@
+{
+ "name_id": 421,
+ "slug": "schweinitz-maria-von",
+ "name": {
+  "vor": "Maria von",
+  "nach": "Schweinitz"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Sulechów",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Penzberg",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

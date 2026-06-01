@@ -1,0 +1,73 @@
+{
+ "name_id": 391,
+ "slug": "dauber-doris",
+ "name": {
+  "vor": "Doris",
+  "nach": "Dauber"
+ },
+ "geb": {
+  "jahr": 1897,
+  "ort": "Würzburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1953,
+  "ort": "Leipzig",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Basel",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": null,
+   "land": "Irland",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": null,
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": null,
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": "Leipzig",
+   "land": "SBZ",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Spanisch",
+   "Englisch",
+   "Russisch"
+  ]
+ }
+}

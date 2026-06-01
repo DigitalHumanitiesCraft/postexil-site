@@ -1,0 +1,19 @@
+{
+ "name_id": 496,
+ "slug": "cyprys-werner",
+ "name": {
+  "vor": "Werner",
+  "nach": "Cyprys"
+ },
+ "geb": {
+  "jahr": 1922,
+  "ort": "Zabrze",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": 2000,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

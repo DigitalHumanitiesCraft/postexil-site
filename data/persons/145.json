@@ -1,0 +1,33 @@
+{
+ "name_id": 145,
+ "slug": "hahn-karl-josef",
+ "name": {
+  "vor": "Karl Josef",
+  "nach": "Hahn"
+ },
+ "geb": {
+  "jahr": 1912,
+  "ort": "Karlsbad",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 2001,
+  "ort": "Amersfoort",
+  "land": "Niederlande"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Niederlande",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Niederländisch"
+  ]
+ }
+}

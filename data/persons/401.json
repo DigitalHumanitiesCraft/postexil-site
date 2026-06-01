@@ -1,0 +1,35 @@
+{
+ "name_id": 401,
+ "slug": "lamm-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Lamm"
+ },
+ "geb": {
+  "jahr": 1913,
+  "ort": "München",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1985,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Kansas City",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

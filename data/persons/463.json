@@ -1,0 +1,19 @@
+{
+ "name_id": 463,
+ "slug": "brandenburg-josef",
+ "name": {
+  "vor": "Josef",
+  "nach": "Brandenburg"
+ },
+ "geb": {
+  "jahr": 1892,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": 1986,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

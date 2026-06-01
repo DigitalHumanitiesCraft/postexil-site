@@ -1,0 +1,19 @@
+{
+ "name_id": 494,
+ "slug": "cornioley-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Cornioley"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

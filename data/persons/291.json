@@ -1,0 +1,59 @@
+{
+ "name_id": 291,
+ "slug": "goldschmidt-robert",
+ "name": {
+  "vor": "Robert",
+  "nach": "Goldschmidt"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1965,
+  "ort": "Caracas",
+  "land": "Venezuela"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Florenz",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "St. Gallen",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Montevideo",
+   "land": "Uruguay",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Córdoba",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1953,
+   "ort": "Caracas",
+   "land": "Venezuela",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

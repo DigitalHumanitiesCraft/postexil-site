@@ -1,0 +1,41 @@
+{
+ "name_id": 148,
+ "slug": "lazar-maria",
+ "name": {
+  "vor": "Maria",
+  "nach": "Lazar"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1948,
+  "ort": "Stockholm",
+  "land": "Schweden"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Dänemark",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Schweden",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Dänisch",
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

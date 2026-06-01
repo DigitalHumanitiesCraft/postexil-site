@@ -1,0 +1,19 @@
+{
+ "name_id": 412,
+ "slug": "kornell-lore",
+ "name": {
+  "vor": "Lore",
+  "nach": "Kornell"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Posen",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1981,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

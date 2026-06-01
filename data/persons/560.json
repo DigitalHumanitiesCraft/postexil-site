@@ -1,0 +1,19 @@
+{
+ "name_id": 560,
+ "slug": "scholtz-rudolf-von",
+ "name": {
+  "vor": "Rudolf von",
+  "nach": "Scholtz"
+ },
+ "geb": {
+  "jahr": 1890,
+  "ort": "Wiesbaden",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1956,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

@@ -1,0 +1,42 @@
+{
+ "name_id": 134,
+ "slug": "hochdorf-max",
+ "name": {
+  "vor": "Max",
+  "nach": "Hochdorf"
+ },
+ "geb": {
+  "jahr": 1880,
+  "ort": "Stettin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1948,
+  "ort": "Brüssel",
+  "land": "Belgien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Belgien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Rumänisch"
+  ]
+ }
+}

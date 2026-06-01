@@ -1,0 +1,65 @@
+{
+ "name_id": 277,
+ "slug": "stern-kurt",
+ "name": {
+  "vor": "Kurt",
+  "nach": "Stern"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1989,
+  "ort": "Ost-Berlin",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": null,
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Casablanca",
+   "land": "Marokko",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": null,
+   "land": "Mexiko",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Berlin",
+   "land": "DDR",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

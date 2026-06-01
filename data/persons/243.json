@@ -1,0 +1,41 @@
+{
+ "name_id": 243,
+ "slug": "horschitz-horst-annemarie",
+ "name": {
+  "vor": "Annemarie",
+  "nach": "Horschitz-Horst"
+ },
+ "geb": {
+  "jahr": 1899,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

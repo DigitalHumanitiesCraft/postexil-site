@@ -1,0 +1,35 @@
+{
+ "name_id": 377,
+ "slug": "roth-joseph",
+ "name": {
+  "vor": "Joseph",
+  "nach": "Roth"
+ },
+ "geb": {
+  "jahr": 1894,
+  "ort": "Brody",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1939,
+  "ort": "Paris",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Niederländisch"
+  ]
+ }
+}

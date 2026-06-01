@@ -1,0 +1,33 @@
+{
+ "name_id": 154,
+ "slug": "salomonski-eva",
+ "name": {
+  "vor": "Eva",
+  "nach": "Salomonski"
+ },
+ "geb": {
+  "jahr": 1911,
+  "ort": "Frankfurt/Oder",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1995,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Spanisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 547,
+ "slug": "pfandler-gretl",
+ "name": {
+  "vor": "Gretl",
+  "nach": "Pfandler"
+ },
+ "geb": {
+  "jahr": 1913,
+  "ort": "Mannersdorf am Leithagebirge",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 2002,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

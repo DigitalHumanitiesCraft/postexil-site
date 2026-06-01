@@ -1,0 +1,41 @@
+{
+ "name_id": 34,
+ "slug": "wilhelm-kurt",
+ "name": {
+  "vor": "Kurt",
+  "nach": "Wilhelm"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Magdeburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1965,
+  "ort": "Stockholm",
+  "land": "Schweden"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Jerusalem",
+   "land": "Palästina",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1948,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Hebräisch"
+  ]
+ }
+}

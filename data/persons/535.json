@@ -1,0 +1,19 @@
+{
+ "name_id": 535,
+ "slug": "ledig-rowohlt-heinrich-maria",
+ "name": {
+  "vor": "Heinrich Maria",
+  "nach": "Ledig-Rowohlt"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Leipzig",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1992,
+  "ort": "Neu-Delhi",
+  "land": "Indien"
+ },
+ "gold": false
+}

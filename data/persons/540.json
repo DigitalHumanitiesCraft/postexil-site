@@ -1,0 +1,19 @@
+{
+ "name_id": 540,
+ "slug": "meuter-hanna",
+ "name": {
+  "vor": "Hanna",
+  "nach": "Meuter"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Düsseldorf",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1964,
+  "ort": "Lobberich",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

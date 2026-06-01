@@ -1,0 +1,60 @@
+{
+ "name_id": 86,
+ "slug": "adler-hermann",
+ "name": {
+  "vor": "Hermann",
+  "nach": "Adler"
+ },
+ "geb": {
+  "jahr": 1911,
+  "ort": "Diószeg",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 2001,
+  "ort": "Basel",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Krakau",
+   "land": "Polen",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Vilnius",
+   "land": "Litauen",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Warschau",
+   "land": "Polen",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Basel",
+   "land": "Schweiz",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Jiddisch",
+   "Hebräisch"
+  ]
+ }
+}

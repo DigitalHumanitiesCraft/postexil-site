@@ -1,0 +1,59 @@
+{
+ "name_id": 369,
+ "slug": "tschesno-hell-michael",
+ "name": {
+  "vor": "Michael",
+  "nach": "Tschesno-Hell"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Vilnius",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1980,
+  "ort": "Berlin",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": null,
+   "land": "Niederlande",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Berlin",
+   "land": "DDR",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

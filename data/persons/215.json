@@ -1,0 +1,44 @@
+{
+ "name_id": 215,
+ "slug": "klein-stefan-isidor",
+ "name": {
+  "vor": "Stefan Isidor",
+  "nach": "Klein"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1960,
+  "ort": "Saint Albans",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Ungarisch"
+  ],
+  "a": [
+   "Ungarisch",
+   "Slowakisch",
+   "Englisch"
+  ]
+ }
+}

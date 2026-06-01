@@ -1,0 +1,41 @@
+{
+ "name_id": 395,
+ "slug": "katz-richard",
+ "name": {
+  "vor": "Richard",
+  "nach": "Katz"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "???",
+  "land": "Tschechien"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "???",
+  "land": "Brasilien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1931,
+   "ort": "Locarno",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Rio de Janeiro",
+   "land": "Brasilien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Portugiesisch"
+  ]
+ }
+}

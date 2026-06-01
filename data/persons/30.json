@@ -1,0 +1,54 @@
+{
+ "name_id": 30,
+ "slug": "wolfensteiner-alfred",
+ "name": {
+  "vor": "Alfred",
+  "nach": "Wolfensteiner"
+ },
+ "geb": {
+  "jahr": 1883,
+  "ort": "Halle",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1945,
+  "ort": "Paris",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Frankreich (Vichy)",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1944,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

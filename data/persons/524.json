@@ -1,0 +1,19 @@
+{
+ "name_id": 524,
+ "slug": "ivers-axel",
+ "name": {
+  "vor": "Axel",
+  "nach": "Ivers"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Danzig",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": 1964,
+  "ort": "Wiesbaden",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

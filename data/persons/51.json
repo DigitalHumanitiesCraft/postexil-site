@@ -1,0 +1,47 @@
+{
+ "name_id": 51,
+ "slug": "walzer-richard",
+ "name": {
+  "vor": "Richard",
+  "nach": "Walzer"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1975,
+  "ort": "Oxford",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Rom",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Oxford",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch",
+   "Italienisch"
+  ],
+  "a": [
+   "Englisch",
+   "Griechisch",
+   "Arabisch",
+   "Italienisch",
+   "Altgriechisch"
+  ]
+ }
+}

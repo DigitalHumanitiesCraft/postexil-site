@@ -1,0 +1,55 @@
+{
+ "name_id": 284,
+ "slug": "cordan-wolfgang",
+ "name": {
+  "vor": "Wolfgang",
+  "nach": "Cordan"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1966,
+  "ort": "Chichicastenango",
+  "land": "Guatemala"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Amsterdam",
+   "land": "Niederlande",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": null,
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1953,
+   "ort": null,
+   "land": "Mexiko",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Niederländisch",
+   "Griechisch",
+   "Französisch"
+  ]
+ }
+}

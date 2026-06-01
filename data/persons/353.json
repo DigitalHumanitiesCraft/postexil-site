@@ -1,0 +1,44 @@
+{
+ "name_id": 353,
+ "slug": "grossmann-catalina",
+ "name": {
+  "vor": "Catalina",
+  "nach": "Grossmann"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": 1978,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch",
+   "Spanisch"
+  ]
+ }
+}

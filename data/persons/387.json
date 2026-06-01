@@ -1,0 +1,36 @@
+{
+ "name_id": 387,
+ "slug": "rutra-arthur-ernst",
+ "name": {
+  "vor": "Arthur Ernst",
+  "nach": "Rutra"
+ },
+ "geb": {
+  "jahr": 1892,
+  "ort": "Lemberg",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1942,
+  "ort": "Maly Trostinez",
+  "land": "Sowjetunion"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Polnisch",
+   "Französisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 435,
+ "slug": "kaempfer-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Kaempfer"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Braunschweig",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1974,
+  "ort": "Köln",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

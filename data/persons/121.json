@@ -1,0 +1,44 @@
+{
+ "name_id": 121,
+ "slug": "kalenter-ossip",
+ "name": {
+  "vor": "Ossip",
+  "nach": "Kalenter"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Dresden",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1976,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch",
+   "Niederländisch",
+   "Italienisch"
+  ]
+ }
+}

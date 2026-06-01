@@ -1,0 +1,64 @@
+{
+ "name_id": 78,
+ "slug": "auslaender-rose",
+ "name": {
+  "vor": "Rose",
+  "nach": "Ausländer"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "Czernowitz",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Düsseldorf",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Czernowitz",
+   "land": null,
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": null,
+   "ort": "Düsseldorf",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Jiddisch",
+   "Englisch",
+   "Polnisch",
+   "Rumänisch",
+   "Deutsch"
+  ]
+ }
+}

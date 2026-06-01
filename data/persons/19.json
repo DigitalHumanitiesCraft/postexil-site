@@ -1,0 +1,43 @@
+{
+ "name_id": 19,
+ "slug": "zerner-fritz",
+ "name": {
+  "vor": "Fritz",
+  "nach": "Zerner"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1951,
+  "ort": "Marseille",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Montluel",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Französisch"
+  ]
+ }
+}

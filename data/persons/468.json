@@ -1,0 +1,19 @@
+{
+ "name_id": 468,
+ "slug": "jaray-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Jaray"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1990,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false
+}

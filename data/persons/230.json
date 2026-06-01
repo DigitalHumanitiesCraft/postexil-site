@@ -1,0 +1,59 @@
+{
+ "name_id": 230,
+ "slug": "beer-jergitsch-lilly",
+ "name": {
+  "vor": "Lilly",
+  "nach": "Beer-Jergitsch"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Graz",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1928,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Swerdlowsk",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Samara",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

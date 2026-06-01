@@ -1,0 +1,19 @@
+{
+ "name_id": 454,
+ "slug": "reisiger-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Reisiger"
+ },
+ "geb": {
+  "jahr": 1884,
+  "ort": "Breslau",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": 1968,
+  "ort": "Garmisch-Partenkirchen",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

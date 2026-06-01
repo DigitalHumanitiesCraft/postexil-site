@@ -1,0 +1,19 @@
+{
+ "name_id": 449,
+ "slug": "wentzel-marianne",
+ "name": {
+  "vor": "Marianne",
+  "nach": "Wentzel"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

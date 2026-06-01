@@ -1,0 +1,19 @@
+{
+ "name_id": 458,
+ "slug": "rieder-hans-rudolf",
+ "name": {
+  "vor": "Hans Rudolf",
+  "nach": "Rieder"
+ },
+ "geb": {
+  "jahr": 1886,
+  "ort": "Neustadt an der Aisch",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1949,
+  "ort": "Marquartstein",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

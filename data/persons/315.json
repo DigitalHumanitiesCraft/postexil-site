@@ -1,0 +1,52 @@
+{
+ "name_id": 315,
+ "slug": "rabinowitch-eugene",
+ "name": {
+  "vor": "Eugene",
+  "nach": "Rabinowitch"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "St. Petersburg",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "Washington D.C.",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Kopenhagen",
+   "land": "Dänemark",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Russisch",
+   "Englisch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch",
+   "Russisch",
+   "Deutsch"
+  ]
+ }
+}

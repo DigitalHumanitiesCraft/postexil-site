@@ -1,0 +1,19 @@
+{
+ "name_id": 542,
+ "slug": "moszkowski-max",
+ "name": {
+  "vor": "Max",
+  "nach": "Moszkowski"
+ },
+ "geb": {
+  "jahr": 1873,
+  "ort": "Breslau",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Rio de Janeiro",
+  "land": "Brasilien"
+ },
+ "gold": false
+}

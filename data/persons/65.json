@@ -1,0 +1,43 @@
+{
+ "name_id": 65,
+ "slug": "spiel-hilde",
+ "name": {
+  "vor": "Hilde",
+  "nach": "Spiel"
+ },
+ "geb": {
+  "jahr": 1911,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1990,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1963,
+   "ort": null,
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Englisch",
+   "Deutsch"
+  ]
+ }
+}

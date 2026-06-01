@@ -1,0 +1,48 @@
+{
+ "name_id": 302,
+ "slug": "moering-richard",
+ "name": {
+  "vor": "Richard",
+  "nach": "Möring"
+ },
+ "geb": {
+  "jahr": 1894,
+  "ort": "Hamburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1974,
+  "ort": "Hamburg",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Gurs",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Madrid",
+   "land": "Spanien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

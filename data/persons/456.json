@@ -1,0 +1,19 @@
+{
+ "name_id": 456,
+ "slug": "gerull-kardas-ruth",
+ "name": {
+  "vor": "Ruth",
+  "nach": "Gerull-Kardas"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

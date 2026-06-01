@@ -1,0 +1,19 @@
+{
+ "name_id": 329,
+ "slug": "selke-angela",
+ "name": {
+  "vor": "Angela",
+  "nach": "Selke"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Odessa",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1993,
+  "ort": "Florida",
+  "land": "USA"
+ },
+ "gold": false
+}

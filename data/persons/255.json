@@ -1,0 +1,33 @@
+{
+ "name_id": 255,
+ "slug": "braunthal-bertha",
+ "name": {
+  "vor": "Bertha",
+  "nach": "Braunthal"
+ },
+ "geb": {
+  "jahr": 1887,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": []
+ }
+}

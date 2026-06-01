@@ -1,0 +1,35 @@
+{
+ "name_id": 390,
+ "slug": "weidenfeld-arthur-georg",
+ "name": {
+  "vor": "Arthur Georg",
+  "nach": "Weidenfeld"
+ },
+ "geb": {
+  "jahr": 1919,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 2016,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

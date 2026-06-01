@@ -1,0 +1,30 @@
+{
+ "name_id": 271,
+ "slug": "schumann-eva",
+ "name": {
+  "vor": "Eva",
+  "nach": "Schumann"
+ },
+ "geb": {
+  "jahr": 1891,
+  "ort": "Hainichen",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "Kreischa",
+  "land": "DDR"
+ },
+ "gold": false,
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch",
+   "Italienisch",
+   "Niederländisch"
+  ]
+ }
+}

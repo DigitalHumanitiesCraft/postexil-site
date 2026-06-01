@@ -1,0 +1,19 @@
+{
+ "name_id": 453,
+ "slug": "laporte-luise",
+ "name": {
+  "vor": "Luise",
+  "nach": "Laporte"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

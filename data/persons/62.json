@@ -1,0 +1,48 @@
+{
+ "name_id": 62,
+ "slug": "wolff-kurt-heinrich",
+ "name": {
+  "vor": "Kurt Heinrich",
+  "nach": "Wolff"
+ },
+ "geb": {
+  "jahr": 1912,
+  "ort": "Darmstadt",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2003,
+  "ort": "Newton",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Florenz",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "University Park",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Italienisch"
+  ]
+ }
+}

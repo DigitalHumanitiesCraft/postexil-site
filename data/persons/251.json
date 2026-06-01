@@ -1,0 +1,53 @@
+{
+ "name_id": 251,
+ "slug": "arnheim-rudolf",
+ "name": {
+  "vor": "Rudolf",
+  "nach": "Arnheim"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2007,
+  "ort": "Ann Arbor",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Rom",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1974,
+   "ort": "Ann Arbor",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

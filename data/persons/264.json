@@ -1,0 +1,71 @@
+{
+ "name_id": 264,
+ "slug": "selke-rudolf",
+ "name": {
+  "vor": "Rudolf",
+  "nach": "Selke"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Odessa",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "?",
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Ibiza",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Madrid",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Gurs",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Marseille",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "Mexiko",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Genf",
+   "land": "Schweiz",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Russisch",
+   "Spanisch"
+  ],
+  "a": [
+   "Russisch",
+   "Deutsch",
+   "Englisch",
+   "Französisch",
+   "Spanisch"
+  ]
+ }
+}

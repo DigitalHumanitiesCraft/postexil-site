@@ -1,0 +1,59 @@
+{
+ "name_id": 157,
+ "slug": "jacobi-lucy-von",
+ "name": {
+  "vor": "Lucy, von",
+  "nach": "Jacobi"
+ },
+ "geb": {
+  "jahr": 1887,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1956,
+  "ort": "Locarno",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Spindlermühle",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Fiesole",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Ascona",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Cureglia",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Französisch",
+   "Italienisch",
+   "Englisch"
+  ]
+ }
+}

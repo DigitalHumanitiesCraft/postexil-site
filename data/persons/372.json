@@ -1,0 +1,57 @@
+{
+ "name_id": 372,
+ "slug": "lewandovski-herbert",
+ "name": {
+  "vor": "Herbert",
+  "nach": "Lewandovski"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Cassel",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1996,
+  "ort": "Genf",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1937,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "interniert",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "interniert",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Genf",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Niederländisch"
+  ],
+  "a": [
+   "Niederländisch",
+   "Deutsch",
+   "Französisch",
+   "Russisch"
+  ]
+ }
+}

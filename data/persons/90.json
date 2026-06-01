@@ -1,0 +1,65 @@
+{
+ "name_id": 90,
+ "slug": "frank-bruno-sebald",
+ "name": {
+  "vor": "Bruno Sebald",
+  "nach": "Frank"
+ },
+ "geb": {
+  "jahr": 1887,
+  "ort": "Stuttgart",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1945,
+  "ort": "Beverly Hills",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Lugano",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Sanary-sur-Mer",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Salzburg",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "Menton",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

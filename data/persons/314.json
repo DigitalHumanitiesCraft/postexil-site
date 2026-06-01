@@ -1,0 +1,43 @@
+{
+ "name_id": 314,
+ "slug": "hauser-heinrich",
+ "name": {
+  "vor": "Heinrich",
+  "nach": "Hauser"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1955,
+  "ort": "Dießen",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1948,
+   "ort": "Hamburg",
+   "land": "Deutschland",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch"
+  ]
+ }
+}

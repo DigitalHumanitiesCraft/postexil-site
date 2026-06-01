@@ -1,0 +1,38 @@
+{
+ "name_id": 346,
+ "slug": "bussemeyer-peter",
+ "name": {
+  "vor": "Peter",
+  "nach": "Bussemeyer"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1932,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Spanisch"
+  ],
+  "a": [
+   "Spanisch",
+   "Englisch",
+   "Deutsch"
+  ]
+ }
+}

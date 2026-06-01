@@ -1,0 +1,35 @@
+{
+ "name_id": 45,
+ "slug": "unger-alfred-hermann",
+ "name": {
+  "vor": "Alfred Hermann",
+  "nach": "Unger"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Hohensalza",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1989,
+  "ort": "Köln",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1937,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

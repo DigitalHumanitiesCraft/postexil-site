@@ -1,0 +1,19 @@
+{
+ "name_id": 564,
+ "slug": "staub-hans-ulrich",
+ "name": {
+  "vor": "Hans Ulrich",
+  "nach": "Staub"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

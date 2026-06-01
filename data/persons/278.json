@@ -1,0 +1,35 @@
+{
+ "name_id": 278,
+ "slug": "fried-erich",
+ "name": {
+  "vor": "Erich",
+  "nach": "Fried"
+ },
+ "geb": {
+  "jahr": 1921,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Baden-Baden",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

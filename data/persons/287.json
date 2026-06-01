@@ -1,0 +1,44 @@
+{
+ "name_id": 287,
+ "slug": "goll-yvan",
+ "name": {
+  "vor": "Yvan",
+  "nach": "Goll"
+ },
+ "geb": {
+  "jahr": 1891,
+  "ort": "Saint Dié",
+  "land": "Frankreich"
+ },
+ "tod": {
+  "jahr": 1950,
+  "ort": "Neuilly",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch",
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Französisch"
+  ]
+ }
+}

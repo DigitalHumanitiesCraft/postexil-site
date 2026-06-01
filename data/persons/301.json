@@ -1,0 +1,49 @@
+{
+ "name_id": 301,
+ "slug": "kristeller-paul-oskar",
+ "name": {
+  "vor": "Paul Oskar",
+  "nach": "Kristeller"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1999,
+  "ort": "New York",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Florenz",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Pisa",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Italienisch",
+   "Englisch"
+  ],
+  "a": [
+   "Italienisch"
+  ]
+ }
+}

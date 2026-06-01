@@ -1,0 +1,19 @@
+{
+ "name_id": 330,
+ "slug": "buber-martin",
+ "name": {
+  "vor": "Martin",
+  "nach": "Buber"
+ },
+ "geb": {
+  "jahr": 1878,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1965,
+  "ort": "Jerusalem",
+  "land": "Israel"
+ },
+ "gold": false
+}

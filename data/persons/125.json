@@ -1,0 +1,36 @@
+{
+ "name_id": 125,
+ "slug": "curjel-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Curjel"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Karlsruhe",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1974,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Niederländisch",
+   "Italienisch"
+  ]
+ }
+}

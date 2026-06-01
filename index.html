@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang="de"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Post-Exile Translation</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/tokens.css">
+<style>
+  #map{position:fixed;inset:0;z-index:0}
+  header{position:fixed;top:0;left:0;right:0;height:50px;z-index:600;display:flex;align-items:center;
+    justify-content:space-between;padding:0 20px;background:rgba(243,236,221,.92);border-bottom:1px solid var(--rule)}
+  .wm{font-family:Spectral,serif;font-variant:small-caps;letter-spacing:.1em;font-weight:600;color:#4a4334}
+  .strip{position:fixed;left:0;right:0;bottom:0;z-index:500;display:flex;gap:8px;overflow-x:auto;
+    padding:26px 14px 14px;background:linear-gradient(to top,rgba(243,236,221,.96),transparent)}
+  .face{flex:0 0 auto;width:62px;height:62px;border-radius:4px;border:2px solid var(--sheet);cursor:pointer;
+    filter:grayscale(1) contrast(1.05);background-size:cover;background-position:center top;
+    box-shadow:0 1px 4px rgba(0,0,0,.2);transition:transform .15s}
+  .face:hover{transform:translateY(-6px)}
+  #search{position:fixed;top:62px;left:50%;transform:translateX(-50%);z-index:500;
+    border:1px solid var(--rule);border-radius:20px;padding:7px 14px;background:var(--sheet);width:260px}
+</style></head>
+<body>
+<div id="map"></div>
+<header><span class="mono">☰</span><span class="wm">Post-Exile Translation</span><span class="mono" style="color:var(--accent)">DE</span></header>
+<input id="search" placeholder="Person suchen …">
+<div class="strip" id="strip"></div>
+<script type="module" src="js/browse.js"></script>
+<a href="ueber-die-daten.html" class="mono" style="position:fixed;bottom:6px;left:14px;z-index:600;font-size:11px;color:var(--ink2);background:rgba(243,236,221,.8);padding:2px 8px;border-radius:10px">Über die Daten</a>
+</body></html>

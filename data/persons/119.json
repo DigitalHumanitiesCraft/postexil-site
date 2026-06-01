@@ -1,0 +1,47 @@
+{
+ "name_id": 119,
+ "slug": "schwarz-balduin",
+ "name": {
+  "vor": "Balduin",
+  "nach": "Schwarz"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Hannover",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1993,
+  "ort": "Ainring",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Fribourg",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Limoges",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

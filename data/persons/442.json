@@ -1,0 +1,19 @@
+{
+ "name_id": 442,
+ "slug": "schoen-marianne",
+ "name": {
+  "vor": "Marianne",
+  "nach": "Schön"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

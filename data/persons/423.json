@@ -1,0 +1,19 @@
+{
+ "name_id": 423,
+ "slug": "goyert-georg",
+ "name": {
+  "vor": "Georg",
+  "nach": "Goyert"
+ },
+ "geb": {
+  "jahr": 1884,
+  "ort": "Witten",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1966,
+  "ort": "Witten",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

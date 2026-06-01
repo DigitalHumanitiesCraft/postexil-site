@@ -1,0 +1,19 @@
+{
+ "name_id": 525,
+ "slug": "kahn-magda",
+ "name": {
+  "vor": "Magda",
+  "nach": "Kahn"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

@@ -1,0 +1,53 @@
+{
+ "name_id": 366,
+ "slug": "braun-otto",
+ "name": {
+  "vor": "Otto",
+  "nach": "Braun"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Ismaning",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1974,
+  "ort": "Warna",
+  "land": "Bulgarien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1928,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1932,
+   "ort": "Harbin",
+   "land": "China (vor 1949)",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1954,
+   "ort": "Berlin",
+   "land": "DDR",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

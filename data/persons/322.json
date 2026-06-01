@@ -1,0 +1,43 @@
+{
+ "name_id": 322,
+ "slug": "caltofen-rudolf",
+ "name": {
+  "vor": "Rudolf",
+  "nach": "Caltofen"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Dresden",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1983,
+  "ort": "Düsseldorf",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Spanien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Spanisch",
+   "Portugiesisch",
+   "Französisch"
+  ]
+ }
+}

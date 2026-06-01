@@ -1,0 +1,54 @@
+{
+ "name_id": 116,
+ "slug": "gebser-jean",
+ "name": {
+  "vor": "Jean",
+  "nach": "Gebser"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Posen",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "Bern",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1929,
+   "ort": null,
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1931,
+   "ort": null,
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Spanisch",
+   "Englisch"
+  ]
+ }
+}

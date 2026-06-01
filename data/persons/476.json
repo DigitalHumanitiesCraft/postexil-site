@@ -1,0 +1,19 @@
+{
+ "name_id": 476,
+ "slug": "luebbren-rainer",
+ "name": {
+  "vor": "Rainer",
+  "nach": "Lübbren"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

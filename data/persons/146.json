@@ -1,0 +1,59 @@
+{
+ "name_id": 146,
+ "slug": "koplenig-hilde",
+ "name": {
+  "vor": "Hilde",
+  "nach": "Koplenig"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Prag",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 2002,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Gorki",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Russisch",
+   "Französisch",
+   "Englisch"
+  ]
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "name_id": 115,
+ "slug": "firner-walter",
+ "name": {
+  "vor": "Walter",
+  "nach": "Firner"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 2002,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

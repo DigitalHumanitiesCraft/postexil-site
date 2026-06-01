@@ -1,0 +1,45 @@
+{
+ "name_id": 316,
+ "slug": "muntner-zisman",
+ "name": {
+  "vor": "Zisman",
+  "nach": "Muntner"
+ },
+ "geb": {
+  "jahr": 1897,
+  "ort": "Kolomea",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "Jerusalem",
+  "land": "Israel"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Palästina",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Israel",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Hebräisch",
+   "Englisch"
+  ],
+  "a": [
+   "Hebräisch",
+   "Griechisch",
+   "Latein",
+   "Arabisch"
+  ]
+ }
+}

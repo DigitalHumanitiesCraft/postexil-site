@@ -1,0 +1,45 @@
+{
+ "name_id": 109,
+ "slug": "stoessl-franz",
+ "name": {
+  "vor": "Franz",
+  "nach": "Stoessl"
+ },
+ "geb": {
+  "jahr": 1910,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Graz",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": "Fredericton",
+   "land": "Kanada",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1952,
+   "ort": "Graz",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Griechisch"
+  ]
+ }
+}

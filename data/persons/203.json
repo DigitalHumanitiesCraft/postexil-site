@@ -1,0 +1,35 @@
+{
+ "name_id": 203,
+ "slug": "rotten-elisabeth",
+ "name": {
+  "vor": "Elisabeth",
+  "nach": "Rotten"
+ },
+ "geb": {
+  "jahr": 1882,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1964,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Saanen",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

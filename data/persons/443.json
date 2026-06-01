@@ -1,0 +1,19 @@
+{
+ "name_id": 443,
+ "slug": "thesing-curt-egon",
+ "name": {
+  "vor": "Curt Egon",
+  "nach": "Thesing"
+ },
+ "geb": {
+  "jahr": 1879,
+  "ort": "Danzig",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": 1956,
+  "ort": "Bad Tölz",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

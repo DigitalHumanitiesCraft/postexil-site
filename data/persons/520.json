@@ -1,0 +1,19 @@
+{
+ "name_id": 520,
+ "slug": "henrich-helen",
+ "name": {
+  "vor": "Helen",
+  "nach": "Henrich"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

@@ -1,0 +1,49 @@
+{
+ "name_id": 225,
+ "slug": "flesch-brunningen-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Flesch-Brunningen"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Brünn",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1981,
+  "ort": "Bad Ischl",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Niederlande",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1958,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch"
+  ]
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "name_id": 361,
+ "slug": "strass-ignaz",
+ "name": {
+  "vor": "Ignaz",
+  "nach": "Strass"
+ },
+ "geb": {
+  "jahr": 1886,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "KZ Lublin-Majdanek",
+  "land": "Polen"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Drancy",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Lager Sobibor",
+   "land": "Polen",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "KZ Lublin-Majdanek",
+   "land": "Polen",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Französisch",
+   "Italienisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Französisch",
+   "Italienisch"
+  ]
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "name_id": 275,
+ "slug": "lambrecht-klaus",
+ "name": {
+  "vor": "Klaus",
+  "nach": "Lambrecht"
+ },
+ "geb": {
+  "jahr": 1912,
+  "ort": "Weimar",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

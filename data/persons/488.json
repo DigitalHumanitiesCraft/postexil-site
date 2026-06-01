@@ -1,0 +1,19 @@
+{
+ "name_id": 488,
+ "slug": "bahnmueller-karl",
+ "name": {
+  "vor": "Karl",
+  "nach": "Bahnmüller"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Pfullingen",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1956,
+  "ort": "Düsseldorf",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

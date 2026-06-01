@@ -1,0 +1,44 @@
+{
+ "name_id": 380,
+ "slug": "amir-yehoshua",
+ "name": {
+  "vor": "Yehoshua",
+  "nach": "Amir"
+ },
+ "geb": {
+  "jahr": 1911,
+  "ort": "Duisburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2002,
+  "ort": "Jerusalem",
+  "land": "Israel"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Rom",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Palästina",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Hebräisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Hebräisch",
+   "Englisch"
+  ]
+ }
+}

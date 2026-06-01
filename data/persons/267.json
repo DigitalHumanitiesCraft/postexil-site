@@ -1,0 +1,66 @@
+{
+ "name_id": 267,
+ "slug": "ackermann-werner",
+ "name": {
+  "vor": "Werner",
+  "nach": "Ackermann"
+ },
+ "geb": {
+  "jahr": 1892,
+  "ort": "Antwerpen",
+  "land": "Belgien"
+ },
+ "tod": {
+  "jahr": 1982,
+  "ort": "Mbabane",
+  "land": "Swasiland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Istanbul",
+   "land": "Türkei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Ibiza",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Antwerpen",
+   "land": "Belgien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Brüssel",
+   "land": "Deutsches Reich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Weinheim",
+   "land": "Amerikanische Besatzungszone",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": 1951,
+   "ort": null,
+   "land": "Südafrika",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Niederländisch",
+   "Flämisch"
+  ]
+ }
+}

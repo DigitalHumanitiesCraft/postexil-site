@@ -1,0 +1,39 @@
+{
+ "name_id": 144,
+ "slug": "zarek-otto",
+ "name": {
+  "vor": "Otto",
+  "nach": "Zarek"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1958,
+  "ort": "West-Berlin",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Budapest",
+   "land": "Ungarn",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

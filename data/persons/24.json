@@ -1,0 +1,67 @@
+{
+ "name_id": 24,
+ "slug": "wyant-gordon-michael",
+ "name": {
+  "vor": "Gordon Michael",
+  "nach": "Wyant"
+ },
+ "geb": {
+  "jahr": 1914,
+  "ort": "Frankfurt am Main",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2009,
+  "ort": "Victoria",
+  "land": "Kanada"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Bologna",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Birmingham",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Australien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Manchester",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1949,
+   "ort": "Chicago",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1954,
+   "ort": "Saskatoon",
+   "land": "Kanada",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Italienisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Italienisch"
+  ]
+ }
+}

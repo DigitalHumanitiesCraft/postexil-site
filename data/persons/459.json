@@ -1,0 +1,19 @@
+{
+ "name_id": 459,
+ "slug": "sueskind-wilhelm-e",
+ "name": {
+  "vor": "Wilhelm E.",
+  "nach": "Süskind"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "Weilheim in Oberbayern",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1970,
+  "ort": "Tutzing",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

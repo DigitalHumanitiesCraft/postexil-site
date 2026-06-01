@@ -1,0 +1,19 @@
+{
+ "name_id": 431,
+ "slug": "bode-helmut",
+ "name": {
+  "vor": "Helmut",
+  "nach": "Bode"
+ },
+ "geb": {
+  "jahr": 1910,
+  "ort": "Kronberg im Taunus",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Kronberg im Taunus",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

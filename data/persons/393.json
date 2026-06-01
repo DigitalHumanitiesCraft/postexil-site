@@ -1,0 +1,51 @@
+{
+ "name_id": 393,
+ "slug": "colpet-max",
+ "name": {
+  "vor": "Max",
+  "nach": "Colpet"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Königsberg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1998,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "interniert",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "interniert",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ]
+}

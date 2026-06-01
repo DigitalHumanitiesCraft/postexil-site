@@ -1,0 +1,41 @@
+{
+ "name_id": 112,
+ "slug": "mayer-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Mayer"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Köln",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2001,
+  "ort": "Tübingen",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Genf",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

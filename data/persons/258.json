@@ -1,0 +1,60 @@
+{
+ "name_id": 258,
+ "slug": "blei-franz",
+ "name": {
+  "vor": "Franz",
+  "nach": "Blei"
+ },
+ "geb": {
+  "jahr": 1871,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1942,
+  "ort": "Westbury",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1932,
+   "ort": "Palma de Mallorca",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Saltocchio",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Marseille",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Lissabon",
+   "land": "Portugal",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

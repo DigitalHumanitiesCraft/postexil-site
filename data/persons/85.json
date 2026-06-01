@@ -1,0 +1,49 @@
+{
+ "name_id": 85,
+ "slug": "guerster-eugen",
+ "name": {
+  "vor": "Eugen",
+  "nach": "Gürster"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Fürth",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1980,
+  "ort": "München",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1952,
+   "ort": null,
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Spanisch",
+   "Englisch"
+  ]
+ }
+}

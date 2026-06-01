@@ -1,0 +1,43 @@
+{
+ "name_id": 247,
+ "slug": "bauer-mengelberg-kaethe",
+ "name": {
+  "vor": "Käthe",
+  "nach": "Bauer-Mengelberg"
+ },
+ "geb": {
+  "jahr": 1894,
+  "ort": "Krefeld",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1968,
+  "ort": "New York",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Iowa",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "East Orange",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch"
+  ]
+ }
+}

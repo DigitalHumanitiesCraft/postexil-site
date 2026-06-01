@@ -1,0 +1,35 @@
+{
+ "name_id": 406,
+ "slug": "von-uexkuell-goeste",
+ "name": {
+  "vor": "Göste",
+  "nach": "von Uexküll"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "Heidelberg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1993,
+  "ort": "Hamburg",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

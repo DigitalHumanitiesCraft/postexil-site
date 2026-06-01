@@ -1,0 +1,55 @@
+{
+ "name_id": 25,
+ "slug": "wronkow-george",
+ "name": {
+  "vor": "George",
+  "nach": "Wronkow"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1989,
+  "ort": "New York",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Dänemark",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "Portugal",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Französisch"
+  ]
+ }
+}

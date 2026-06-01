@@ -1,0 +1,19 @@
+{
+ "name_id": 489,
+ "slug": "barlog-boleslaw",
+ "name": {
+  "vor": "Boleslaw",
+  "nach": "Barlog"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Breslau",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": 1999,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

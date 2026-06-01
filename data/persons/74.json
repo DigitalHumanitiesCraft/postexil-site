@@ -1,0 +1,37 @@
+{
+ "name_id": 74,
+ "slug": "arnold-paula",
+ "name": {
+  "vor": "Paula",
+  "nach": "Arnold"
+ },
+ "geb": {
+  "jahr": 1885,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1968,
+  "ort": "Binyamina",
+  "land": "Israel"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Binyamina",
+   "land": "Israel",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Hebräisch",
+   "Englisch"
+  ]
+ }
+}

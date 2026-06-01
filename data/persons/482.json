@@ -1,0 +1,19 @@
+{
+ "name_id": 482,
+ "slug": "pogats-erich",
+ "name": {
+  "vor": "Erich",
+  "nach": "Pogats"
+ },
+ "geb": {
+  "jahr": 1919,
+  "ort": "Kleinmeinharts",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1983,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false
+}

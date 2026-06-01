@@ -1,0 +1,48 @@
+{
+ "name_id": 150,
+ "slug": "magnus-erwin",
+ "name": {
+  "vor": "Erwin",
+  "nach": "Magnus"
+ },
+ "geb": {
+  "jahr": 1881,
+  "ort": "Hamburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1947,
+  "ort": "Kopenhagen",
+  "land": "Dänemark"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Dänemark",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Dänemark",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Englisch",
+   "Dänisch",
+   "Norwegisch",
+   "Schwedisch"
+  ]
+ }
+}

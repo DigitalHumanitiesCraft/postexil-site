@@ -1,0 +1,41 @@
+{
+ "name_id": 259,
+ "slug": "maslow-arkadij",
+ "name": {
+  "vor": "Arkadij",
+  "nach": "Maslow"
+ },
+ "geb": {
+  "jahr": 1891,
+  "ort": "Jelisawetgrad",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1941,
+  "ort": "La Habana",
+  "land": "Kuba"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Havanna",
+   "land": "Kuba",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

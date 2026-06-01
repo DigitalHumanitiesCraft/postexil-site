@@ -1,0 +1,55 @@
+{
+ "name_id": 250,
+ "slug": "amann-paul",
+ "name": {
+  "vor": "Paul",
+  "nach": "Amann"
+ },
+ "geb": {
+  "jahr": 1884,
+  "ort": "Prag",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1958,
+  "ort": "Bridgeport",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "La Chaume",
+   "land": "Frankreich (Vichy)",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Montpellier",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Gambier",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Französisch"
+  ],
+  "a": [
+   "Französisch",
+   "Deutsch"
+  ]
+ }
+}

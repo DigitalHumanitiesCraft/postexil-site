@@ -1,0 +1,19 @@
+{
+ "name_id": 436,
+ "slug": "kessel-elisabeth",
+ "name": {
+  "vor": "Elisabeth",
+  "nach": "Kessel"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Kairo",
+  "land": "Ägypten"
+ },
+ "tod": {
+  "jahr": 1959,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

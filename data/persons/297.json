@@ -1,0 +1,35 @@
+{
+ "name_id": 297,
+ "slug": "basch-ernst",
+ "name": {
+  "vor": "Ernst",
+  "nach": "Basch"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "München",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1983,
+  "ort": "New York",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

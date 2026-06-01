@@ -1,0 +1,19 @@
+{
+ "name_id": 461,
+ "slug": "zebrowski-bernhard",
+ "name": {
+  "vor": "Bernhard",
+  "nach": "Zebrowski"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Hamburg",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1962,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

@@ -1,0 +1,60 @@
+{
+ "name_id": 189,
+ "slug": "molnar-adolf",
+ "name": {
+  "vor": "Adolf",
+  "nach": "Molnar"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Espoo",
+  "land": "Finnland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Niederlande",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Klaipeda",
+   "land": "Litauen",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Kretinga",
+   "land": "Litauen",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Riga",
+   "land": "Lettland",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Helsinki",
+   "land": "Finnland",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Finnisch",
+   "Schwedisch"
+  ]
+ }
+}

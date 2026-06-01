@@ -1,0 +1,19 @@
+{
+ "name_id": 493,
+ "slug": "cohn-hans-w",
+ "name": {
+  "vor": "Hans W.",
+  "nach": "Cohn"
+ },
+ "geb": {
+  "jahr": 1916,
+  "ort": "Breslau",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": 2004,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false
+}

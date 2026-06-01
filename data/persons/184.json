@@ -1,0 +1,62 @@
+{
+ "name_id": 184,
+ "slug": "blumgrund-erika",
+ "name": {
+  "vor": "Erika",
+  "nach": "Blumgrund"
+ },
+ "geb": {
+  "jahr": 1924,
+  "ort": "Bratislava",
+  "land": "Tschechoslowakei"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "??",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1942,
+   "ort": "Budapest",
+   "land": "Ungarn",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1944,
+   "ort": "Theresienstadt",
+   "land": "Deutsches Reich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1948,
+   "ort": null,
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1948,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Spanisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Ungarisch",
+   "Slowakisch",
+   "Französisch",
+   "Latein",
+   "Italienisch",
+   "Hebräisch",
+   "Englisch",
+   "Tschechisch"
+  ]
+ }
+}

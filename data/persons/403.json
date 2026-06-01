@@ -1,0 +1,41 @@
+{
+ "name_id": 403,
+ "slug": "regensburger-marianne",
+ "name": {
+  "vor": "Marianne",
+  "nach": "Regensburger"
+ },
+ "geb": {
+  "jahr": 1921,
+  "ort": "Fürth",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2002,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Richmond, Indiana",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

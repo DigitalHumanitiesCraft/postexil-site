@@ -1,0 +1,19 @@
+{
+ "name_id": 475,
+ "slug": "loens-lisa-hausmann",
+ "name": {
+  "vor": "Lisa Hausmann-",
+  "nach": "Löns"
+ },
+ "geb": {
+  "jahr": 1871,
+  "ort": "Hannover",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1955,
+  "ort": "Bad Oeynhausen",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

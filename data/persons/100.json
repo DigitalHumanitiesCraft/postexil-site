@@ -1,0 +1,65 @@
+{
+ "name_id": 100,
+ "slug": "meckauer-walter",
+ "name": {
+  "vor": "Walter",
+  "nach": "Meckauer"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Breslau",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1966,
+  "ort": "München",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Positano",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1952,
+   "ort": "München",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Italienisch"
+  ]
+ }
+}

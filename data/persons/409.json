@@ -1,0 +1,19 @@
+{
+ "name_id": 409,
+ "slug": "braun-pinkas",
+ "name": {
+  "vor": "Pinkas",
+  "nach": "Braun"
+ },
+ "geb": {
+  "jahr": 1923,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "tod": {
+  "jahr": 2008,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

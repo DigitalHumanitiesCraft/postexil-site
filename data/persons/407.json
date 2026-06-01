@@ -1,0 +1,35 @@
+{
+ "name_id": 407,
+ "slug": "wagenseil-kurt",
+ "name": {
+  "vor": "Kurt",
+  "nach": "Wagenseil"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "München",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Tutzing",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "name_id": 63,
+ "slug": "berstel-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Berstel"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Neunkirchen",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Paris",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 417,
+ "slug": "scheu-riesz-helene",
+ "name": {
+  "vor": "Helene",
+  "nach": "Scheu-Riesz"
+ },
+ "geb": {
+  "jahr": 1880,
+  "ort": "Olmütz",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1970,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false
+}

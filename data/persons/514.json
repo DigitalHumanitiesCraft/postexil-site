@@ -1,0 +1,19 @@
+{
+ "name_id": 514,
+ "slug": "guenther-johannes-von",
+ "name": {
+  "vor": "Johannes von",
+  "nach": "Guenther"
+ },
+ "geb": {
+  "jahr": 1886,
+  "ort": "Jelgava",
+  "land": "Lettland"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "Kochel am See",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

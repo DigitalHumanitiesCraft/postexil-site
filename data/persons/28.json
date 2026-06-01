@@ -1,0 +1,44 @@
+{
+ "name_id": 28,
+ "slug": "wolff-charlotte",
+ "name": {
+  "vor": "Charlotte",
+  "nach": "Wolff"
+ },
+ "geb": {
+  "jahr": 1897,
+  "ort": "Riesenburg",
+  "land": "Preußen"
+ },
+ "tod": {
+  "jahr": 1986,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch",
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch",
+   "Französisch"
+  ]
+ }
+}

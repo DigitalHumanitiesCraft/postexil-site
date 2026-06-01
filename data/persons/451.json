@@ -1,0 +1,19 @@
+{
+ "name_id": 451,
+ "slug": "strohm-egon",
+ "name": {
+  "vor": "Egon",
+  "nach": "Strohm"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Trossingen",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1983,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

@@ -1,0 +1,34 @@
+{
+ "name_id": 156,
+ "slug": "vallentin-antonina",
+ "name": {
+  "vor": "Antonina",
+  "nach": "Vallentin"
+ },
+ "geb": {
+  "jahr": 1893,
+  "ort": "Lemberg",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1957,
+  "ort": "Paris",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1929,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Französisch",
+   "Englisch"
+  ]
+ }
+}

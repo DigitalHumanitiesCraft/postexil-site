@@ -1,0 +1,44 @@
+{
+ "name_id": 165,
+ "slug": "einhorn-erich",
+ "name": {
+  "vor": "Erich",
+  "nach": "Einhorn"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Czernowitz",
+  "land": "Rumänien"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Moskau",
+  "land": "Sowjetunion"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1949,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Russisch"
+  ],
+  "a": [
+   "Russisch",
+   "Rumänisch",
+   "Italienisch"
+  ]
+ }
+}

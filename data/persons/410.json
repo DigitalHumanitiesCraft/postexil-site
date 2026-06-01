@@ -1,0 +1,29 @@
+{
+ "name_id": 410,
+ "slug": "federn-kohlhaas-etta",
+ "name": {
+  "vor": "Etta",
+  "nach": "Federn-Kohlhaas"
+ },
+ "geb": {
+  "jahr": 1883,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1951,
+  "ort": "Paris",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Dänisch",
+   "Russisch",
+   "Jiddisch",
+   "Englisch",
+   "Altgriechisch"
+  ]
+ }
+}

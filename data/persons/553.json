@@ -1,0 +1,19 @@
+{
+ "name_id": 553,
+ "slug": "rinderknecht-peter",
+ "name": {
+  "vor": "Peter",
+  "nach": "Rinderknecht"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

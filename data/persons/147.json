@@ -1,0 +1,35 @@
+{
+ "name_id": 147,
+ "slug": "kauders-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Kauders"
+ },
+ "geb": {
+  "jahr": 1880,
+  "ort": "Prag",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1952,
+  "ort": "Locarno",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1930,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Englisch",
+   "Französisch",
+   "Niederländisch"
+  ]
+ }
+}

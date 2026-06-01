@@ -1,0 +1,35 @@
+{
+ "name_id": 26,
+ "slug": "woyslawski-zwi",
+ "name": {
+  "vor": "Zwi",
+  "nach": "Woyslawski"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Grajewo",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1957,
+  "ort": null,
+  "land": "Israel"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": null,
+   "land": "Palästina",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Hebräisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

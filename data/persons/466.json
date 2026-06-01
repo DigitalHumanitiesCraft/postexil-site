@@ -1,0 +1,19 @@
+{
+ "name_id": 466,
+ "slug": "gaedertz-karl-theodor",
+ "name": {
+  "vor": "Karl Theodor",
+  "nach": "Gaedertz"
+ },
+ "geb": {
+  "jahr": 1855,
+  "ort": "Lübeck",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1912,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

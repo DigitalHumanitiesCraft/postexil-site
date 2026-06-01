@@ -1,0 +1,55 @@
+{
+ "name_id": 183,
+ "slug": "blum-klara",
+ "name": {
+  "vor": "Klara",
+  "nach": "Blum"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Czernowitz",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1971,
+  "ort": "Guangzhou",
+  "land": "Volksrepublik China"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": "Shanghai",
+   "land": "China (vor 1949)",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1952,
+   "ort": "Nanjing",
+   "land": "Volksrepublik China",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1956,
+   "ort": "Guangzhou",
+   "land": "Volksrepublik China",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch",
+   "Lachisch",
+   "Chinesisch"
+  ]
+ }
+}

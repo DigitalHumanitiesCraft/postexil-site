@@ -1,0 +1,41 @@
+{
+ "name_id": 212,
+ "slug": "schmitz-siegfried",
+ "name": {
+  "vor": "Siegfried",
+  "nach": "Schmitz"
+ },
+ "geb": {
+  "jahr": 1886,
+  "ort": "Neutitschein",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1941,
+  "ort": "Jerusalem",
+  "land": "Palästina"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Mährisch-Ostrau",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Jerusalem",
+   "land": "Palästina",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Jiddisch"
+  ]
+ }
+}

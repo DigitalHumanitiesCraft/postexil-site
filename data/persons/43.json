@@ -1,0 +1,35 @@
+{
+ "name_id": 43,
+ "slug": "schmidl-leo",
+ "name": {
+  "vor": "Leo",
+  "nach": "Schmidl"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Budapest",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "name_id": 18,
+ "slug": "zohn-harry",
+ "name": {
+  "vor": "Harry",
+  "nach": "Zohn"
+ },
+ "geb": {
+  "jahr": 1923,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 2001,
+  "ort": "Boston",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Ramsgate",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Boston",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch"
+  ]
+ }
+}

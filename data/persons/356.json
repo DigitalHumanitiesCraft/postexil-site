@@ -1,0 +1,37 @@
+{
+ "name_id": 356,
+ "slug": "langfelder-otto",
+ "name": {
+  "vor": "Otto",
+  "nach": "Langfelder"
+ },
+ "geb": {
+  "jahr": 1903,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1941,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Spanisch"
+  ]
+ }
+}

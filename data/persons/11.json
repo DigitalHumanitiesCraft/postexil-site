@@ -1,0 +1,63 @@
+{
+ "name_id": 11,
+ "slug": "zweig-stefan",
+ "name": {
+  "vor": "Stefan",
+  "nach": "Zweig"
+ },
+ "geb": {
+  "jahr": 1881,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1942,
+  "ort": "Petrópolis",
+  "land": "Brasilien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Paraguay",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Brasilien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch",
+   "Italienisch",
+   "Portugiesisch",
+   "Türkisch"
+  ]
+ }
+}

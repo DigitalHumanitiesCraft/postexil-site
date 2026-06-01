@@ -1,0 +1,19 @@
+{
+ "name_id": 484,
+ "slug": "schreyvogl-friedrich",
+ "name": {
+  "vor": "Friedrich",
+  "nach": "Schreyvogl"
+ },
+ "geb": {
+  "jahr": 1899,
+  "ort": "Mauer",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1976,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false
+}

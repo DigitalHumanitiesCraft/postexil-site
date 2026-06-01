@@ -1,0 +1,19 @@
+{
+ "name_id": 545,
+ "slug": "otten-else",
+ "name": {
+  "vor": "Else",
+  "nach": "Otten"
+ },
+ "geb": {
+  "jahr": 1873,
+  "ort": "Amsterdam",
+  "land": "Niederlande"
+ },
+ "tod": {
+  "jahr": 1931,
+  "ort": "Düsseldorf",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

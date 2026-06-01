@@ -1,0 +1,19 @@
+{
+ "name_id": 457,
+ "slug": "rambach-grete",
+ "name": {
+  "vor": "Grete",
+  "nach": "Rambach"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

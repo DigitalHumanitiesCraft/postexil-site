@@ -1,0 +1,61 @@
+{
+ "name_id": 187,
+ "slug": "arendt-erich",
+ "name": {
+  "vor": "Erich",
+  "nach": "Arendt"
+ },
+ "geb": {
+  "jahr": 1903,
+  "ort": "Neuruppin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1984,
+  "ort": "Wilhelmshorst",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Mallorca",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Bogotá",
+   "land": "Kolumbien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": null,
+   "land": "DDR",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Spanisch",
+   "Russisch",
+   "Englisch"
+  ]
+ }
+}

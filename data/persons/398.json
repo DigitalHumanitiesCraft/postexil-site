@@ -1,0 +1,35 @@
+{
+ "name_id": 398,
+ "slug": "guggenheimer-walter-maria",
+ "name": {
+  "vor": "Walter Maria",
+  "nach": "Guggenheimer"
+ },
+ "geb": {
+  "jahr": 1903,
+  "ort": "München",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1967,
+  "ort": "Frankfurt",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": "Teheran",
+   "land": "Iran",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

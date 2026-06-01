@@ -1,0 +1,42 @@
+{
+ "name_id": 383,
+ "slug": "rand-rose-rozalia",
+ "name": {
+  "vor": "Rose (Rozalia)",
+  "nach": "Rand"
+ },
+ "geb": {
+  "jahr": 1903,
+  "ort": "Lemberg",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1980,
+  "ort": "Princeton",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Princeton",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Polnisch"
+  ]
+ }
+}

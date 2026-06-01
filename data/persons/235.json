@@ -1,0 +1,59 @@
+{
+ "name_id": 235,
+ "slug": "zuckermann-leo",
+ "name": {
+  "vor": "Leo",
+  "nach": "Zuckermann"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Lublin",
+  "land": "Kongresspolen"
+ },
+ "tod": {
+  "jahr": 1985,
+  "ort": "Mexiko-Stadt",
+  "land": "Mexiko"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Marseille",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Mexiko-Stadt",
+   "land": "Mexiko",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": null,
+   "land": "SBZ",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": null,
+   "ort": "Mexiko-Stadt",
+   "land": "Mexiko",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

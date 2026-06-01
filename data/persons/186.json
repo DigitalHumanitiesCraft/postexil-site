@@ -1,0 +1,43 @@
+{
+ "name_id": 186,
+ "slug": "gotfurt-dorothea",
+ "name": {
+  "vor": "Dorothea",
+  "nach": "Gotfurt"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Englisch",
+   "Deutsch"
+  ]
+ }
+}

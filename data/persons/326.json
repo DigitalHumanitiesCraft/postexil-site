@@ -1,0 +1,19 @@
+{
+ "name_id": 326,
+ "slug": "kiesler-stefanie",
+ "name": {
+  "vor": "Stefanie",
+  "nach": "Kiesler"
+ },
+ "geb": {
+  "jahr": 1897,
+  "ort": "Skoczów",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": 1963,
+  "ort": "New York City",
+  "land": "USA"
+ },
+ "gold": false
+}

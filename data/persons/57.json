@@ -1,0 +1,38 @@
+{
+ "name_id": 57,
+ "slug": "weisskopf-kurt",
+ "name": {
+  "vor": "Kurt",
+  "nach": "Weisskopf"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Brno",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Brighton",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Tschechisch",
+   "Russisch",
+   "Deutsch"
+  ]
+ }
+}

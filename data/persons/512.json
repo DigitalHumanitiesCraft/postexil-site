@@ -1,0 +1,19 @@
+{
+ "name_id": 512,
+ "slug": "gordon-wolff-von",
+ "name": {
+  "vor": "Wolff von",
+  "nach": "Gordon"
+ },
+ "geb": {
+  "jahr": 1894,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1976,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

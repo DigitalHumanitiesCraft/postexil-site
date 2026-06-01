@@ -1,0 +1,48 @@
+{
+ "name_id": 221,
+ "slug": "kalmer-joseph",
+ "name": {
+  "vor": "Joseph",
+  "nach": "Kalmer"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Nehrybka",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1959,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Chinesisch",
+   "Englisch",
+   "Französisch",
+   "Hindi",
+   "Russisch",
+   "Spanisch",
+   "Tschechisch",
+   "Italienisch"
+  ]
+ }
+}

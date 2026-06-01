@@ -1,0 +1,41 @@
+{
+ "name_id": 88,
+ "slug": "berendsohn-walter-a",
+ "name": {
+  "vor": "Walter A.",
+  "nach": "Berendsohn"
+ },
+ "geb": {
+  "jahr": 1884,
+  "ort": "Hamburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1984,
+  "ort": "Stockholm",
+  "land": "Schweden"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Dänemark",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Schwedisch"
+  ]
+ }
+}

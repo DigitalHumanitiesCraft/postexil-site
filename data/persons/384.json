@@ -1,0 +1,35 @@
+{
+ "name_id": 384,
+ "slug": "klein-viola",
+ "name": {
+  "vor": "Viola",
+  "nach": "Klein"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "Reading",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "name_id": 137,
+ "slug": "frisch-efraim",
+ "name": {
+  "vor": "Efraim",
+  "nach": "Frisch"
+ },
+ "geb": {
+  "jahr": 1873,
+  "ort": "Stryy",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1942,
+  "ort": "Ascona",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Ascona",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Französisch"
+  ],
+  "a": [
+   "Englisch",
+   "Jiddisch",
+   "Französisch",
+   "Hebräisch"
+  ]
+ }
+}

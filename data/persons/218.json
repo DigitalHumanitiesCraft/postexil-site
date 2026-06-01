@@ -1,0 +1,31 @@
+{
+ "name_id": 218,
+ "slug": "jesensk-milena",
+ "name": {
+  "vor": "Milena",
+  "nach": "Jesenská"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Prag",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1944,
+  "ort": "Ravensbrück",
+  "land": "Deutsches Reich"
+ },
+ "gold": false,
+ "sprachen": {
+  "z": [
+   "Tschechisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch",
+   "Französisch",
+   "Ungarisch",
+   "Russisch"
+  ]
+ }
+}

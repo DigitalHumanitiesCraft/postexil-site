@@ -1,0 +1,19 @@
+{
+ "name_id": 556,
+ "slug": "schalit-susanne",
+ "name": {
+  "vor": "Susanne",
+  "nach": "Schalit"
+ },
+ "geb": {
+  "jahr": 1933,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1971,
+  "ort": "Jerusalem",
+  "land": "Israel"
+ },
+ "gold": false
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 474,
+ "slug": "lerbs-karl",
+ "name": {
+  "vor": "Karl",
+  "nach": "Lerbs"
+ },
+ "geb": {
+  "jahr": 1893,
+  "ort": "Bremen",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1946,
+  "ort": "Bad Hindelang",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

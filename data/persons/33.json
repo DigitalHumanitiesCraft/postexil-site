@@ -1,0 +1,36 @@
+{
+ "name_id": 33,
+ "slug": "winter-gerhard",
+ "name": {
+  "vor": "Gerhard",
+  "nach": "Winter"
+ },
+ "geb": {
+  "jahr": 1903,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1968,
+  "ort": "Melbourne",
+  "land": "Australien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Australien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Spanisch"
+  ]
+ }
+}

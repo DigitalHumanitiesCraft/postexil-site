@@ -1,0 +1,55 @@
+{
+ "name_id": 299,
+ "slug": "wittfogel-karl",
+ "name": {
+  "vor": "Karl",
+  "nach": "Wittfogel"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Woltersdorf",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "New York",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Peking",
+   "land": "China (vor 1949)",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Englisch"
+  ],
+  "a": [
+   "Chinesisch",
+   "Englisch"
+  ]
+ }
+}

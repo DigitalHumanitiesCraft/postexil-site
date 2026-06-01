@@ -1,0 +1,80 @@
+{
+ "name_id": 22,
+ "slug": "zahorsky-anton-maria",
+ "name": {
+  "vor": "Anton Maria",
+  "nach": "Zahorsky"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Triest",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1985,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Triest",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": "Venedig",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Rom",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Venedig",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Triest",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1956,
+   "ort": "Innsbruck",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": 1956,
+   "ort": "Klagenfurt",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Italienisch",
+   "Deutsch",
+   "Französisch"
+  ],
+  "a": [
+   "Englisch",
+   "Italienisch"
+  ]
+ }
+}

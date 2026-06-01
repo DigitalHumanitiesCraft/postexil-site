@@ -1,0 +1,71 @@
+{
+ "name_id": 191,
+ "slug": "janka-walter",
+ "name": {
+  "vor": "Walter",
+  "nach": "Janka"
+ },
+ "geb": {
+  "jahr": 1914,
+  "ort": "Chemnitz",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1994,
+  "ort": "Kleinmachnow",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": null,
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Internierungslager",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Marseille",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Mexiko-Stadt",
+   "land": "Mexiko",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": "Berlin",
+   "land": "SBZ",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Spanisch"
+  ]
+ }
+}

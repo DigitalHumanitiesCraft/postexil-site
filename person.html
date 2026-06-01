@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="de"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Person · Post-Exile Translation</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;500;600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/person.css">
+</head><body>
+<header style="position:fixed;top:0;left:0;right:0;height:50px;z-index:600;display:flex;align-items:center;justify-content:space-between;padding:0 20px;background:rgba(243,236,221,.92);border-bottom:1px solid var(--rule)">
+  <a href="index.html" class="mono" style="text-decoration:none;color:var(--ink)">‹ zurück</a>
+  <span class="wm serif" style="font-variant:small-caps;letter-spacing:.1em;font-weight:600">Post-Exile Translation</span>
+  <span class="mono" style="color:var(--accent)">DE</span>
+</header>
+<div class="plate"><div id="map"></div>
+  <div class="platecap mono"><span id="tafelcap">TAFEL · EXILROUTE</span></div>
+  <div class="life"><div class="lab mono">LEBENSLINIE — vor 1945 grau · ab 1945 Tusche</div>
+    <div class="bar" id="bar"></div><div class="yrs mono" id="yrs"></div></div>
+</div>
+<div class="stage"><div class="sheet" id="sheet"></div></div>
+<script type="module" src="js/person.js"></script>
+</body></html>

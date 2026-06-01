@@ -1,0 +1,19 @@
+{
+ "name_id": 385,
+ "slug": "goldscheider-ludwig",
+ "name": {
+  "vor": "Ludwig",
+  "nach": "Goldscheider"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1973,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false
+}

@@ -1,0 +1,49 @@
+{
+ "name_id": 13,
+ "slug": "zur-muehlen-hermynia",
+ "name": {
+  "vor": "Hermynia",
+  "nach": "zur Mühlen"
+ },
+ "geb": {
+  "jahr": 1883,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1951,
+  "ort": "Radlett",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Bratislava",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch",
+   "Russisch"
+  ]
+ }
+}

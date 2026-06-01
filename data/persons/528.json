@@ -1,0 +1,19 @@
+{
+ "name_id": 528,
+ "slug": "keim-heinrich-wilhelm",
+ "name": {
+  "vor": "Heinrich Wilhelm",
+  "nach": "Keim"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Düsseldorf",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1964,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

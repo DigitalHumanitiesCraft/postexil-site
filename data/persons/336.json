@@ -1,0 +1,42 @@
+{
+ "name_id": 336,
+ "slug": "mueller-lisowski-kaete",
+ "name": {
+  "vor": "Käte",
+  "nach": "Müller-Lisowski"
+ },
+ "geb": {
+  "jahr": 1883,
+  "ort": "Arnswalde",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1960,
+  "ort": "Birmingham",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1937,
+   "ort": "Dublin",
+   "land": "Irland",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1954,
+   "ort": "Birmingham",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Irisch",
+   "Englisch"
+  ]
+ }
+}

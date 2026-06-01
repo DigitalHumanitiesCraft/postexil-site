@@ -1,0 +1,41 @@
+{
+ "name_id": 354,
+ "slug": "krotoschin-ernesto",
+ "name": {
+  "vor": "Ernesto",
+  "nach": "Krotoschin"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Gotha",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "name_id": 210,
+ "slug": "kurella-alfred",
+ "name": {
+  "vor": "Alfred",
+  "nach": "Kurella"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Brieg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1975,
+  "ort": "Berlin",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1932,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Pskhu",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1949,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1954,
+   "ort": "Berlin",
+   "land": "DDR",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Russisch"
+  ],
+  "a": [
+   "Französisch",
+   "Russisch"
+  ]
+ }
+}

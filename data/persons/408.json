@@ -1,0 +1,19 @@
+{
+ "name_id": 408,
+ "slug": "bergmann-wolf",
+ "name": {
+  "vor": "Wolf",
+  "nach": "Bergmann"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Freiburg im Breisgau",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1972,
+  "ort": "Lissabon",
+  "land": "Portugal"
+ },
+ "gold": false
+}

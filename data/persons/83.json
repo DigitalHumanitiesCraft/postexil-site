@@ -1,0 +1,38 @@
+{
+ "name_id": 83,
+ "slug": "bauer-alfredo",
+ "name": {
+  "vor": "Alfredo",
+  "nach": "Bauer"
+ },
+ "geb": {
+  "jahr": 1924,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 2016,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Spanisch",
+   "Italienisch"
+  ]
+ }
+}

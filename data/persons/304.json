@@ -1,0 +1,41 @@
+{
+ "name_id": 304,
+ "slug": "freund-hellmut",
+ "name": {
+  "vor": "Hellmut",
+  "nach": "Freund"
+ },
+ "geb": {
+  "jahr": 1919,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2004,
+  "ort": "Frankfurt am Main",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Montevideo",
+   "land": "Uruguay",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1960,
+   "ort": null,
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

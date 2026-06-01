@@ -1,0 +1,33 @@
+{
+ "name_id": 159,
+ "slug": "bernfeld-anne",
+ "name": {
+  "vor": "Anne",
+  "nach": "Bernfeld"
+ },
+ "geb": {
+  "jahr": 1892,
+  "ort": "Hirschberg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1941,
+  "ort": null,
+  "land": "Usbekistan"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1924,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

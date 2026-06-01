@@ -1,0 +1,47 @@
+{
+ "name_id": 216,
+ "slug": "roda-becher-dana",
+ "name": {
+  "vor": "Dana",
+  "nach": "Roda Becher"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "??",
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Brasilien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Altgriechisch"
+  ]
+ }
+}

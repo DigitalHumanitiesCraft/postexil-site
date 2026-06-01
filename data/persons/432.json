@@ -1,0 +1,19 @@
+{
+ "name_id": 432,
+ "slug": "bruckner-karl",
+ "name": {
+  "vor": "Karl",
+  "nach": "Bruckner"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1982,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false
+}

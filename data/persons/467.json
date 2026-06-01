@@ -1,0 +1,19 @@
+{
+ "name_id": 467,
+ "slug": "hellmer-kurt",
+ "name": {
+  "vor": "Kurt",
+  "nach": "Hellmer"
+ },
+ "geb": {
+  "jahr": 1909,
+  "ort": "Frankfurt am Main",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "New York City",
+  "land": "USA"
+ },
+ "gold": false
+}

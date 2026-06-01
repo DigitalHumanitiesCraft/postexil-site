@@ -1,0 +1,61 @@
+{
+ "name_id": 82,
+ "slug": "baudisch-paul",
+ "name": {
+  "vor": "Paul",
+  "nach": "Baudisch"
+ },
+ "geb": {
+  "jahr": 1899,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1977,
+  "ort": "Dalarö",
+  "land": "Schweden"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1957,
+   "ort": "München",
+   "land": "BRD",
+   "rolle": "Remigration"
+  },
+  {
+   "jahr": 1967,
+   "ort": null,
+   "land": "Schweden",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch",
+   "Schwedisch"
+  ]
+ }
+}

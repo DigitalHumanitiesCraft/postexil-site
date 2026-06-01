@@ -1,0 +1,19 @@
+{
+ "name_id": 477,
+ "slug": "meurer-kurt-erich",
+ "name": {
+  "vor": "Kurt Erich",
+  "nach": "Meurer"
+ },
+ "geb": {
+  "jahr": 1891,
+  "ort": "Meiningen",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1962,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

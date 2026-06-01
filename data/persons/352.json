@@ -1,0 +1,48 @@
+{
+ "name_id": 352,
+ "slug": "brugger-ilse",
+ "name": {
+  "vor": "Ilse",
+  "nach": "Brugger"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1995,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": "Bregenz",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Mailand",
+   "land": "Italien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Englisch"
+  ]
+ }
+}

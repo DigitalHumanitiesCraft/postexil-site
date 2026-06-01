@@ -1,0 +1,19 @@
+{
+ "name_id": 499,
+ "slug": "durian-wolf",
+ "name": {
+  "vor": "Wolf",
+  "nach": "Durian"
+ },
+ "geb": {
+  "jahr": 1892,
+  "ort": "Stuttgart",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1969,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

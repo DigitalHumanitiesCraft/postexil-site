@@ -1,0 +1,19 @@
+{
+ "name_id": 464,
+ "slug": "brody-daisy",
+ "name": {
+  "vor": "Daisy",
+  "nach": "Brody"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1979,
+  "ort": "Lugano",
+  "land": "Schweiz"
+ },
+ "gold": false
+}

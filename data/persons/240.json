@@ -1,0 +1,35 @@
+{
+ "name_id": 240,
+ "slug": "pariser-anton",
+ "name": {
+  "vor": "Anton",
+  "nach": "Pariser"
+ },
+ "geb": {
+  "jahr": 1890,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1965,
+  "ort": "Paris",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

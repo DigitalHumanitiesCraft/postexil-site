@@ -1,0 +1,35 @@
+{
+ "name_id": 351,
+ "slug": "wolmut-gerty-felice",
+ "name": {
+  "vor": "Gerty Felice",
+  "nach": "Wolmut"
+ },
+ "geb": {
+  "jahr": 1897,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1989,
+  "ort": "Portland",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

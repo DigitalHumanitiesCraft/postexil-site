@@ -1,0 +1,19 @@
+{
+ "name_id": 544,
+ "slug": "nothard-fritz",
+ "name": {
+  "vor": "Fritz",
+  "nach": "Nothard"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Hohenstaufen",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1976,
+  "ort": "Lugano",
+  "land": "Schweiz"
+ },
+ "gold": false
+}

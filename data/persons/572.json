@@ -1,0 +1,19 @@
+{
+ "name_id": 572,
+ "slug": "wendorff-rudolf",
+ "name": {
+  "vor": "Rudolf",
+  "nach": "Wendorff"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Gütersloh",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

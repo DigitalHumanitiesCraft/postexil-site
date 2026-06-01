@@ -1,0 +1,41 @@
+{
+ "name_id": 182,
+ "slug": "beradt-charlotte",
+ "name": {
+  "vor": "Charlotte",
+  "nach": "Beradt"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Forst (Lausitz)",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1986,
+  "ort": "New York",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

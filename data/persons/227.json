@@ -1,0 +1,36 @@
+{
+ "name_id": 227,
+ "slug": "fischer-grete",
+ "name": {
+  "vor": "Grete",
+  "nach": "Fischer"
+ },
+ "geb": {
+  "jahr": 1893,
+  "ort": "Prag",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1977,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Jiddisch",
+   "Englisch"
+  ]
+ }
+}

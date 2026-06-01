@@ -1,0 +1,19 @@
+{
+ "name_id": 557,
+ "slug": "schede-wolfgang-martin",
+ "name": {
+  "vor": "Wolfgang Martin",
+  "nach": "Schede"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Stuttgart",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1975,
+  "ort": "Bodman-Ludwigshafen",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

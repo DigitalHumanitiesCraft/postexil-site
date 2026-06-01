@@ -1,0 +1,47 @@
+{
+ "name_id": 123,
+ "slug": "frank-elena",
+ "name": {
+  "vor": "Elena",
+  "nach": "Frank"
+ },
+ "geb": {
+  "jahr": 1899,
+  "ort": "Kiew",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": null,
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

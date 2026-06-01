@@ -1,0 +1,19 @@
+{
+ "name_id": 495,
+ "slug": "cramer-nauhaus-barbara",
+ "name": {
+  "vor": "Barbara",
+  "nach": "Cramer-Nauhaus"
+ },
+ "geb": {
+  "jahr": 1927,
+  "ort": "Brandenburg an der Havel",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 2001,
+  "ort": "Halle (Saale)",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

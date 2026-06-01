@@ -1,0 +1,19 @@
+{
+ "name_id": 508,
+ "slug": "freinthal-katharina",
+ "name": {
+  "vor": "Katharina",
+  "nach": "Freinthal"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

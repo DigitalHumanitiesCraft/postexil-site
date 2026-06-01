@@ -1,0 +1,19 @@
+{
+ "name_id": 505,
+ "slug": "fallada-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Fallada"
+ },
+ "geb": {
+  "jahr": 1893,
+  "ort": "Greifswald",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1947,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

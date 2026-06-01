@@ -1,0 +1,65 @@
+{
+ "name_id": 305,
+ "slug": "barta-mikl-emma",
+ "name": {
+  "vor": "Emma",
+  "nach": "Barta-Mikl"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Graz",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1993,
+  "ort": "Villa General Belgrano",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": "Córdoba",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1948,
+   "ort": null,
+   "land": "Deutschland",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": null,
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1960,
+   "ort": "Lima",
+   "land": "Peru",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1975,
+   "ort": null,
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Spanisch"
+  ]
+ }
+}

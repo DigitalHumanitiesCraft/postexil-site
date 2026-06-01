@@ -1,0 +1,53 @@
+{
+ "name_id": 292,
+ "slug": "goldschmidt-margarete",
+ "name": {
+  "vor": "Margarete",
+  "nach": "Goldschmidt"
+ },
+ "geb": {
+  "jahr": 1883,
+  "ort": null,
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": "Madrid",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Cardiff",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Montevideo",
+   "land": "Uruguay",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Córdoba",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Spanisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

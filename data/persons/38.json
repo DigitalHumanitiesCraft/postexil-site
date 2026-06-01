@@ -1,0 +1,42 @@
+{
+ "name_id": 38,
+ "slug": "weil-grete",
+ "name": {
+  "vor": "Grete",
+  "nach": "Weil"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Rottach-Egern",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1999,
+  "ort": "Grünwald bei München",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": "Amsterdam",
+   "land": "Niederlande",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1947,
+   "ort": "Darmstadt",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Niederländisch",
+   "Englisch"
+  ]
+ }
+}

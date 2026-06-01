@@ -1,0 +1,52 @@
+{
+ "name_id": 347,
+ "slug": "freund-adolf-walter",
+ "name": {
+  "vor": "Adolf Walter",
+  "nach": "Freund"
+ },
+ "geb": {
+  "jahr": 1899,
+  "ort": "Dresden",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1911,
+   "ort": "Wien",
+   "land": "Österreich-Ungarn",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Spanisch"
+  ],
+  "a": [
+   "Englisch",
+   "Französisch",
+   "Italienisch",
+   "Deutsch",
+   "Spanisch"
+  ]
+ }
+}

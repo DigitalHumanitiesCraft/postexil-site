@@ -1,0 +1,40 @@
+{
+ "name_id": 54,
+ "slug": "weil-gotthold-eljakim",
+ "name": {
+  "vor": "Gotthold Eljakim",
+  "nach": "Weil"
+ },
+ "geb": {
+  "jahr": 1882,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1960,
+  "ort": "Jerusalem",
+  "land": "Israel"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": "Jerusalem",
+   "land": "Palästina",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Hebräisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Hebräisch",
+   "Arabisch",
+   "Türkisch",
+   "Tatarisch",
+   "Deutsch"
+  ]
+ }
+}

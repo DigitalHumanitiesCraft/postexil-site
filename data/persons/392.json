@@ -1,0 +1,54 @@
+{
+ "name_id": 392,
+ "slug": "begov-lucie",
+ "name": {
+  "vor": "Lucie",
+  "nach": "Begov"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1990,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": "Dalmatien",
+   "land": "Kroatien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "KZ Rab",
+   "land": "Kroatien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "KZ Auschwitz",
+   "land": "Polen",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Ungarisch",
+   "Französisch"
+  ]
+ }
+}

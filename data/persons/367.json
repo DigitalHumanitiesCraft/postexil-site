@@ -1,0 +1,50 @@
+{
+ "name_id": 367,
+ "slug": "klinghoffer-yitzhak-hans",
+ "name": {
+  "vor": "Yitzhak Hans",
+  "nach": "Klinghoffer"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Kolomea",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1990,
+  "ort": "Jerusalem",
+  "land": "Israel"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Resende",
+   "land": "Brasilien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1953,
+   "ort": "Jerusalem",
+   "land": "Israel",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch",
+   "Englisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Portugiesisch",
+   "Französisch"
+  ]
+ }
+}

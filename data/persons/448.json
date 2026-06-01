@@ -1,0 +1,19 @@
+{
+ "name_id": 448,
+ "slug": "schiebelhuth-hans",
+ "name": {
+  "vor": "Hans",
+  "nach": "Schiebelhuth"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Darmstadt",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1944,
+  "ort": "East Hampton",
+  "land": "USA"
+ },
+ "gold": false
+}

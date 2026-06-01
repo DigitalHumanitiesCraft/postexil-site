@@ -1,0 +1,39 @@
+{
+ "name_id": 306,
+ "slug": "winter-berthold",
+ "name": {
+  "vor": "Berthold",
+  "nach": "Winter"
+ },
+ "geb": {
+  "jahr": 1921,
+  "ort": "Berlin",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 2017,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1936,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1964,
+   "ort": "Berlin",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ]
+}

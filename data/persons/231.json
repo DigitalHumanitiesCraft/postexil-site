@@ -1,0 +1,37 @@
+{
+ "name_id": 231,
+ "slug": "ruebner-tuvia",
+ "name": {
+  "vor": "Tuvia",
+  "nach": "Rübner"
+ },
+ "geb": {
+  "jahr": 1924,
+  "ort": "Bratislava",
+  "land": "Tschechoslowakei"
+ },
+ "tod": {
+  "jahr": 2019,
+  "ort": "Afula",
+  "land": "Israel"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1941,
+   "ort": "Merchawia",
+   "land": "Israel",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Hebräisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Hebräisch"
+  ]
+ }
+}

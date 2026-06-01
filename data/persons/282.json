@@ -1,0 +1,47 @@
+{
+ "name_id": 282,
+ "slug": "gog-gregor",
+ "name": {
+  "vor": "Gregor",
+  "nach": "Gog"
+ },
+ "geb": {
+  "jahr": 1891,
+  "ort": "Schwerin an der Warthe",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1945,
+  "ort": "Taschkent",
+  "land": "Sowjetunion"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Ferghana",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

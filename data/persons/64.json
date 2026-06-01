@@ -1,0 +1,41 @@
+{
+ "name_id": 64,
+ "slug": "weltmann-lutz",
+ "name": {
+  "vor": "Lutz",
+  "nach": "Weltmann"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "Elbing",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1967,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": "Berlin",
+   "land": "Deutsches Reich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

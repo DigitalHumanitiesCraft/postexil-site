@@ -1,0 +1,19 @@
+{
+ "name_id": 523,
+ "slug": "hoellering-franz",
+ "name": {
+  "vor": "Franz",
+  "nach": "Höllering"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Baden bei Wien",
+  "land": "Österreich"
+ },
+ "tod": {
+  "jahr": 1968,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

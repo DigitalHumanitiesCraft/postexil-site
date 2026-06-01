@@ -1,0 +1,49 @@
+{
+ "name_id": 21,
+ "slug": "zehetner-alois",
+ "name": {
+  "vor": "Alois",
+  "nach": "Zehetner"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Steyr",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 2000,
+  "ort": "Steyr",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Zbraslav",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Steyr",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Russisch"
+  ],
+  "a": [
+   "Russisch",
+   "Deutsch"
+  ]
+ }
+}

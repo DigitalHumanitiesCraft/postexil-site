@@ -1,0 +1,89 @@
+{
+ "name_id": 196,
+ "slug": "fischer-walter",
+ "name": {
+  "vor": "Walter",
+  "nach": "Fischer"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "St. Pölten",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1978,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1935,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": null,
+   "land": "Polen",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Warenburg (Wolgadeutsche Republik)",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Madrid",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Swerdlowsk",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1942,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1945,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

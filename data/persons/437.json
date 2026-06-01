@@ -1,0 +1,19 @@
+{
+ "name_id": 437,
+ "slug": "lange-victor",
+ "name": {
+  "vor": "Victor",
+  "nach": "Lange"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Markranstädt",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1996,
+  "ort": "Princeton",
+  "land": "USA"
+ },
+ "gold": false
+}

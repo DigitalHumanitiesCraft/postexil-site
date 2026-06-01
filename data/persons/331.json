@@ -1,0 +1,19 @@
+{
+ "name_id": 331,
+ "slug": "buber-neumann-margarete",
+ "name": {
+  "vor": "Margarete",
+  "nach": "Buber-Neumann"
+ },
+ "geb": {
+  "jahr": 1901,
+  "ort": "Potsdam",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1989,
+  "ort": "Frankfurt am Main",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

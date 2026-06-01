@@ -1,0 +1,33 @@
+{
+ "name_id": 141,
+ "slug": "hasenclever-walter",
+ "name": {
+  "vor": "Walter",
+  "nach": "Hasenclever"
+ },
+ "geb": {
+  "jahr": 1890,
+  "ort": "Aachen",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1940,
+  "ort": "Les Milles",
+  "land": "Frankreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Nizza",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Französisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 521,
+ "slug": "herzfelde-wieland",
+ "name": {
+  "vor": "Wieland",
+  "nach": "Herzfelde"
+ },
+ "geb": {
+  "jahr": 1896,
+  "ort": "Weggis",
+  "land": "Schweiz"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Ost-Berlin",
+  "land": "DDR"
+ },
+ "gold": false
+}

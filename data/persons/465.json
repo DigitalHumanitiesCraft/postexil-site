@@ -1,0 +1,19 @@
+{
+ "name_id": 465,
+ "slug": "etzel-gisela",
+ "name": {
+  "vor": "Gisela",
+  "nach": "Etzel"
+ },
+ "geb": {
+  "jahr": 1880,
+  "ort": "Bad Kissingen",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Bern",
+  "land": "Schweiz"
+ },
+ "gold": false
+}

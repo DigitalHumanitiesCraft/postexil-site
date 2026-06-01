@@ -1,0 +1,45 @@
+{
+ "name_id": 303,
+ "slug": "schaper-ernst",
+ "name": {
+  "vor": "Ernst",
+  "nach": "Schaper"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Ostrowo",
+  "land": "Polen"
+ },
+ "tod": {
+  "jahr": 1984,
+  "ort": "Bern",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Finnland",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1944,
+   "ort": "Borås",
+   "land": "Schweden",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Schwedisch",
+   "Dänisch",
+   "Norwegisch",
+   "Finnisch",
+   "Französisch"
+  ]
+ }
+}

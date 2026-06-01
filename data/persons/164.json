@@ -1,0 +1,47 @@
+{
+ "name_id": 164,
+ "slug": "bischoff-cornelius",
+ "name": {
+  "vor": "Cornelius",
+  "nach": "Bischoff"
+ },
+ "geb": {
+  "jahr": 1928,
+  "ort": "Hamburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2018,
+  "ort": "Seevetal",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1939,
+   "ort": "Istanbul",
+   "land": "Türkei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": null,
+   "land": "Türkei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1949,
+   "ort": "Hamburg",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Türkisch"
+  ]
+ }
+}

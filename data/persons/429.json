@@ -1,0 +1,19 @@
+{
+ "name_id": 429,
+ "slug": "hirschfeld-kurt",
+ "name": {
+  "vor": "Kurt",
+  "nach": "Hirschfeld"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Lehrte",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1964,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false
+}

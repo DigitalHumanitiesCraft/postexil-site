@@ -1,0 +1,19 @@
+{
+ "name_id": 546,
+ "slug": "palma-c",
+ "name": {
+  "vor": "C.",
+  "nach": "Palma"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

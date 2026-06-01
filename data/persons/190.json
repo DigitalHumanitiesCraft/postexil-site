@@ -1,0 +1,35 @@
+{
+ "name_id": 190,
+ "slug": "holzman-marie",
+ "name": {
+  "vor": "Marie",
+  "nach": "Holzman"
+ },
+ "geb": {
+  "jahr": 1922,
+  "ort": "Jena",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1941,
+  "ort": "Kaunas",
+  "land": "Litauen"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": "Kaunas",
+   "land": "Litauen",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Litauisch"
+  ]
+ }
+}

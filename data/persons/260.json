@@ -1,0 +1,62 @@
+{
+ "name_id": 260,
+ "slug": "lifczis-anna",
+ "name": {
+  "vor": "Anna",
+  "nach": "Lifczis"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1987,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Argentinien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1960,
+   "ort": "Barcelona",
+   "land": "Spanien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1973,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Spanisch"
+  ],
+  "a": [
+   "Russisch",
+   "Deutsch",
+   "Spanisch"
+  ]
+ }
+}

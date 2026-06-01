@@ -1,0 +1,19 @@
+{
+ "name_id": 481,
+ "slug": "nutt-rudolf",
+ "name": {
+  "vor": "Rudolf",
+  "nach": "Nutt"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Brakel",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "München",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

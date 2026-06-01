@@ -1,0 +1,66 @@
+{
+ "name_id": 66,
+ "slug": "torberg-friedrich",
+ "name": {
+  "vor": "Friedrich",
+  "nach": "Torberg"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1979,
+  "ort": "Wien",
+  "land": "Österreich"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Lissabon",
+   "land": "Portugal",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Los Angeles",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1951,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Tschechisch",
+   "Englisch"
+  ]
+ }
+}

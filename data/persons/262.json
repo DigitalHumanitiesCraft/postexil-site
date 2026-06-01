@@ -1,0 +1,77 @@
+{
+ "name_id": 262,
+ "slug": "ramm-pfemfert-alexandra",
+ "name": {
+  "vor": "Alexandra",
+  "nach": "Ramm-Pfemfert"
+ },
+ "geb": {
+  "jahr": 1883,
+  "ort": "Starodub",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1963,
+  "ort": "West-Berlin",
+  "land": "BRD"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Karlsbad",
+   "land": "Tschechoslowakei",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Gurs",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Perpignan",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Lissabon",
+   "land": "Portugal",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "New York",
+   "land": "USA",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1941,
+   "ort": "Mexiko-Stadt",
+   "land": "Mexiko",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1955,
+   "ort": "Westberlin",
+   "land": "BRD",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

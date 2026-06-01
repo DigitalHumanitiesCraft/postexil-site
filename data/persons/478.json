@@ -1,0 +1,19 @@
+{
+ "name_id": 478,
+ "slug": "mummendey-richard",
+ "name": {
+  "vor": "Richard",
+  "nach": "Mummendey"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Elsdorf",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1978,
+  "ort": "Bad Kissingen",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

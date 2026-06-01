@@ -1,0 +1,36 @@
+{
+ "name_id": 365,
+ "slug": "neumann-sz-kely-livia",
+ "name": {
+  "vor": "Livia",
+  "nach": "Neumann-Székely"
+ },
+ "geb": {
+  "jahr": 1912,
+  "ort": "Budapest",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1978,
+  "ort": "Buenos Aires",
+  "land": "Argentinien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "Buenos Aires",
+   "land": "Argentinien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Ungarisch",
+   "Spanisch"
+  ]
+ }
+}

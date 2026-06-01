@@ -1,0 +1,19 @@
+{
+ "name_id": 445,
+ "slug": "weissenberg-heinz",
+ "name": {
+  "vor": "Heinz",
+  "nach": "Weissenberg"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Gießen",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 2001,
+  "ort": "Haifa",
+  "land": "Israel"
+ },
+ "gold": false
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 487,
+ "slug": "stresau-hermann",
+ "name": {
+  "vor": "Hermann",
+  "nach": "Stresau"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": "Milwaukee",
+  "land": "USA"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Waldacker",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

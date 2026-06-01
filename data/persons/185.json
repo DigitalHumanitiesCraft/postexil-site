@@ -1,0 +1,19 @@
+{
+ "name_id": 185,
+ "slug": "kaufmann-marion",
+ "name": {
+  "vor": "Marion",
+  "nach": "Kaufmann"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

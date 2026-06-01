@@ -1,0 +1,19 @@
+{
+ "name_id": 441,
+ "slug": "schlaf-johannes",
+ "name": {
+  "vor": "Johannes",
+  "nach": "Schlaf"
+ },
+ "geb": {
+  "jahr": 1862,
+  "ort": "Querfurt",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 1941,
+  "ort": "Querfurt",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

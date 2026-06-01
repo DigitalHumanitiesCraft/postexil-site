@@ -1,0 +1,19 @@
+{
+ "name_id": 460,
+ "slug": "wilck-otto-peter",
+ "name": {
+  "vor": "Otto Peter",
+  "nach": "Wilck"
+ },
+ "geb": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}

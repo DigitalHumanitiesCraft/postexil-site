@@ -1,0 +1,19 @@
+{
+ "name_id": 549,
+ "slug": "reiner-grete",
+ "name": {
+  "vor": "Grete",
+  "nach": "Reiner"
+ },
+ "geb": {
+  "jahr": 1892,
+  "ort": "Prag",
+  "land": "Tschechien"
+ },
+ "tod": {
+  "jahr": 1944,
+  "ort": "KZ Auschwitz",
+  "land": "Polen"
+ },
+ "gold": false
+}

@@ -1,0 +1,33 @@
+{
+ "name_id": 95,
+ "slug": "jollos-nadja",
+ "name": {
+  "vor": "Nadja",
+  "nach": "Jollos"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Moskau",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1905,
+  "ort": null,
+  "land": null
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

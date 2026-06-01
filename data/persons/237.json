@@ -1,0 +1,41 @@
+{
+ "name_id": 237,
+ "slug": "wittfogel-rose",
+ "name": {
+  "vor": "Rose",
+  "nach": "Wittfogel"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Halle",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": null,
+  "ort": "Andischan",
+  "land": "Sowjetunion"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1931,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "Andischan",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Russisch"
+  ]
+ }
+}

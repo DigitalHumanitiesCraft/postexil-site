@@ -1,0 +1,356 @@
+{
+ "name_id": 136,
+ "slug": "polgar-alfred",
+ "name": {
+  "vor": "Alfred",
+  "nach": "Polgar"
+ },
+ "geb": {
+  "jahr": 1873,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1955,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": true,
+ "trajectory": [
+  {
+   "jahr": 1873,
+   "ort": "Wien",
+   "land": "Österreich-Ungarn",
+   "zone": null,
+   "rolle": "Geburt/Frühphase"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Prag",
+   "land": "Tschechoslowakei",
+   "zone": null,
+   "rolle": "Exil-Start"
+  },
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "zone": null,
+   "rolle": "Rückkehr nach Wien (1933–1938)"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "zone": null,
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "zone": null,
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": null,
+   "land": "Vereinigte Staaten",
+   "zone": null,
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1949,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "zone": null,
+   "rolle": "Remigration/Spätphase"
+  },
+  {
+   "jahr": 1955,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "zone": null,
+   "rolle": "Tod"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch",
+   "Ungarisch"
+  ]
+ },
+ "qid": "Q45287",
+ "namensvarianten": [
+  "Polak, Alfred"
+ ],
+ "geschlecht": "m",
+ "lebensdaten": {
+  "geb": "17.10.1873",
+  "geb_ort": "Wien",
+  "geb_land": "Österreich-Ungarn",
+  "tod": "24.04.1955",
+  "tod_ort": "Zürich",
+  "tod_land": "Schweiz"
+ },
+ "beruf": [
+  "Schriftsteller",
+  "Übersetzer",
+  "Drehbuchautor",
+  "Theaterkritiker"
+ ],
+ "konstellation": "Rückkehr-Übersetzung (Theater)",
+ "konstellation_note": "vorläufig, Workshop-M2-Bestätigung offen",
+ "gdpr_status": "public",
+ "events": [
+  {
+   "jahr": 1873,
+   "typ": "geburt"
+  },
+  {
+   "jahr": 1933,
+   "typ": "exil_start",
+   "label": "Flucht aus Berlin nach Prag (März 1933), dann Rückkehr nach Wien"
+  },
+  {
+   "jahr": 1938,
+   "typ": "flucht",
+   "label": "Anschluss Österreichs — erneute Flucht aus Wien über Zürich nach Paris"
+  },
+  {
+   "jahr": 1946,
+   "typ": "werks_hoehepunkt",
+   "label": "Theater-Übersetzungen für den US-Lizenzmarkt (Nicht von gestern, Das Lied der Taube)"
+  },
+  {
+   "jahr": 1949,
+   "typ": "remigration",
+   "label": "Rückkehr nach Europa, Niederlassung in der Schweiz"
+  },
+  {
+   "jahr": 1955,
+   "typ": "tod"
+  }
+ ],
+ "werke": [
+  {
+   "source": "sabine",
+   "ref_id": null,
+   "sabine_row_idx": 32,
+   "sabine_source": "omgus",
+   "titel": "Das Lied der Taube. Komödie in drei Akten",
+   "jahr": 1943,
+   "ort": null,
+   "verlag": null,
+   "zone": null,
+   "orig_titel": "The Voice of the Turtle",
+   "orig_autor": "John van Druten",
+   "orig_sprache": "EN",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": "NEW",
+   "dlbt_dedup_ref_id": null,
+   "note": "Nur in Sabine (OMGUS-Theaterbroschüre 1948), kein DLBT-Gegenstück. Laut Wigand Lange das in den Westzonen am häufigsten gespielte amerikanische Unterhaltungsstück, führte mit 1085 Aufführungen die Liste aller amerikanischen Dramen an; auch in der SBZ gespielt. Jahr 1943 = Uraufführungsjahr des Originals, nicht das Übersetzungsjahr."
+  },
+  {
+   "source": "dlbt",
+   "ref_id": 47143,
+   "titel": "Nicht von gestern: Komödie",
+   "jahr": 1946,
+   "ort": "Berlin",
+   "verlag": "G. Kiepenheuer",
+   "zone": null,
+   "orig_titel": "Born Yesterday",
+   "orig_autor": "Garson Kanin",
+   "orig_sprache": "EN",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": "FUZZY",
+   "dlbt_dedup_ref_id": null,
+   "fuzzy_warning": "Match unsicher — DLBT-Ref 47143 und Sabine-Zeile (gehring, row_idx 629) wurden als FUZZY gematcht (confidence 0.810, Titel-/Jahr-Abweichung). Beide Quellen prüfen. Dies ist der EINZIGE FUZZY-Match des gesamten Dedup-Datensatzes.",
+   "note": "Noch aus New York 1946 übersetzt für den Berliner Kiepenheuer-Bühnenverlag. Primary = DLBT-Zeile (autoritativer Forschungsdatensatz), Sabine-Zeile als FUZZY-Cross-Reference."
+  },
+  {
+   "source": "sabine",
+   "ref_id": null,
+   "sabine_row_idx": 629,
+   "sabine_source": "gehring",
+   "titel": "Nicht von gestern",
+   "jahr": 1946,
+   "ort": "Berlin",
+   "verlag": "Kiepenheuer",
+   "zone": null,
+   "orig_titel": "Born Yesterday",
+   "orig_autor": "Garson Kanin",
+   "orig_sprache": "EN",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": "FUZZY",
+   "dlbt_dedup_ref_id": 47143,
+   "cross_reference_of": 47143,
+   "fuzzy_warning": "Match unsicher (confidence 0.810). FUZZY-Cross-Reference zur DLBT-Primary 47143 — beide Quellen prüfen.",
+   "note": "Sabine-Zeile des FUZZY-Paars. Im Frontend als Sekundärbeleg zur DLBT-Primary unterdrückt, in der UI nur mit Toggle 'Alle Quellen-Belege' + Unsicherheits-Warnung sichtbar."
+  },
+  {
+   "source": "dlbt",
+   "ref_id": 47144,
+   "titel": "Harvey: Komödie in 3 Akten",
+   "jahr": 1949,
+   "ort": "New York",
+   "verlag": "Horch",
+   "zone": null,
+   "orig_titel": null,
+   "orig_autor": "Mary Chase",
+   "orig_sprache": "EN",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": "EXACT",
+   "dlbt_dedup_ref_id": null,
+   "note": "1949 im Rückkehrjahr für den New Yorker Bühnenverlag Horch übersetzt, auf Exilkontakte zurückgreifend. Primary-Zeile des EXACT-Paars (DLBT autoritativ)."
+  },
+  {
+   "source": "sabine",
+   "ref_id": null,
+   "sabine_row_idx": 628,
+   "sabine_source": "gehring",
+   "titel": "Harvey. Komödie in 3 Akten",
+   "jahr": 1949,
+   "ort": "New York",
+   "verlag": "Horch",
+   "zone": null,
+   "orig_titel": null,
+   "orig_autor": "Mary Chase",
+   "orig_sprache": "EN",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": "EXACT",
+   "dlbt_dedup_ref_id": 47144,
+   "cross_reference_of": 47144,
+   "note": "EXACT-Dublette zur DLBT-Primary 47144 (confidence 1.000). Per EXACT-Primary-Konvention (Masterplan §5) im Default-View unterdrückt; DLBT-Zeile ist Primary."
+  },
+  {
+   "source": "dlbt",
+   "ref_id": 47142,
+   "titel": "Liliom: Vorstadtlegende in 7 Bildern und einem szenischen Prolog",
+   "jahr": 1922,
+   "ort": "Wien",
+   "verlag": "Deutsch-Österreichischer Verlag",
+   "zone": null,
+   "orig_titel": "Liliom",
+   "orig_autor": "Ferenc Molnár",
+   "orig_sprache": "HU",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": null,
+   "dlbt_dedup_ref_id": null,
+   "note": "Vor-Exil-Erstübersetzung (1922) aus dem Ungarischen; Schauplatz in den Wiener Prater verlegt, sehr frei übersetzt. Laut Dietiker (2024) die am weitesten verbreitete Arbeit Polgars. Keine eigentliche Translation: Molnár fertigte die Rohübersetzung, Polgar verfeinerte stilistisch. Nicht im Dedup-Pool (Sabine führt Liliom nicht), daher dedup_status=null."
+  },
+  {
+   "source": "dlbt",
+   "ref_id": 47145,
+   "titel": "Liliom: Vorstadtlegende in 7 Bildern und einem szenischen Prolog",
+   "jahr": 1979,
+   "ort": "Stuttgart",
+   "verlag": "Reclam",
+   "zone": null,
+   "orig_titel": "Liliom",
+   "orig_autor": "Ferenc Molnár",
+   "orig_sprache": "HU",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": null,
+   "dlbt_dedup_ref_id": null,
+   "note": "Reclam-Reprint der Liliom-Übersetzung (posthum). Eigene DLBT-Ref, dokumentiert das Nachleben der Polgar-Übersetzung."
+  },
+  {
+   "source": "dlbt",
+   "ref_id": 47146,
+   "titel": "Liliom: Vorstadtlegende in 7 Bildern und einem szenischen Prolog",
+   "jahr": 1986,
+   "ort": null,
+   "verlag": null,
+   "zone": null,
+   "orig_titel": "Liliom",
+   "orig_autor": "Ferenc Molnár",
+   "orig_sprache": "HU",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": null,
+   "dlbt_dedup_ref_id": null,
+   "note": "Reprint der Liliom-Übersetzung (posthum)."
+  },
+  {
+   "source": "dlbt",
+   "ref_id": 47147,
+   "titel": "Liliom: Vorstadtlegende in 7 Bildern und einem szenischen Prolog",
+   "jahr": 1989,
+   "ort": "Stuttgart",
+   "verlag": "Reclam",
+   "zone": null,
+   "orig_titel": null,
+   "orig_autor": "Ferenc Molnár",
+   "orig_sprache": "HU",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": null,
+   "dlbt_dedup_ref_id": null,
+   "note": "Reclam-Reprint der Liliom-Übersetzung (posthum)."
+  },
+  {
+   "source": "dlbt",
+   "ref_id": 47148,
+   "titel": "Liliom: Vorstadtlegende in 7 Bildern und einem szenischen Prolog",
+   "jahr": 1994,
+   "ort": "Stuttgart",
+   "verlag": "Reclam",
+   "zone": null,
+   "orig_titel": "Liliom",
+   "orig_autor": "Ferenc Molnár",
+   "orig_sprache": "HU",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": null,
+   "dlbt_dedup_ref_id": null,
+   "note": "Reclam-Reprint der Liliom-Übersetzung (posthum)."
+  },
+  {
+   "source": "dlbt",
+   "ref_id": 47149,
+   "titel": "Liliom: Vorstadtlegende in 7 Bildern und einem szenischen Prolog",
+   "jahr": 2010,
+   "ort": "Leipzig",
+   "verlag": "Reclam",
+   "zone": null,
+   "orig_titel": "Liliom",
+   "orig_autor": "Ferenc Molnár",
+   "orig_sprache": "HU",
+   "ziel_sprache": "DE",
+   "werktyp": "theater",
+   "rolle": "übersetzer",
+   "dedup_status": null,
+   "dlbt_dedup_ref_id": null,
+   "note": "Reclam-Reprint der Liliom-Übersetzung (posthum)."
+  }
+ ],
+ "werke_provenance_note": "Polgar ist ein Cross-Pool-Fall (DLBT 8 + Sabine 3). DLBT-Zahl 8 deckt sich mit tab_post_exil 'DLBT-Werke (Anzahl)' = 8. Davon sind 6 DLBT-Refs (47142, 47145-47149) Editionen/Reprints derselben Liliom-Übersetzung von 1922 (Vor-Exil, ungarisch). Die 3 Post-Exil-Theater-Übersetzungen aus dem Englischen sind: Harvey (EXACT-Match DLBT 47144 ↔ Sabine row 628), Nicht von gestern (FUZZY-Match DLBT 47143 ↔ Sabine row 629, confidence 0.810 — der EINZIGE FUZZY des Datensatzes), Das Lied der Taube (Sabine-NEW, kein DLBT-Gegenstück). EXACT-Primary-Konvention angewendet: bei Harvey + Nicht von gestern ist die DLBT-Zeile Primary, die Sabine-Zeile Cross-Reference (dlbt_dedup_ref_id gesetzt). Sabine fehlt das Verlags-/Jahr-Detail teils; DLBT ist hier autoritativer. Werks-Liste enthält damit 11 Einträge (8 DLBT + 3 Sabine), Default-View dedupliziert auf 9 (Harvey- und Nicht-von-gestern-Sabine-Zeilen unterdrückt). Zusätzliche Zeitschriften-Tätigkeit (7 Erzählungen in 'Die Neue Demokratie im Bild', FR-Zone, 1946-49; Beiträge in 'Neue Auslese') ist in raw-md belegt, aber NICHT als strukturierte Werks-Zeile im Pool — daher nicht als werke[]-Eintrag, sondern im Story-Text erwähnt.",
+ "story_url": "persons/136-polgar-alfred.md",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q45287",
+  "wikipedia": "https://de.wikipedia.org/wiki/Alfred_Polgar",
+  "dlbt_translator_query": "https://yarm-dlbt.phaidra.org/dlbt/refs/47144"
+ },
+ "story_md": "Geboren 1873 in Wien, gehört Alfred Polgar zu den bedeutendsten Vertretern der Wiener Moderne. Er ist Kritiker, Schriftsteller und Übersetzer in einer Person — Berufe, die das Sheet als Schriftsteller, Übersetzer, Drehbuchautor und Theaterkritiker führt. Schon vor dem Ersten Weltkrieg fertigt er mit großem Erfolg Bearbeitungen fürs Theater an, darunter eine sehr freie Übersetzung von Ferenc Molnárs *Liliom* aus dem Ungarischen, deren Schauplatz er in den Wiener Prater verlegt. Pino Dietiker nennt diese Arbeit Polgars meistverbreitete — und eigentlich gar keine Übersetzung im engeren Sinne: Der des Deutschen mächtige Molnár lieferte die Rohfassung, die Polgar stilistisch verfeinerte.\n\nPolgars Exil verläuft in zwei Etappen. Bereits im März 1933 flieht er vor den Nationalsozialisten aus Berlin nach Prag und kehrt von dort nach Wien zurück, wo er bis 1938 bleibt. Beim „Anschluss\" Österreichs im März 1938 befindet er sich gerade in Zürich und flieht von dort weiter nach Paris; nach dem deutschen Einmarsch in Frankreich gelingt ihm im Oktober 1940 über Marseille, Spanien und Lissabon die Emigration in die USA. Sabines Quellen-Text zieht beide Fluchten zur Kurzform „1933 … über Prag, Zürich, Paris\" zusammen; die Einzeldatierung ist nach Wikipedia / Wien Geschichte Wiki präzisiert (Prag 1933, Zürich/Paris 1938). In den USA arbeitet Polgar — wie Alfred Döblin — für Hollywood und ist am Drehbuch des 1942 erschienenen Kriegsfilms *Mrs. Miniver* beteiligt.\n\nSein Post-Exil-Übersetzen gilt fast ausschließlich dem amerikanischen Theater, das die Besatzungsmächte auf deutsche Bühnen bringen wollten. Noch von New York aus überträgt er 1946 Garson Kanins *Born Yesterday* als *Nicht von gestern* für den Berliner Kiepenheuer-Bühnenverlag. Seine deutsche Fassung von John van Drutens *The Voice of the Turtle* — *Das Lied der Taube* — wird laut Wigand Lange mit 1085 Aufführungen das in den Westzonen am häufigsten gespielte amerikanische Unterhaltungsstück und führt die Liste aller amerikanischen Dramen an. 1949, als er mit seiner Frau nach Europa zurückkehrt und sich in der Schweiz niederlässt, übersetzt er Mary Chases *Harvey* für den New Yorker Bühnenverlag Horch.\n\nPolgars translatorische Handschrift trägt eine unverkennbar österreichische Färbung — von Wendungen wie „kleinweis verzetteln\" bis zur eingefügten Hommage an die Exil-Schauspielerin Elisabeth Bergner. Daneben ist er im Post-Exil auch in den alliierten Zeitschriften präsent: In *Die Neue Demokratie im Bild* der französischen Zone erscheinen zwischen 1946 und 1949 sieben Erzählungen, weitere in der *Neuen Auslese*. 1955 stirbt Polgar in Zürich."
+}

@@ -1,0 +1,35 @@
+{
+ "name_id": 350,
+ "slug": "sachs-nelly",
+ "name": {
+  "vor": "Nelly",
+  "nach": "Sachs"
+ },
+ "geb": {
+  "jahr": 1891,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1970,
+  "ort": "Stockholm",
+  "land": "Schweden"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1940,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Schwedisch"
+  ]
+ }
+}

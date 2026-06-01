@@ -1,0 +1,19 @@
+{
+ "name_id": 415,
+ "slug": "meyer-ernest",
+ "name": {
+  "vor": "Ernest",
+  "nach": "Meyer"
+ },
+ "geb": {
+  "jahr": 1908,
+  "ort": "Fraulautern/Saarlouis",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1994,
+  "ort": "Paris",
+  "land": "Frankreich"
+ },
+ "gold": false
+}

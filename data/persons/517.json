@@ -1,0 +1,19 @@
+{
+ "name_id": 517,
+ "slug": "harnack-fish-mildred",
+ "name": {
+  "vor": "Mildred",
+  "nach": "Harnack-Fish"
+ },
+ "geb": {
+  "jahr": 1902,
+  "ort": "Milwaukee",
+  "land": "USA"
+ },
+ "tod": {
+  "jahr": 1943,
+  "ort": "Justizvollzugsanstalt Plötzensee",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

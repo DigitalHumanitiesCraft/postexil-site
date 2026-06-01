@@ -1,0 +1,50 @@
+{
+ "name_id": 122,
+ "slug": "hay-gyula",
+ "name": {
+  "vor": "Gyula",
+  "nach": "Hay"
+ },
+ "geb": {
+  "jahr": 1900,
+  "ort": "Abony",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1975,
+  "ort": "Ascona",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Wien",
+   "land": "Österreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1934,
+   "ort": "Zürich",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1935,
+   "ort": "Moskau",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Ungarisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Russisch",
+   "Englisch"
+  ]
+ }
+}

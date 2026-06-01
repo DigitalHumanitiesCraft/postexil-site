@@ -1,0 +1,47 @@
+{
+ "name_id": 265,
+ "slug": "ichheiser-gustav",
+ "name": {
+  "vor": "Gustav",
+  "nach": "Ichheiser"
+ },
+ "geb": {
+  "jahr": 1897,
+  "ort": "Krakau",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1969,
+  "ort": "Chicago",
+  "land": "USA"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "Chicago",
+   "land": "USA",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Polnisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

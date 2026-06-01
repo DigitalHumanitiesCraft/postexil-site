@@ -1,0 +1,55 @@
+{
+ "name_id": 166,
+ "slug": "steinitz-wolfgang",
+ "name": {
+  "vor": "Wolfgang",
+  "nach": "Steinitz"
+ },
+ "geb": {
+  "jahr": 1905,
+  "ort": "Breslau",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1967,
+  "ort": "Berlin",
+  "land": "DDR"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1934,
+   "ort": "Leningrad",
+   "land": "Sowjetunion",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1937,
+   "ort": "Stockholm",
+   "land": "Schweden",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1946,
+   "ort": "Berlin",
+   "land": "SBZ",
+   "rolle": "Remigration"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Schwedisch",
+   "Russisch",
+   "Finnisch"
+  ],
+  "a": [
+   "Finnisch",
+   "Ungarisch",
+   "Russisch",
+   "Estnisch",
+   "Schwedisch",
+   "Ostjakisch"
+  ]
+ }
+}

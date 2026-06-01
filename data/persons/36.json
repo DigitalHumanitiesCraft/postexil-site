@@ -1,0 +1,35 @@
+{
+ "name_id": 36,
+ "slug": "lesser-jonas",
+ "name": {
+  "vor": "Jonas",
+  "nach": "Lesser"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Czernowitz",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1968,
+  "ort": "London",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Englisch"
+  ]
+ }
+}

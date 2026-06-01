@@ -1,0 +1,36 @@
+{
+ "name_id": 296,
+ "slug": "frisch-fega",
+ "name": {
+  "vor": "Fega",
+  "nach": "Frisch"
+ },
+ "geb": {
+  "jahr": 1878,
+  "ort": "Grodno",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1964,
+  "ort": "Ascona",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Ascona",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Jiddisch",
+   "Russisch"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name_id": 558,
+ "slug": "schirmbeck-heinrich",
+ "name": {
+  "vor": "Heinrich",
+  "nach": "Schirmbeck"
+ },
+ "geb": {
+  "jahr": 1915,
+  "ort": "Recklinghausen",
+  "land": "Deutschland"
+ },
+ "tod": {
+  "jahr": 2005,
+  "ort": "Darmstadt",
+  "land": "Deutschland"
+ },
+ "gold": false
+}

@@ -1,0 +1,47 @@
+{
+ "name_id": 400,
+ "slug": "humm-sernau-lola",
+ "name": {
+  "vor": "Lola",
+  "nach": "Humm-Sernau"
+ },
+ "geb": {
+  "jahr": 1895,
+  "ort": "Berlin",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1988,
+  "ort": "Locarno",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Sanary",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1940,
+   "ort": "KZ Gurs",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1957,
+   "ort": "Ascona",
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

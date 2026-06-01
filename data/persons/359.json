@@ -1,0 +1,49 @@
+{
+ "name_id": 359,
+ "slug": "gombrich-lisbeth",
+ "name": {
+  "vor": "Lisbeth",
+  "nach": "Gombrich"
+ },
+ "geb": {
+  "jahr": 1907,
+  "ort": "Wien",
+  "land": "Österreich-Ungarn"
+ },
+ "tod": {
+  "jahr": 1994,
+  "ort": "Oxford",
+  "land": "Großbritannien"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1950,
+   "ort": "Oxford",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Englisch",
+   "Deutsch"
+  ],
+  "a": [
+   "Deutsch",
+   "Schwedisch"
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "name_id": 118,
+ "slug": "landau-edwin-maria",
+ "name": {
+  "vor": "Edwin Maria",
+  "nach": "Landau"
+ },
+ "geb": {
+  "jahr": 1904,
+  "ort": "Koblenz",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 2001,
+  "ort": "Zürich",
+  "land": "Schweiz"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1938,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1939,
+   "ort": null,
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1943,
+   "ort": null,
+   "land": "Schweiz",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch"
+  ],
+  "a": [
+   "Französisch",
+   "Englisch"
+  ]
+ }
+}
