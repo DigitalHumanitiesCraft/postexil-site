@@ -26,9 +26,9 @@
   #search{position:fixed;top:66px;left:50%;transform:translateX(-50%);z-index:500;
     border:1px solid var(--rule);border-radius:20px;padding:7px 14px;background:var(--sheet);width:260px}
   .panel{position:fixed;left:14px;top:64px;z-index:500;background:rgba(250,245,233,.93);
-    border:1px solid var(--rule);border-radius:5px;padding:8px;width:248px}
+    border:1px solid var(--rule);border-radius:5px;padding:8px;width:264px}
   .toggle{display:flex;border:1px solid var(--accent);border-radius:4px;overflow:hidden;margin-bottom:7px}
-  .toggle button{flex:1;font-family:'IBM Plex Mono',monospace;font-size:10px;padding:5px 3px;border:0;
+  .toggle button{flex:1;font-family:'IBM Plex Mono',monospace;font-size:9px;padding:5px 2px;border:0;
     background:transparent;color:var(--accent);cursor:pointer;white-space:nowrap}
   .toggle button+button{border-left:1px solid var(--accent)}
   .toggle button.on{background:var(--accent);color:var(--sheet)}
@@ -48,9 +48,27 @@
   .toggle button[data-l="exil"]::before{background:#5f7a86}
   .toggle button[data-l="remig"]::before{background:#5f8a64}
   .toggle button[data-l="tod"]::before{background:#8a6f86}
+  /* Verlag-Ebene ist mehrfarbig (nach Zone) -> Punkt als 4-Zonen-Rad statt einer Farbe */
+  .toggle button[data-l="verlag"]::before{background:conic-gradient(var(--us) 0 25%,var(--uk) 0 50%,var(--fr) 0 75%,var(--su) 0)}
   .cap .muted{color:var(--leer)}
+  /* Zonen-Farblegende (nur in der Verlag-Ebene sichtbar) */
+  #legend{display:none;flex-wrap:wrap;gap:3px 9px;margin-top:7px;padding:0 2px;
+    font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--ink2)}
+  #legend span{display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
+  #legend i{width:9px;height:9px;border-radius:50%;border:1px solid #3a332a}
   #wegehint{display:none;margin-top:6px;padding:0 2px;font-family:'IBM Plex Mono',monospace;
     font-size:10px;color:var(--ink2)}
+  /* A11y: tastaturbedienbare Orts-Liste (Alternative zu den Maus-Kreisen, #20) */
+  .placesbox{margin-top:8px;font-family:'IBM Plex Mono',monospace;font-size:11px}
+  .placesbox summary{cursor:pointer;color:var(--ink2);padding:2px}
+  .placesbox summary:hover{color:var(--accent)}
+  .places{max-height:150px;overflow-y:auto;margin-top:4px;display:flex;flex-direction:column}
+  .places button{display:flex;justify-content:space-between;gap:8px;width:100%;text-align:left;
+    font-family:'IBM Plex Mono',monospace;font-size:11px;background:transparent;border:0;
+    border-bottom:1px solid var(--rule);padding:4px 3px;color:var(--ink);cursor:pointer}
+  .places button:hover,.places button:focus-visible{background:var(--sheet);color:var(--accent)}
+  .places button .pn{color:var(--ink2);flex:0 0 auto}
+  .places .none{color:var(--ink2);padding:4px 3px}
   .empty{margin:auto;padding:14px 20px;font-family:'IBM Plex Mono',monospace;font-size:12px;
     color:var(--ink2);line-height:1.5;text-align:center}
   .empty code{background:rgba(0,0,0,.05);padding:1px 4px;border-radius:2px}
@@ -89,12 +107,17 @@
 </header>
 <div class="panel" role="region" aria-label="Karten-Ebenen">
   <div class="toggle" role="group" aria-label="Orts-Ebene wählen">
-    <button data-l="geb" class="on" aria-pressed="true">Geburt</button><button data-l="exil" aria-pressed="false">Exil</button><button data-l="remig" aria-pressed="false">Rückkehr</button><button data-l="tod" aria-pressed="false">Tod</button>
+    <button data-l="geb" class="on" aria-pressed="true">Geburt</button><button data-l="exil" aria-pressed="false">Exil</button><button data-l="remig" aria-pressed="false">Rückkehr</button><button data-l="tod" aria-pressed="false">Tod</button><button data-l="verlag" aria-pressed="false">Verlag</button>
   </div>
   <div id="cap" class="cap"></div>
+  <div id="legend" aria-label="Zonen-Legende"></div>
   <label class="wege"><input type="checkbox" id="wege"> Wege zeigen (Routen)</label>
   <div id="wegehint">Linienstärke = Häufigkeit der Route</div>
   <div id="chip"></div>
+  <details class="placesbox">
+    <summary>Orte als Liste (Tastatur)</summary>
+    <div id="places" class="places" aria-label="Orte dieser Ebene"></div>
+  </details>
 </div>
 <input id="search" type="search" aria-label="Person suchen" placeholder="Person suchen …">
 <div class="strip" id="strip"></div>

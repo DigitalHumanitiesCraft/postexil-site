@@ -1,7 +1,7 @@
 :root{
   --paper:#f3ecdd; --sheet:#faf5e9; --ink:#2a251d; --ink2:#6d6453; --rule:#d8ccb2;
   --accent:#2d4a5a; --leer:#a9762a;
-  --us:#7d7a3f; --uk:#3f5a7d; --fr:#9c5a6b; --su:#9a4a3a;
+  --us:#7d7a3f; --uk:#3f5a7d; --fr:#9c5a6b; --su:#9a4a3a; --b4:#6b5a7d;  /* Besatzungszonen + Berlin/Wien (4 Sektoren) */
 }
 body{background:var(--paper);color:var(--ink);
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0}

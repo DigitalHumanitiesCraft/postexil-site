@@ -7,12 +7,16 @@ const search=document.getElementById('search');
 const chip=document.getElementById('chip');
 const cap=document.getElementById('cap');
 const wegehint=document.getElementById('wegehint');
+const places=document.getElementById('places');
+const legend=document.getElementById('legend');
+const wegeLabel=document.querySelector('.wege');
+const wegeChk=document.getElementById('wege');
 const flows=L.layerGroup().addTo(map);   // Wege zuerst -> unter den Kreisen
 const circles=L.layerGroup().addTo(map);
 
 let people=[];      // alle
 let view=[];        // nach Namenssuche
-let layer='geb';    // geb | exil | remig | tod
+let layer='geb';    // geb | exil | remig | tod | verlag
 let wege=false;
 let noPlace=0;      // Personen ohne verortbaren Ort
 let lastQuery='';
@@ -25,6 +29,14 @@ const LAYERS={
   exil: {rolle:'Exil',        fill:'#5f7a86', verb:'im Exil',       noun:'Exilstation',  suffix:'mit Exil'},
   remig:{rolle:'Remigration', fill:'#5f8a64', verb:'zurückgekehrt', noun:'Rückkehr-Ort', suffix:'mit Rückkehr-Daten'},
   tod:  {rolle:'Tod',         fill:'#8a6f86', verb:'gestorben',     noun:'Sterbeort',    suffix:'mit Sterbeort'},
+};
+// Verlag/Zone-Ebene (#19): werk-zentriert, Kreis-Farbe = Besatzungszone des Verlagsorts.
+// fill-Hex == tokens.css --us/--uk/--fr/--su/--b4 (neutral == --ink2); Legende wird daraus gebaut.
+const ZONE={
+  US:{fill:'#7d7a3f', label:'US-Zone'},  UK:{fill:'#3f5a7d', label:'UK-Zone'},
+  FR:{fill:'#9c5a6b', label:'FR-Zone'},  SU:{fill:'#9a4a3a', label:'SU-Zone'},
+  B4:{fill:'#6b5a7d', label:'Berlin/Wien (4 Sektoren)'},
+  neutral:{fill:'#6d6453', label:'neutral (Schweiz/Ausland)'},
 };
 
 /* ---------- Strip (Kartei-Karten) ---------- */
@@ -63,19 +75,83 @@ function aggregate(list,rolle){
   }));
   return [...m.values()];
 }
-const radius=n=>3+Math.sqrt(n)*2.3;
+// Verlag/Zone-Ebene: ueber person.pub nach Verlagsort gruppieren. werke = Publikationsakte
+// (Reprints mitgezaehlt) -> Kreisgroesse; people = distinkte Uebersetzer:innen am Ort -> Klick-Filter.
+function aggregateWerke(list){
+  const m=new Map();
+  list.forEach(p=>(p.pub||[]).forEach(w=>{
+    let g=m.get(w.ort);
+    if(!g){g={ort:w.ort,coord:w.coord,zone:w.zone,werke:0,ids:new Set(),people:[]};m.set(w.ort,g);}
+    g.werke++;
+    if(!g.ids.has(p.name_id)){g.ids.add(p.name_id);g.people.push(p);}
+  }));
+  return [...m.values()];
+}
+const STYLE={
+  stroke:'#3a332a',                                   // Kreis-Rand + Wege-Linie
+  circle:{ rBase:3, rScale:2.3, opacity:.78,          // Radius = rBase + sqrt(n)*rScale
+           city:{ weight:1,   dash:null,  fillOpacity:.48 },
+           land:{ weight:1.1, dash:'2,3', fillOpacity:.13 } },  // Land-Zentroid: hohl/gestrichelt (ungenauer)
+  flow:{ minN:2,                                       // Vollbestand: nur Routen ab minN zeichnen
+         wBase:.5, wScale:.8, wMax:6,                  // Linienstaerke = min(wMax, wBase + sqrt(n)*wScale)
+         oBase:.12, oScale:.03, oMax:.5 },             // Deckkraft    = min(oMax, oBase + n*oScale)
+};
+const radius=n=>STYLE.circle.rBase+Math.sqrt(n)*STYLE.circle.rScale;
 function renderMap(list){
   circles.clearLayers();
+  if(layer==='verlag'){ renderVerlag(list); return; }
   const L0=LAYERS[layer];
   aggregate(list,L0.rolle).sort((a,b)=>b.people.length-a.people.length).forEach(g=>{
     const n=g.people.length, land=g.level==='land';   // Land-Zentroid = ungenauer -> hohl/gestrichelt
-    const c=L.circleMarker(g.coord,{radius:radius(n),color:'#3a332a',
-      weight:land?1.1:1, dashArray:land?'2,3':null,
-      fillColor:L0.fill, fillOpacity:land?.13:.48, opacity:.78});
+    const s=land?STYLE.circle.land:STYLE.circle.city;
+    const c=L.circleMarker(g.coord,{radius:radius(n),color:STYLE.stroke,
+      weight:s.weight, dashArray:s.dash,
+      fillColor:L0.fill, fillOpacity:s.fillOpacity, opacity:STYLE.circle.opacity});
     c.bindTooltip(`${esc(g.ort)}${land?' (nur Land erfasst)':''} · ${n} ${plural(n)} ${L0.verb}`,{direction:'top'});
     c.on('click',e=>{L.DomEvent.stop(e);selectPlace(g,L0.verb);});
     c.addTo(circles);
   });
+}
+function renderVerlag(list){
+  const s=STYLE.circle.city;
+  aggregateWerke(list).sort((a,b)=>b.werke-a.werke).forEach(g=>{
+    const z=ZONE[g.zone]||ZONE.neutral, w=g.werke;
+    const c=L.circleMarker(g.coord,{radius:radius(w),color:STYLE.stroke,
+      weight:s.weight, fillColor:z.fill, fillOpacity:s.fillOpacity, opacity:STYLE.circle.opacity});
+    c.bindTooltip(`${esc(g.ort)} · ${w} ${w===1?'Übersetzung':'Übersetzungen'} · ${z.label}`,{direction:'top'});
+    c.on('click',e=>{L.DomEvent.stop(e);selectVerlag(g);});
+    c.addTo(circles);
+  });
+}
+
+/* ---------- Orts-Liste (tastaturzugaengliche Variante der Kreise, A11y) ---------- */
+function renderPlaceList(list){
+  if(layer==='verlag'){ renderVerlagList(list); return; }
+  const L0=LAYERS[layer];
+  const aggs=aggregate(list,L0.rolle).sort((a,b)=>b.people.length-a.people.length);
+  if(!aggs.length){ places.innerHTML='<div class="none">Keine Orte in dieser Ebene.</div>'; return; }
+  const frag=document.createDocumentFragment();
+  aggs.forEach(g=>{
+    const n=g.people.length, b=document.createElement('button');
+    b.innerHTML=`<span>${esc(g.ort)}${g.level==='land'?' (nur Land)':''}</span><span class="pn">${n}</span>`;
+    b.title=`${esc(g.ort)} · ${n} ${plural(n)} ${L0.verb}`;
+    b.addEventListener('click',()=>selectPlace(g,L0.verb));
+    frag.appendChild(b);
+  });
+  places.innerHTML=''; places.appendChild(frag);
+}
+function renderVerlagList(list){
+  const aggs=aggregateWerke(list).sort((a,b)=>b.werke-a.werke);
+  if(!aggs.length){ places.innerHTML='<div class="none">Keine Verlagsorte.</div>'; return; }
+  const frag=document.createDocumentFragment();
+  aggs.forEach(g=>{
+    const z=ZONE[g.zone]||ZONE.neutral, b=document.createElement('button');
+    b.innerHTML=`<span>${esc(g.ort)}</span><span class="pn">${g.werke}</span>`;
+    b.title=`${esc(g.ort)} · ${g.werke} Übersetzungen · ${z.label}`;
+    b.addEventListener('click',()=>selectVerlag(g));
+    frag.appendChild(b);
+  });
+  places.innerHTML=''; places.appendChild(frag);
 }
 
 /* ---------- Wege (aggregierte Routen-Linien) ---------- */
@@ -98,9 +174,10 @@ function renderFlows(list){
   wegehint.style.display=wege?'block':'none';
   if(!wege) return;
   const full=list.length===people.length;             // Vollbestand: Einzelkanten ausduennen
-  edges(list).filter(e=>!full||e.n>=2).sort((x,y)=>x.n-y.n).forEach(e=>{
-    L.polyline([e.a,e.b],{color:'#3a332a',weight:Math.min(6,.5+Math.sqrt(e.n)*.8),
-      opacity:Math.min(.5,.12+e.n*.03)}).addTo(flows);
+  const F=STYLE.flow;
+  edges(list).filter(e=>!full||e.n>=F.minN).sort((x,y)=>x.n-y.n).forEach(e=>{
+    L.polyline([e.a,e.b],{color:STYLE.stroke,weight:Math.min(F.wMax,F.wBase+Math.sqrt(e.n)*F.wScale),
+      opacity:Math.min(F.oMax,F.oBase+e.n*F.oScale)}).addTo(flows);
   });
 }
 
@@ -108,6 +185,12 @@ function renderFlows(list){
 function selectPlace(g,verb){
   renderStrip(g.people);
   chip.innerHTML=`<b>${esc(g.ort)}</b> · ${g.people.length} ${plural(g.people.length)} ${verb} <span class="x">alle&nbsp;✕</span>`;
+  chip.style.display='inline-flex';
+}
+function selectVerlag(g){
+  renderStrip(g.people);
+  const n=g.people.length;
+  chip.innerHTML=`<b>${esc(g.ort)}</b> · ${n} ${n===1?'Übersetzer:in':'Übersetzer:innen'} hier verlegt <span class="x">alle&nbsp;✕</span>`;
   chip.style.display='inline-flex';
 }
 function clearPlace(){ chip.style.display='none'; renderStrip(view, emptyMsgFor()); }
@@ -120,15 +203,27 @@ function setLayer(l){
   document.querySelectorAll('.toggle button').forEach(b=>{
     const on=b.dataset.l===l; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false');
   });
-  const L0=LAYERS[l];
-  const placed=people.filter(p=>(p.route||[]).some(n=>n.rolle===L0.rolle)).length;
-  cap.innerHTML=`Kreis = <b>${L0.noun}</b>, Größe = Anzahl Personen.<br>${placed} von ${people.length} ${L0.suffix}`
-    +(noPlace?`<br><span class="muted">${noPlace} ohne verortbaren Ort — nur in der Kartei-Leiste</span>`:'');
+  const verlag=l==='verlag';
+  legend.style.display=verlag?'flex':'none';
+  wegeLabel.style.display=verlag?'none':'flex';   // Wege sind route-basiert -> fuer Werk-Ebene aus
+  if(verlag){
+    if(wege){ wege=false; wegeChk.checked=false; }   // evtl. aktive Wege ausschalten
+    const np=people.filter(p=>(p.pub||[]).length).length;
+    const nw=people.reduce((s,p)=>s+(p.pub||[]).length,0);
+    cap.innerHTML=`Kreis = <b>Verlagsort</b>, Farbe = Besatzungszone, Größe = Zahl der Übersetzungen.`
+      +`<br>${nw} DLBT-Übersetzungen 1945–60 von ${np} von ${people.length} Personen`;
+  }else{
+    const L0=LAYERS[l];
+    const placed=people.filter(p=>(p.route||[]).some(n=>n.rolle===L0.rolle)).length;
+    cap.innerHTML=`Kreis = <b>${L0.noun}</b>, Größe = Anzahl Personen.<br>${placed} von ${people.length} ${L0.suffix}`
+      +(noPlace?`<br><span class="muted">${noPlace} ohne verortbaren Ort — nur in der Kartei-Leiste</span>`:'');
+  }
   chip.style.display='none';
-  renderMap(view); renderFlows(view);
+  renderMap(view); renderFlows(view); renderPlaceList(view);
 }
 document.querySelectorAll('.toggle button').forEach(b=>b.addEventListener('click',()=>setLayer(b.dataset.l)));
-document.getElementById('wege').addEventListener('change',e=>{ wege=e.target.checked; renderFlows(view); });
+wegeChk.addEventListener('change',e=>{ wege=e.target.checked; renderFlows(view); });
+legend.innerHTML=Object.values(ZONE).map(z=>`<span><i style="background:${z.fill}"></i>${esc(z.label)}</span>`).join('');
 
 /* ---------- Laden + Suche ---------- */
 fetch('data/index.json').then(r=>{ if(!r.ok) throw 0; return r.json(); }).then(d=>{
@@ -147,6 +242,6 @@ search.addEventListener('input',e=>{
   t=setTimeout(()=>{
     view = q ? people.filter(p=>(`${p.vor||''} ${p.nach||''}`).toLowerCase().includes(q)) : people;
     chip.style.display='none';
-    renderStrip(view, emptyMsgFor()); renderMap(view); renderFlows(view);
+    renderStrip(view, emptyMsgFor()); renderMap(view); renderFlows(view); renderPlaceList(view);
   },110);
 });
