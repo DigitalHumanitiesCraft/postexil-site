@@ -8,6 +8,9 @@ const chip=document.getElementById('chip');
 const cap=document.getElementById('cap');
 const wegehint=document.getElementById('wegehint');
 const places=document.getElementById('places');
+const langSel=document.getElementById('lang');
+const ymin=document.getElementById('ymin'), ymax=document.getElementById('ymax');
+const rlo=document.getElementById('rlo'), rhi=document.getElementById('rhi');
 const legend=document.getElementById('legend');
 const wegeLabel=document.querySelector('.wege');
 const wegeChk=document.getElementById('wege');
@@ -20,6 +23,8 @@ let layer='geb';    // geb | exil | remig | tod | verlag
 let wege=false;
 let noPlace=0;      // Personen ohne verortbaren Ort
 let lastQuery='';
+let lang='';        // aktive Ausgangssprache ('' = alle)
+let Y0=0, Y1=0;     // globale Jahres-Grenzen (min/max aller Stations-/Werks-Jahre)
 
 const esc=s=>(s??'').toString().replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const plural=n=>n===1?'Person':'Personen';
@@ -69,6 +74,7 @@ function aggregate(list,rolle){
   const m=new Map();
   list.forEach(p=>(p.route||[]).forEach(n=>{
     if(n.rolle!==rolle) return;
+    if(!inWindow(n.jahr)) return;            // Zeitraum-Filter (US-C3): nur Stationen im Fenster
     let g=m.get(n.ort);
     if(!g){g={ort:n.ort,coord:n.coord,level:n.level,ids:new Set(),people:[]};m.set(n.ort,g);}
     if(!g.ids.has(p.name_id)){g.ids.add(p.name_id);g.people.push(p);}
@@ -80,6 +86,7 @@ function aggregate(list,rolle){
 function aggregateWerke(list){
   const m=new Map();
   list.forEach(p=>(p.pub||[]).forEach(w=>{
+    if(!inWindow(w.jahr)) return;            // Zeitraum-Filter (US-C3): nur Werke im Fenster
     let g=m.get(w.ort);
     if(!g){g={ort:w.ort,coord:w.coord,zone:w.zone,werke:0,ids:new Set(),people:[]};m.set(w.ort,g);}
     g.werke++;
@@ -193,7 +200,7 @@ function selectVerlag(g){
   chip.innerHTML=`<b>${esc(g.ort)}</b> · ${n} ${n===1?'Übersetzer:in':'Übersetzer:innen'} hier verlegt <span class="x">alle&nbsp;✕</span>`;
   chip.style.display='inline-flex';
 }
-function clearPlace(){ chip.style.display='none'; renderStrip(view, emptyMsgFor()); }
+function clearPlace(){ chip.style.display='none'; renderStrip(stripList(), emptyMsgFor()); }  // stripList: bei aktivem Zeitfilter konsistent zur Karte
 map.on('click',clearPlace);
 chip.addEventListener('click',clearPlace);
 
@@ -206,30 +213,119 @@ function setLayer(l){
   const verlag=l==='verlag';
   legend.style.display=verlag?'flex':'none';
   wegeLabel.style.display=verlag?'none':'flex';   // Wege sind route-basiert -> fuer Werk-Ebene aus
-  if(verlag){
-    if(wege){ wege=false; wegeChk.checked=false; }   // evtl. aktive Wege ausschalten
+  if(verlag && wege){ wege=false; wegeChk.checked=false; }   // evtl. aktive Wege ausschalten
+  chip.style.display='none';
+  apply();
+}
+document.querySelectorAll('.toggle button').forEach(b=>b.addEventListener('click',()=>setLayer(b.dataset.l)));
+wegeChk.addEventListener('change',e=>{ wege=e.target.checked; renderFlows(view); writeURL(); });
+legend.innerHTML=Object.values(ZONE).map(z=>`<span><i style="background:${z.fill}"></i>${esc(z.label)}</span>`).join('');
+langSel.addEventListener('change',e=>{ lang=e.target.value; chip.style.display='none'; apply(); });
+[ymin,ymax].forEach(s=>s.addEventListener('input',e=>{ clampRange(e); chip.style.display='none'; apply(); }));
+
+/* ---------- Filter-Pipeline (Name + Sprache) ---------- */
+function buildLangs(){
+  const c=new Map();
+  people.forEach(p=>(p.langs_a||[]).forEach(l=>c.set(l,(c.get(l)||0)+1)));
+  [...c.entries()].sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],'de')).forEach(([l,n])=>{
+    const o=document.createElement('option'); o.value=l; o.textContent=`${l} (${n})`; langSel.appendChild(o);
+  });
+}
+function yearBounds(){
+  let lo=Infinity, hi=-Infinity;
+  people.forEach(p=>{
+    (p.route||[]).forEach(n=>{ if(n.jahr){ lo=Math.min(lo,n.jahr); hi=Math.max(hi,n.jahr); } });
+    (p.pub||[]).forEach(w=>{ if(w.jahr){ lo=Math.min(lo,w.jahr); hi=Math.max(hi,w.jahr); } });
+  });
+  return [lo===Infinity?1900:lo, hi===-Infinity?2000:hi];
+}
+function initRange(){
+  [Y0,Y1]=yearBounds();
+  [ymin,ymax].forEach(s=>{ s.min=Y0; s.max=Y1; });
+  ymin.value=Y0; ymax.value=Y1; rlo.textContent=Y0; rhi.textContent=Y1;
+}
+const inWindow=j=>j!=null && j>=+ymin.value && j<=+ymax.value;
+const timeActive=()=>+ymin.value>Y0 || +ymax.value<Y1;
+function clampRange(e){
+  let lo=+ymin.value, hi=+ymax.value;
+  if(lo>hi){ if(e.target===ymin) ymax.value=hi=lo; else ymin.value=lo=hi; }
+  rlo.textContent=lo; rhi.textContent=hi;
+}
+function computeView(){
+  const q=lastQuery.toLowerCase();
+  view=people.filter(p=>{
+    if(q && !(`${p.vor||''} ${p.nach||''}`).toLowerCase().includes(q)) return false;
+    if(lang && !(p.langs_a||[]).includes(lang)) return false;
+    return true;
+  });
+}
+function personInWindow(p){
+  if(layer==='verlag') return (p.pub||[]).some(w=>inWindow(w.jahr));
+  const rolle=LAYERS[layer].rolle;
+  return (p.route||[]).some(n=>n.rolle===rolle && inWindow(n.jahr));
+}
+// Karte zeigt Marker im Fenster (via aggregate/inWindow); die Leiste die zugehoerigen Personen.
+function stripList(){ return timeActive() ? view.filter(personInWindow) : view; }
+function renderAll(){
+  updateCap();
+  renderMap(view); renderFlows(view); renderPlaceList(view);
+  if(chip.style.display==='none') renderStrip(stripList(), emptyMsgFor());
+}
+function apply(){ computeView(); renderAll(); writeURL(); }
+let urlT;
+function writeURL(){
+  const u=new URLSearchParams();
+  if(layer!=='geb') u.set('layer',layer);
+  if(lastQuery) u.set('q',lastQuery);
+  if(lang) u.set('lang',lang);
+  if(+ymin.value>Y0) u.set('von',ymin.value);
+  if(+ymax.value<Y1) u.set('bis',ymax.value);
+  if(wege) u.set('wege','1');
+  const qs=u.toString();
+  clearTimeout(urlT);
+  urlT=setTimeout(()=>history.replaceState(null,'',qs?`?${qs}`:location.pathname),150);
+}
+function readURL(){
+  const u=new URLSearchParams(location.search);
+  if(u.get('q')){ lastQuery=u.get('q'); search.value=lastQuery; }
+  if(u.get('lang')){ lang=u.get('lang'); langSel.value=lang; if(langSel.value!==lang) lang=''; }  // unbekannte Sprache -> ignorieren
+  if(u.get('von')){ ymin.value=Math.max(Y0,Math.min(Y1,+u.get('von')||Y0)); }   // NaN-fest (hand-editierte URL)
+  if(u.get('bis')){ ymax.value=Math.max(Y0,Math.min(Y1,+u.get('bis')||Y1)); }
+  rlo.textContent=ymin.value; rhi.textContent=ymax.value;
+  if(u.get('wege')==='1'){ wege=true; wegeChk.checked=true; }
+  return u.get('layer')||'geb';
+}
+function undatedInLayer(){
+  if(layer==='verlag') return view.reduce((s,p)=>s+(p.pub||[]).filter(w=>!w.jahr).length,0);
+  const rolle=LAYERS[layer].rolle;
+  return view.reduce((s,p)=>s+(p.route||[]).filter(n=>n.rolle===rolle&&!n.jahr).length,0);
+}
+function updateCap(){
+  if(layer==='verlag'){
     const np=people.filter(p=>(p.pub||[]).length).length;
     const nw=people.reduce((s,p)=>s+(p.pub||[]).length,0);
     cap.innerHTML=`Kreis = <b>Verlagsort</b>, Farbe = Besatzungszone, Größe = Zahl der Übersetzungen.`
       +`<br>${nw} DLBT-Übersetzungen 1945–60 von ${np} von ${people.length} Personen`;
   }else{
-    const L0=LAYERS[l];
+    const L0=LAYERS[layer];
     const placed=people.filter(p=>(p.route||[]).some(n=>n.rolle===L0.rolle)).length;
     cap.innerHTML=`Kreis = <b>${L0.noun}</b>, Größe = Anzahl Personen.<br>${placed} von ${people.length} ${L0.suffix}`
       +(noPlace?`<br><span class="muted">${noPlace} ohne verortbaren Ort — nur in der Kartei-Leiste</span>`:'');
   }
-  chip.style.display='none';
-  renderMap(view); renderFlows(view); renderPlaceList(view);
+  if(timeActive()){
+    const u=undatedInLayer();
+    cap.innerHTML+=`<br><span class="muted">Zeitraum ${ymin.value}–${ymax.value}`
+      +(u?` · ${u} undatierte ausgeblendet`:'')+`</span>`;
+  }
 }
-document.querySelectorAll('.toggle button').forEach(b=>b.addEventListener('click',()=>setLayer(b.dataset.l)));
-wegeChk.addEventListener('change',e=>{ wege=e.target.checked; renderFlows(view); });
-legend.innerHTML=Object.values(ZONE).map(z=>`<span><i style="background:${z.fill}"></i>${esc(z.label)}</span>`).join('');
 
 /* ---------- Laden + Suche ---------- */
 fetch('data/index.json').then(r=>{ if(!r.ok) throw 0; return r.json(); }).then(d=>{
   people=d; view=people;
   noPlace=people.filter(p=>!(p.route||[]).length).length;
-  renderStrip(view); setLayer('geb');
+  buildLangs(); initRange();
+  const startLayer=readURL();   // URL VOR initialem Render anwenden
+  setLayer(startLayer);
 }).catch(()=>{
   strip.innerHTML='<div class="empty">Daten konnten nicht geladen werden. Bitte die Seite über einen lokalen Server öffnen (nicht per Doppelklick / <code>file://</code>).</div>';
   cap.textContent='Keine Daten geladen.';
@@ -237,11 +333,14 @@ fetch('data/index.json').then(r=>{ if(!r.ok) throw 0; return r.json(); }).then(d
 
 let t;
 search.addEventListener('input',e=>{
-  const q=e.target.value.toLowerCase().trim(); lastQuery=e.target.value.trim();
+  lastQuery=e.target.value.trim();
   clearTimeout(t);
-  t=setTimeout(()=>{
-    view = q ? people.filter(p=>(`${p.vor||''} ${p.nach||''}`).toLowerCase().includes(q)) : people;
-    chip.style.display='none';
-    renderStrip(view, emptyMsgFor()); renderMap(view); renderFlows(view); renderPlaceList(view);
-  },110);
+  t=setTimeout(()=>{ chip.style.display='none'; apply(); },110);
+});
+
+addEventListener('popstate',()=>{
+  langSel.value=''; lang=''; lastQuery=''; search.value='';
+  ymin.value=Y0; ymax.value=Y1; rlo.textContent=Y0; rhi.textContent=Y1;
+  wege=false; wegeChk.checked=false;
+  setLayer(readURL());
 });
