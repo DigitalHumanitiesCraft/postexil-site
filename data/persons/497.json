@@ -15,5 +15,10 @@
   "ort": "München",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q94747476",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q94747476",
+  "wikipedia": "https://de.wikipedia.org/wiki/Gertrud_Dahlmann-Stolzenbach"
+ }
 }

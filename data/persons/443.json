@@ -15,5 +15,10 @@
   "ort": "Bad Tölz",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q5195440",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q5195440",
+  "wikipedia": "https://de.wikipedia.org/wiki/Curt_Thesing"
+ }
 }

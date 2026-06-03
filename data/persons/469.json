@@ -15,5 +15,9 @@
   "ort": null,
   "land": null
  },
- "gold": false
+ "gold": false,
+ "qid": "Q131774091",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q131774091"
+ }
 }

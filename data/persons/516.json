@@ -15,5 +15,10 @@
   "ort": "London",
   "land": "Großbritannien"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q103211",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q103211",
+  "wikipedia": "https://de.wikipedia.org/wiki/Henriette_Hardenberg"
+ }
 }

@@ -15,5 +15,9 @@
   "ort": "Haifa",
   "land": "Israel"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q95242920",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q95242920"
+ }
 }

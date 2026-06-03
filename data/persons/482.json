@@ -15,5 +15,9 @@
   "ort": "Wien",
   "land": "Österreich"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q59653114",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q59653114"
+ }
 }

@@ -15,5 +15,9 @@
   "ort": "Florida",
   "land": "USA"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q130794828",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q130794828"
+ }
 }

@@ -15,5 +15,9 @@
   "ort": "Kriens",
   "land": "Schweiz"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q139184140",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q139184140"
+ }
 }

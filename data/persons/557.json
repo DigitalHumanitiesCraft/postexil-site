@@ -15,5 +15,10 @@
   "ort": "Bodman-Ludwigshafen",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q2590530",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q2590530",
+  "wikipedia": "https://de.wikipedia.org/wiki/Wolfgang_Martin_Schede"
+ }
 }

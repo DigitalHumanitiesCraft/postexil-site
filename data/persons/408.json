@@ -15,5 +15,9 @@
   "ort": "Lissabon",
   "land": "Portugal"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q94862719",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q94862719"
+ }
 }

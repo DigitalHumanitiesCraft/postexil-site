@@ -15,5 +15,10 @@
   "ort": "Rio de Janeiro",
   "land": "Brasilien"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q52841151",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q52841151",
+  "wikipedia": "https://de.wikipedia.org/wiki/Max_Moszkowski"
+ }
 }

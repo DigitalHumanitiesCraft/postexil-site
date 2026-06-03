@@ -15,5 +15,10 @@
   "ort": "Luzern",
   "land": "Schweiz"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q94761365",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q94761365",
+  "wikipedia": "https://de.wikipedia.org/wiki/K%C3%A4the_Rosenberg"
+ }
 }

@@ -15,5 +15,9 @@
   "ort": "Gütersloh",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q59528709",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q59528709"
+ }
 }

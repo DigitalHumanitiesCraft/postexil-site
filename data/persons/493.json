@@ -15,5 +15,9 @@
   "ort": "London",
   "land": "Großbritannien"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q55674650",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q55674650"
+ }
 }

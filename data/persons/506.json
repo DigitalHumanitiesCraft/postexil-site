@@ -15,5 +15,10 @@
   "ort": "Bad Tölz",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1427729",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1427729",
+  "wikipedia": "https://de.wikipedia.org/wiki/Hanns_Floerke"
+ }
 }

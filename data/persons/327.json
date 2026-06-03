@@ -15,5 +15,10 @@
   "ort": "Brandenburg an der Havel",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1698661",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1698661",
+  "wikipedia": "https://de.wikipedia.org/wiki/Johannes_W%C3%BCsten"
+ }
 }

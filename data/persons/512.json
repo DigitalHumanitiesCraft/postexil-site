@@ -15,5 +15,10 @@
   "ort": "Berlin",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q95806181",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q95806181",
+  "wikipedia": "https://de.wikipedia.org/wiki/Wolff_von_Gordon"
+ }
 }

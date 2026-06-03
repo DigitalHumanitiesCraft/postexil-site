@@ -61,9 +61,27 @@ function render(p,geo){
     html+=`<p>Aus dem ${esc((p.sprachen.a||['?']).join(', '))} ins ${esc((p.sprachen.z||['?']).join(', '))}.</p>`;
   } else html+=leer('Hier stünden die Sprachen, aus denen und in die diese Person übersetzt hat.','Sprachen-Erfassung');
   html+=`</section>`;
+
+  // Weiterfuehrende Links / Provenienz (US-C4): externe Identifier (Wikidata/Wikipedia/DLBT)
+  html+=`<section><div class="fl"><span>Weiterführende Links</span><span>Provenienz</span></div>`;
+  html+=renderLinks(p);
+  html+=`</section>`;
   s.innerHTML=html;
 
   drawRoute(p,geo); drawLife(p);
+}
+
+// Externe Identifier-Links (US-C4). Reihenfolge fix; nur vorhandene Keys werden gezeigt.
+// Fehlt der Wikidata-Qid -> In-situ-Leerstelle (konsistent mit der uebrigen Seite).
+const LINKLABELS={wikidata:'Wikidata', wikipedia:'Wikipedia', dlbt_translator_query:'DLBT'};
+const SAFE_URL=/^https?:\/\//i;   // nur http(s) rendern (defense-in-depth gegen javascript:/data:)
+function renderLinks(p){
+  const el=p.external_links||{};
+  const items=['wikidata','wikipedia','dlbt_translator_query']
+    .filter(k=>el[k]&&SAFE_URL.test(el[k]))
+    .map(k=>`<a class="xlink" href="${esc(el[k])}" target="_blank" rel="noopener" aria-label="${LINKLABELS[k]} (öffnet in neuem Tab)">${LINKLABELS[k]} <span aria-hidden="true">↗</span></a>`);
+  if(!items.length) return leer('Hier stünden Verweise zu Wikidata, Wikipedia und DLBT.','Wikidata-Verknüpfung');
+  return `<p class="xlinks">${items.join('')}</p>`;
 }
 
 // Werke nach Original (Autor/Titel) gruppieren: Erstausgabe = Werk, spaetere Ausgaben =

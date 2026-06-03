@@ -15,5 +15,10 @@
   "ort": "Princeton",
   "land": "USA"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q99543",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q99543",
+  "wikipedia": "https://de.wikipedia.org/wiki/Victor_Lange"
+ }
 }

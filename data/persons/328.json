@@ -15,5 +15,10 @@
   "ort": "Mexiko-Stadt",
   "land": "Mexiko"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q86289",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q86289",
+  "wikipedia": "https://de.wikipedia.org/wiki/Alice_R%C3%BChle-Gerstel"
+ }
 }

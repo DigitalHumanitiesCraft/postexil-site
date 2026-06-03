@@ -15,5 +15,10 @@
   "ort": "München",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q17488955",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q17488955",
+  "wikipedia": "https://de.wikipedia.org/wiki/Franz_Hoellering"
+ }
 }

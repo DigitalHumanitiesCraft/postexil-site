@@ -15,5 +15,10 @@
   "ort": "München",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q2577434",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q2577434",
+  "wikipedia": "https://de.wikipedia.org/wiki/Willi_Rickmer_Rickmers"
+ }
 }

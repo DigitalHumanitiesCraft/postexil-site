@@ -15,5 +15,10 @@
   "ort": "Frankfurt am Main",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q77490",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q77490",
+  "wikipedia": "https://de.wikipedia.org/wiki/Margarete_Buber-Neumann"
+ }
 }

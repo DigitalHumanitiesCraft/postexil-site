@@ -15,5 +15,10 @@
   "ort": "Kaiserswerth",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q73604",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q73604",
+  "wikipedia": "https://de.wikipedia.org/wiki/Hedda_Eulenberg"
+ }
 }

@@ -15,5 +15,10 @@
   "ort": "Lobberich",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1575723",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1575723",
+  "wikipedia": "https://de.wikipedia.org/wiki/Hanna_Meuter"
+ }
 }

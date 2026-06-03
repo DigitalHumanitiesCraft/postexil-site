@@ -15,5 +15,10 @@
   "ort": "Jena",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1549412",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1549412",
+  "wikipedia": "https://de.wikipedia.org/wiki/Lulu_von_Strau%C3%9F_und_Torney"
+ }
 }

@@ -15,5 +15,10 @@
   "ort": "West-Berlin",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q15818847",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q15818847",
+  "wikipedia": "https://de.wikipedia.org/wiki/G%C3%BCnther_Birkenfeld"
+ }
 }

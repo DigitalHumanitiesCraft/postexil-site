@@ -15,5 +15,10 @@
   "ort": "London",
   "land": "Großbritannien"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q23916495",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q23916495",
+  "wikipedia": "https://de.wikipedia.org/wiki/Egon_Larsen"
+ }
 }

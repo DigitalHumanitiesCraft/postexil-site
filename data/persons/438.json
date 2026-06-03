@@ -15,5 +15,10 @@
   "ort": "Heiligenberg",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1896146",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1896146",
+  "wikipedia": "https://de.wikipedia.org/wiki/Maria_Mathi"
+ }
 }

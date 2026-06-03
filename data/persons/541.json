@@ -15,5 +15,10 @@
   "ort": "Moskau",
   "land": "Russische Föderation"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q208116",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q208116",
+  "wikipedia": "https://de.wikipedia.org/wiki/Sergei_Wladimirowitsch_Michalkow"
+ }
 }

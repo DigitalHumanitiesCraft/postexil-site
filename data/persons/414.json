@@ -15,5 +15,10 @@
   "ort": "Berlin",
   "land": "DDR"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1739003",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1739003",
+  "wikipedia": "https://de.wikipedia.org/wiki/Leonie_Mann"
+ }
 }

@@ -15,5 +15,10 @@
   "ort": "München",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q23062959",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q23062959",
+  "wikipedia": "https://de.wikipedia.org/wiki/Fred_Andreas"
+ }
 }

@@ -15,5 +15,10 @@
   "ort": "London",
   "land": "Großbritannien"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1425761",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1425761",
+  "wikipedia": "https://de.wikipedia.org/wiki/Ludwig_Goldscheider"
+ }
 }

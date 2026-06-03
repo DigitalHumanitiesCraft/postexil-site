@@ -15,5 +15,9 @@
   "ort": "Jerusalem",
   "land": "Israel"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q94639834",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q94639834"
+ }
 }

@@ -15,5 +15,10 @@
   "ort": null,
   "land": null
  },
- "gold": false
+ "gold": false,
+ "qid": "Q2560983",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q2560983",
+  "wikipedia": "https://de.wikipedia.org/wiki/Werner_Cyprys"
+ }
 }

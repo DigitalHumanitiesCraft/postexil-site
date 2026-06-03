@@ -15,5 +15,10 @@
   "ort": "Dresden",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q4251489",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q4251489",
+  "wikipedia": "https://de.wikipedia.org/wiki/Karl_K%C3%B6sting"
+ }
 }

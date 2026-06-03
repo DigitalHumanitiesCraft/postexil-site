@@ -15,5 +15,10 @@
   "ort": "Frankfurt am Main",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q95212149",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q95212149",
+  "wikipedia": "https://de.wikipedia.org/wiki/Maria_Dessauer"
+ }
 }

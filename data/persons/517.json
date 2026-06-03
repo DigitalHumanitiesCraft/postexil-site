@@ -15,5 +15,10 @@
   "ort": "Justizvollzugsanstalt Plötzensee",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q72908",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q72908",
+  "wikipedia": "https://de.wikipedia.org/wiki/Mildred_Harnack-Fish"
+ }
 }

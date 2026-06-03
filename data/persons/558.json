@@ -15,5 +15,10 @@
   "ort": "Darmstadt",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1598736",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1598736",
+  "wikipedia": "https://de.wikipedia.org/wiki/Heinrich_Schirmbeck"
+ }
 }

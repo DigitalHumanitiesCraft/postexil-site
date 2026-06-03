@@ -15,5 +15,10 @@
   "ort": "Wien",
   "land": "Österreich"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q86543",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q86543",
+  "wikipedia": "https://de.wikipedia.org/wiki/Hans_Jaray"
+ }
 }

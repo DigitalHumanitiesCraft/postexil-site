@@ -15,5 +15,10 @@
   "ort": "Zürich",
   "land": "Schweiz"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1793662",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1793662",
+  "wikipedia": "https://de.wikipedia.org/wiki/Kurt_Hirschfeld"
+ }
 }

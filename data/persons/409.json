@@ -15,5 +15,10 @@
   "ort": "München",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q118392",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q118392",
+  "wikipedia": "https://de.wikipedia.org/wiki/Pinkas_Braun"
+ }
 }

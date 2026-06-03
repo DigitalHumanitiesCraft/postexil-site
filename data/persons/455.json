@@ -15,5 +15,10 @@
   "ort": "Berlin",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q97372",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q97372",
+  "wikipedia": "https://de.wikipedia.org/wiki/Margret_Boveri"
+ }
 }

@@ -15,5 +15,10 @@
   "ort": "Berlin",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q23565844",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q23565844",
+  "wikipedia": "https://de.wikipedia.org/wiki/Ernst_Schoen_(Komponist)"
+ }
 }

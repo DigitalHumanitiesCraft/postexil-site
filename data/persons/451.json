@@ -15,5 +15,10 @@
   "ort": "Berlin",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q18620703",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q18620703",
+  "wikipedia": "https://de.wikipedia.org/wiki/Egon_Strohm"
+ }
 }

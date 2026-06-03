@@ -15,5 +15,10 @@
   "ort": "Hamburg",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q55674494",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q55674494",
+  "wikipedia": "https://de.wikipedia.org/wiki/Kurt_Heinrich_Hansen"
+ }
 }

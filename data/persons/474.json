@@ -15,5 +15,10 @@
   "ort": "Bad Hindelang",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1732148",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1732148",
+  "wikipedia": "https://de.wikipedia.org/wiki/Karl_Lerbs_(Schriftsteller)"
+ }
 }

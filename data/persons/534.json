@@ -15,5 +15,10 @@
   "ort": "München",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1670005",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1670005",
+  "wikipedia": "https://de.wikipedia.org/wiki/Joe_Lederer"
+ }
 }

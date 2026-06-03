@@ -15,5 +15,10 @@
   "ort": "Halle (Saale)",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q807390",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q807390",
+  "wikipedia": "https://de.wikipedia.org/wiki/Barbara_Cramer-Nauhaus"
+ }
 }

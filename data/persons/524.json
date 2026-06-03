@@ -15,5 +15,10 @@
   "ort": "Wiesbaden",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q55681258",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q55681258",
+  "wikipedia": "https://de.wikipedia.org/wiki/Axel_Ivers"
+ }
 }

@@ -15,5 +15,10 @@
   "ort": "Jerusalem",
   "land": "Israel"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q84423",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q84423",
+  "wikipedia": "https://de.wikipedia.org/wiki/Martin_Buber"
+ }
 }

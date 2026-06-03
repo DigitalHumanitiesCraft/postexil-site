@@ -15,5 +15,10 @@
   "ort": "Schwäbisch Hall",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q15450812",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q15450812",
+  "wikipedia": "https://de.wikipedia.org/wiki/Helmut_M._Braem"
+ }
 }

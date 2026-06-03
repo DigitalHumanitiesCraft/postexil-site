@@ -15,5 +15,9 @@
   "ort": "Paris",
   "land": "Frankreich"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q139156834",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q139156834"
+ }
 }

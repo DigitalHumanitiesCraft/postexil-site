@@ -15,5 +15,9 @@
   "ort": "Lugano",
   "land": "Schweiz"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q95263524",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q95263524"
+ }
 }

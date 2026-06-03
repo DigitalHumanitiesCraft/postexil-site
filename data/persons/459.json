@@ -15,5 +15,10 @@
   "ort": "Tutzing",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q105612",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q105612",
+  "wikipedia": "https://de.wikipedia.org/wiki/Wilhelm_Emanuel_S%C3%BCskind"
+ }
 }

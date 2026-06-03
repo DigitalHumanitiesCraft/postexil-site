@@ -15,5 +15,10 @@
   "ort": "Berlin",
   "land": "Deutschland"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q1560494",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q1560494",
+  "wikipedia": "https://de.wikipedia.org/wiki/Kurt_Erich_Meurer"
+ }
 }

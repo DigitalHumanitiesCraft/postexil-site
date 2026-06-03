@@ -15,5 +15,10 @@
   "ort": "New York City",
   "land": "USA"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q18818897",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q18818897",
+  "wikipedia": "https://de.wikipedia.org/wiki/Stefanie_Kiesler"
+ }
 }

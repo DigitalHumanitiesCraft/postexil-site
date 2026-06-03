@@ -15,5 +15,10 @@
   "ort": "Bern",
   "land": "Schweiz"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q23059605",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q23059605",
+  "wikipedia": "https://de.wikipedia.org/wiki/Gisela_Etzel"
+ }
 }

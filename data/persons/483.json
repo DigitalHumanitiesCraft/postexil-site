@@ -15,5 +15,9 @@
   "ort": "Mexiko-Stadt",
   "land": "Mexiko"
  },
- "gold": false
+ "gold": false,
+ "qid": "Q65048543",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q65048543"
+ }
 }

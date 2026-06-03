@@ -1,9 +1,9 @@
 {
  "name_id": 30,
- "slug": "wolfensteiner-alfred",
+ "slug": "wolfenstein-alfred",
  "name": {
   "vor": "Alfred",
-  "nach": "Wolfensteiner"
+  "nach": "Wolfenstein"
  },
  "geb": {
   "jahr": 1883,
@@ -50,5 +50,9 @@
    "Englisch",
    "Französisch"
   ]
+ },
+ "qid": "Q2646151",
+ "external_links": {
+  "wikidata": "https://www.wikidata.org/wiki/Q2646151"
  }
 }
