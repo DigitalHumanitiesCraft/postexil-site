@@ -37,6 +37,7 @@
   .filters{margin:7px 0;display:flex;flex-direction:column;gap:7px}
   .filters select{width:100%;font-family:'IBM Plex Mono',monospace;font-size:11px;
     border:1px solid var(--rule);border-radius:4px;padding:4px 6px;background:var(--sheet);color:var(--ink)}
+  .langhint{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--ink2);padding:0 2px;margin-top:-3px}
   .range{position:relative;height:30px}
   .range::before{content:"";position:absolute;top:7px;left:0;right:0;height:3px;border-radius:2px;background:var(--rule)}
   .range input[type=range]{position:absolute;top:8px;left:0;width:100%;height:0;margin:0;
@@ -125,7 +126,8 @@
   </div>
   <div id="cap" class="cap"></div>
   <div class="filters">
-    <select id="lang" aria-label="Nach Ausgangssprache filtern"><option value="">Alle Sprachen</option></select>
+    <select id="lang" aria-label="Nach Ausgangssprache filtern"><option value="">Ausgangssprache: alle</option></select>
+    <div id="langhint" class="langhint"></div>
     <div class="range" role="group" aria-label="Zeitraum eingrenzen">
       <input type="range" id="ymin" step="1" aria-label="Zeitraum von">
       <input type="range" id="ymax" step="1" aria-label="Zeitraum bis">

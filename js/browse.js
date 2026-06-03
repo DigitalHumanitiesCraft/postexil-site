@@ -9,6 +9,7 @@ const cap=document.getElementById('cap');
 const wegehint=document.getElementById('wegehint');
 const places=document.getElementById('places');
 const langSel=document.getElementById('lang');
+const langHint=document.getElementById('langhint');
 const ymin=document.getElementById('ymin'), ymax=document.getElementById('ymax');
 const rlo=document.getElementById('rlo'), rhi=document.getElementById('rhi');
 const legend=document.getElementById('legend');
@@ -30,10 +31,10 @@ const esc=s=>(s??'').toString().replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>
 const plural=n=>n===1?'Person':'Personen';
 
 const LAYERS={
-  geb:  {rolle:'Geburt',      fill:'#7a6f59', verb:'geboren',       noun:'Geburtsort',   suffix:'verortet'},
-  exil: {rolle:'Exil',        fill:'#5f7a86', verb:'im Exil',       noun:'Exilstation',  suffix:'mit Exil'},
-  remig:{rolle:'Remigration', fill:'#5f8a64', verb:'zurückgekehrt', noun:'Rückkehr-Ort', suffix:'mit Rückkehr-Daten'},
-  tod:  {rolle:'Tod',         fill:'#8a6f86', verb:'gestorben',     noun:'Sterbeort',    suffix:'mit Sterbeort'},
+  geb:  {rolle:'Geburt',      fill:'#7a6f59', verb:'geboren',       noun:'Geburtsort'},
+  exil: {rolle:'Exil',        fill:'#5f7a86', verb:'im Exil',       noun:'Exilstation'},
+  remig:{rolle:'Remigration', fill:'#5f8a64', verb:'zurückgekehrt', noun:'Rückkehr-Ort'},
+  tod:  {rolle:'Tod',         fill:'#8a6f86', verb:'gestorben',     noun:'Sterbeort'},
 };
 // Verlag/Zone-Ebene (#19): werk-zentriert, Kreis-Farbe = Besatzungszone des Verlagsorts.
 // fill-Hex == tokens.css --us/--uk/--fr/--su/--b4 (neutral == --ink2); Legende wird daraus gebaut.
@@ -231,6 +232,17 @@ function buildLangs(){
     const o=document.createElement('option'); o.value=l; o.textContent=`${l} (${n})`; langSel.appendChild(o);
   });
 }
+// Klarstellung: "alle" = ganzes Korpus inkl. der ~184 ohne erfasste Sprachrichtung;
+// gewaehlte Sprache = Ausgangssprache (woraus uebersetzt wurde).
+function updateLangHint(){
+  if(lang){
+    const n=people.filter(p=>(p.langs_a||[]).includes(lang)).length;
+    langHint.textContent=`${n} mit Ausgangssprache ${lang}`;
+  }else{
+    const n=people.filter(p=>(p.langs_a||[]).length).length;
+    langHint.textContent=`${n} von ${people.length} mit erfasster Ausgangssprache`;
+  }
+}
 function yearBounds(){
   let lo=Infinity, hi=-Infinity;
   people.forEach(p=>{
@@ -267,7 +279,7 @@ function personInWindow(p){
 // Karte zeigt Marker im Fenster (via aggregate/inWindow); die Leiste die zugehoerigen Personen.
 function stripList(){ return timeActive() ? view.filter(personInWindow) : view; }
 function renderAll(){
-  updateCap();
+  updateCap(); updateLangHint();
   renderMap(view); renderFlows(view); renderPlaceList(view);
   if(chip.style.display==='none') renderStrip(stripList(), emptyMsgFor());
 }
@@ -309,8 +321,8 @@ function updateCap(){
   }else{
     const L0=LAYERS[layer];
     const placed=people.filter(p=>(p.route||[]).some(n=>n.rolle===L0.rolle)).length;
-    cap.innerHTML=`Kreis = <b>${L0.noun}</b>, Größe = Anzahl Personen.<br>${placed} von ${people.length} ${L0.suffix}`
-      +(noPlace?`<br><span class="muted">${noPlace} ohne verortbaren Ort — nur in der Kartei-Leiste</span>`:'');
+    cap.innerHTML=`Kreis = <b>${L0.noun}</b>, Größe = Anzahl Personen.<br>${L0.noun} bekannt: ${placed} von ${people.length}`
+      +(noPlace?`<br><span class="muted">Ganz ohne Ortsdaten: ${noPlace} — nur in der Kartei-Leiste</span>`:'');
   }
   if(timeActive()){
     const u=undatedInLayer();
