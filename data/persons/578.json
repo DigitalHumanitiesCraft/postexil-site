@@ -1,0 +1,47 @@
+{
+ "name_id": 578,
+ "slug": "abosch-heinz",
+ "name": {
+  "vor": "Heinz",
+  "nach": "Abosch"
+ },
+ "geb": {
+  "jahr": 1918,
+  "ort": "Magdeburg",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1997,
+  "ort": "Düsseldorf",
+  "land": "Deutschland"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Strassburg",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1936,
+   "ort": "Paris",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": 1938,
+   "ort": "Saint-Diès-des Vosges",
+   "land": "Frankreich",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Französisch"
+  ],
+  "a": [
+   "Deutsch"
+  ]
+ }
+}

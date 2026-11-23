@@ -1,0 +1,19 @@
+{
+ "name_id": 577,
+ "slug": "zaisser-elisabeth-auguste",
+ "name": {
+  "vor": "Elisabeth Auguste",
+  "nach": "Zaisser"
+ },
+ "geb": {
+  "jahr": 1898,
+  "ort": "Düsseldorf",
+  "land": "Deutsches Reich"
+ },
+ "tod": {
+  "jahr": 1987,
+  "ort": "Berlin",
+  "land": "DDR"
+ },
+ "gold": false
+}

@@ -1,0 +1,39 @@
+{
+ "name_id": 581,
+ "slug": "bin-gorion-rahel",
+ "name": {
+  "vor": "Rahel",
+  "nach": "Bin-Gorion"
+ },
+ "geb": {
+  "jahr": 1889,
+  "ort": "Vischtinets",
+  "land": "Russisches Kaiserreich"
+ },
+ "tod": {
+  "jahr": 1955,
+  "ort": "Tel-Aviv",
+  "land": "Israel"
+ },
+ "gold": false,
+ "trajectory": [
+  {
+   "jahr": 1933,
+   "ort": "Tel-Aviv",
+   "land": "Palästina",
+   "rolle": "Exil"
+  }
+ ],
+ "sprachen": {
+  "z": [
+   "Deutsch",
+   "Hebräisch"
+  ],
+  "a": [
+   "Deutsch",
+   "Hebräisch",
+   "Jiddisch",
+   "Russisch"
+  ]
+ }
+}

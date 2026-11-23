@@ -16,6 +16,20 @@
   "land": "Deutschland"
  },
  "gold": false,
+ "trajectory": [
+  {
+   "jahr": null,
+   "ort": "Dorridge",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  },
+  {
+   "jahr": null,
+   "ort": "London",
+   "land": "Großbritannien",
+   "rolle": "Exil"
+  }
+ ],
  "qid": "Q94285950",
  "external_links": {
   "wikidata": "https://www.wikidata.org/wiki/Q94285950"

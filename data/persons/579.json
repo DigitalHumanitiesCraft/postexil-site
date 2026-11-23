@@ -1,0 +1,19 @@
+{
+ "name_id": 579,
+ "slug": "ackerknecht-erwin-heinz",
+ "name": {
+  "vor": "Erwin Heinz",
+  "nach": "Ackerknecht"
+ },
+ "geb": {
+  "jahr": 1906,
+  "ort": "Stettin",
+  "land": null
+ },
+ "tod": {
+  "jahr": null,
+  "ort": null,
+  "land": null
+ },
+ "gold": false
+}
