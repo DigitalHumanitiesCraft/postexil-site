@@ -1,8 +1,12 @@
-const map = L.map('map',{zoomControl:false,attributionControl:false}).setView([48.5,10],4.3);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{maxZoom:19}).addTo(map);
+const map = L.map('map',{zoomControl:false}).setView([48.5,10],4.3);
+// CARTO-Basemaps brauchen einen Key (Basemap-Terms vom 29.09.2026); Key per Referer auf dhcraft.org, *.dhcraft.org, gams.uni-graz.at beschränkt, Attribution ist Pflicht.
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_5eg8_1_be962ea4ccd7027997eadff6',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/attributions">CARTO</a>'}).addTo(map);
 addEventListener('resize',()=>map.invalidateSize());
 
 const strip=document.getElementById('strip');
+// Attribution unten rechts ueber der Kartei-Leiste halten (die Leiste ist fixed und liegt ueber der Karte; oben verdeckt die Suche sie auf schmalen Viewports)
+const attrBox=map.getContainer().querySelector('.leaflet-bottom.leaflet-right');
+new ResizeObserver(()=>{attrBox.style.bottom=strip.offsetHeight+'px'}).observe(strip);
 const search=document.getElementById('search');
 const chip=document.getElementById('chip');
 const cap=document.getElementById('cap');

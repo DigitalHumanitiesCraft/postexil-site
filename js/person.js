@@ -1,6 +1,7 @@
 const id = new URLSearchParams(location.search).get('id');
-const map = L.map('map',{zoomControl:false,attributionControl:false}).setView([48,8],4);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{maxZoom:19}).addTo(map);
+const map = L.map('map',{zoomControl:false}).setView([48,8],4);
+// CARTO-Basemaps brauchen einen Key (Basemap-Terms vom 29.09.2026); Key per Referer auf dhcraft.org, *.dhcraft.org, gams.uni-graz.at beschränkt, Attribution ist Pflicht.
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_5eg8_1_be962ea4ccd7027997eadff6',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/attributions">CARTO</a>'}).addTo(map);
 addEventListener('resize',()=>map.invalidateSize());
 
 const esc=s=>(s??'').toString().replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
